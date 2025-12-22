@@ -1,0 +1,47 @@
+{
+  "total_nodes": 38,
+  "total_domains": 6,
+  "total_patterns": 0,
+  "solutions": [
+    {
+      "challenge": "Drug Discovery for Rare Diseases",
+      "domain": "medicine",
+      "confidence_score": 0.7054952562093741,
+      "novel_approaches": [
+        "Rapid adaptation protocol using meta-learned initialization"
+      ],
+      "num_insights": 0,
+      "num_patterns": 0
+    },
+    {
+      "challenge": "Earthquake Early Warning System",
+      "domain": "geology",
+      "confidence_score": 0.8622843251337635,
+      "novel_approaches": [
+        "Rapid adaptation protocol using meta-learned initialization"
+      ],
+      "num_insights": 0,
+      "num_patterns": 0
+    },
+    {
+      "challenge": "Asteroid Impact Prevention",
+      "domain": "astronomy",
+      "confidence_score": 0.9498271756875346,
+      "novel_approaches": [
+        "Rapid adaptation protocol using meta-learned initialization"
+      ],
+      "num_insights": 0,
+      "num_patterns": 0
+    },
+    {
+      "challenge": "Climate-Resilient Agriculture",
+      "domain": "climate",
+      "confidence_score": 0.7391264299831131,
+      "novel_approaches": [
+        "Rapid adaptation protocol using meta-learned initialization"
+      ],
+      "num_insights": 0,
+      "num_patterns": 0
+    }
+  ]
+}
