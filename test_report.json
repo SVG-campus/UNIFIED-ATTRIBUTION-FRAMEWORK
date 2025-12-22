@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-22T21:00:15.972364",
+  "timestamp": "2025-12-22T22:17:05.555212",
   "total_tests": 11,
   "successes": 11,
   "failures": 0,
@@ -7,78 +7,78 @@
     {
       "name": "mathematics",
       "success": true,
-      "duration": 1.5317258834838867,
-      "timestamp": "2025-12-22T21:00:04.699894",
+      "duration": 14.374467611312866,
+      "timestamp": "2025-12-22T22:16:37.876525",
       "error": null
     },
     {
       "name": "marketing_attribution",
       "success": true,
-      "duration": 0.9520931243896484,
-      "timestamp": "2025-12-22T21:00:06.231810",
+      "duration": 3.00663685798645,
+      "timestamp": "2025-12-22T22:16:52.251100",
       "error": null
     },
     {
       "name": "physics_quantum",
       "success": true,
-      "duration": 0.11709451675415039,
-      "timestamp": "2025-12-22T21:00:07.184046",
+      "duration": 0.3579413890838623,
+      "timestamp": "2025-12-22T22:16:55.257830",
       "error": null
     },
     {
       "name": "physics_classical",
       "success": true,
-      "duration": 1.040252447128296,
-      "timestamp": "2025-12-22T21:00:07.301294",
+      "duration": 1.1966490745544434,
+      "timestamp": "2025-12-22T22:16:55.615851",
       "error": null
     },
     {
       "name": "economics_macro",
       "success": true,
-      "duration": 1.1146538257598877,
-      "timestamp": "2025-12-22T21:00:08.341690",
+      "duration": 1.7280774116516113,
+      "timestamp": "2025-12-22T22:16:56.812612",
       "error": null
     },
     {
       "name": "art_aesthetics",
       "success": true,
-      "duration": 1.0442092418670654,
-      "timestamp": "2025-12-22T21:00:09.456487",
+      "duration": 1.2588961124420166,
+      "timestamp": "2025-12-22T22:16:58.540782",
       "error": null
     },
     {
       "name": "psychology_cognition",
       "success": true,
-      "duration": 1.0978012084960938,
-      "timestamp": "2025-12-22T21:00:10.500859",
+      "duration": 1.163031816482544,
+      "timestamp": "2025-12-22T22:16:59.799778",
       "error": null
     },
     {
       "name": "biology_genetics",
       "success": true,
-      "duration": 1.1157033443450928,
-      "timestamp": "2025-12-22T21:00:11.598832",
+      "duration": 1.1305294036865234,
+      "timestamp": "2025-12-22T22:17:00.962929",
       "error": null
     },
     {
       "name": "chemistry_reactions",
       "success": true,
-      "duration": 1.0446269512176514,
-      "timestamp": "2025-12-22T21:00:12.714678",
+      "duration": 1.1348893642425537,
+      "timestamp": "2025-12-22T22:17:02.093544",
       "error": null
     },
     {
       "name": "medicine_clinical",
       "success": true,
-      "duration": 1.0423688888549805,
-      "timestamp": "2025-12-22T21:00:13.759455",
+      "duration": 1.2045085430145264,
+      "timestamp": "2025-12-22T22:17:03.228525",
       "error": null
     },
     {
       "name": "linguistics_meaning",
       "success": true,
-      "duration": 1.1700501441955566,
-      "timestamp": "2025-12-22T21:00:14.801967",
+      "duration": 1.1219992637634277,
+      "timestamp": "2025-12-22T22:17:04.433121",
       "error": null
     }
   ]

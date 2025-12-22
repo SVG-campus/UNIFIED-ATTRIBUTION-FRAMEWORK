@@ -1,0 +1,324 @@
+{
+  "timestamp": "2025-12-22T22:17:05.681263",
+  "original_test_summary": {
+    "total_tests": 11,
+    "successes": 11,
+    "failures": 0
+  },
+  "test_results": [
+    {
+      "name": "mathematics",
+      "success": true,
+      "duration": 14.374467611312866,
+      "timestamp": "2025-12-22T22:16:37.876525",
+      "error": null
+    },
+    {
+      "name": "marketing_attribution",
+      "success": true,
+      "duration": 3.00663685798645,
+      "timestamp": "2025-12-22T22:16:52.251100",
+      "error": null
+    },
+    {
+      "name": "physics_quantum",
+      "success": true,
+      "duration": 0.3579413890838623,
+      "timestamp": "2025-12-22T22:16:55.257830",
+      "error": null
+    },
+    {
+      "name": "physics_classical",
+      "success": true,
+      "duration": 1.1966490745544434,
+      "timestamp": "2025-12-22T22:16:55.615851",
+      "error": null
+    },
+    {
+      "name": "economics_macro",
+      "success": true,
+      "duration": 1.7280774116516113,
+      "timestamp": "2025-12-22T22:16:56.812612",
+      "error": null
+    },
+    {
+      "name": "art_aesthetics",
+      "success": true,
+      "duration": 1.2588961124420166,
+      "timestamp": "2025-12-22T22:16:58.540782",
+      "error": null
+    },
+    {
+      "name": "psychology_cognition",
+      "success": true,
+      "duration": 1.163031816482544,
+      "timestamp": "2025-12-22T22:16:59.799778",
+      "error": null
+    },
+    {
+      "name": "biology_genetics",
+      "success": true,
+      "duration": 1.1305294036865234,
+      "timestamp": "2025-12-22T22:17:00.962929",
+      "error": null
+    },
+    {
+      "name": "chemistry_reactions",
+      "success": true,
+      "duration": 1.1348893642425537,
+      "timestamp": "2025-12-22T22:17:02.093544",
+      "error": null
+    },
+    {
+      "name": "medicine_clinical",
+      "success": true,
+      "duration": 1.2045085430145264,
+      "timestamp": "2025-12-22T22:17:03.228525",
+      "error": null
+    },
+    {
+      "name": "linguistics_meaning",
+      "success": true,
+      "duration": 1.1219992637634277,
+      "timestamp": "2025-12-22T22:17:04.433121",
+      "error": null
+    }
+  ],
+  "relationship_analysis": {
+    "total_domains": 11,
+    "total_patterns": 11,
+    "total_relationships": 54,
+    "strongest_relationships": [
+      {
+        "domain_a": "psychology_cognition",
+        "domain_b": "chemistry_reactions",
+        "similarity_score": 1.0,
+        "shared_patterns": [
+          "test_execution\u2194test_execution"
+        ],
+        "analogies": [
+          {
+            "from": "psychology_cognition.test_execution",
+            "to": "chemistry_reactions.test_execution",
+            "similarity": 1.0
+          }
+        ]
+      },
+      {
+        "domain_a": "chemistry_reactions",
+        "domain_b": "medicine_clinical",
+        "similarity_score": 1.0,
+        "shared_patterns": [
+          "test_execution\u2194test_execution"
+        ],
+        "analogies": [
+          {
+            "from": "chemistry_reactions.test_execution",
+            "to": "medicine_clinical.test_execution",
+            "similarity": 1.0
+          }
+        ]
+      },
+      {
+        "domain_a": "psychology_cognition",
+        "domain_b": "medicine_clinical",
+        "similarity_score": 0.999,
+        "shared_patterns": [
+          "test_execution\u2194test_execution"
+        ],
+        "analogies": [
+          {
+            "from": "psychology_cognition.test_execution",
+            "to": "medicine_clinical.test_execution",
+            "similarity": 0.999
+          }
+        ]
+      },
+      {
+        "domain_a": "biology_genetics",
+        "domain_b": "chemistry_reactions",
+        "similarity_score": 0.999,
+        "shared_patterns": [
+          "test_execution\u2194test_execution"
+        ],
+        "analogies": [
+          {
+            "from": "biology_genetics.test_execution",
+            "to": "chemistry_reactions.test_execution",
+            "similarity": 0.999
+          }
+        ]
+      },
+      {
+        "domain_a": "biology_genetics",
+        "domain_b": "medicine_clinical",
+        "similarity_score": 0.999,
+        "shared_patterns": [
+          "test_execution\u2194test_execution"
+        ],
+        "analogies": [
+          {
+            "from": "biology_genetics.test_execution",
+            "to": "medicine_clinical.test_execution",
+            "similarity": 0.999
+          }
+        ]
+      },
+      {
+        "domain_a": "psychology_cognition",
+        "domain_b": "biology_genetics",
+        "similarity_score": 0.998,
+        "shared_patterns": [
+          "test_execution\u2194test_execution"
+        ],
+        "analogies": [
+          {
+            "from": "psychology_cognition.test_execution",
+            "to": "biology_genetics.test_execution",
+            "similarity": 0.998
+          }
+        ]
+      },
+      {
+        "domain_a": "physics_classical",
+        "domain_b": "linguistics_meaning",
+        "similarity_score": 0.997,
+        "shared_patterns": [
+          "test_execution\u2194test_execution"
+        ],
+        "analogies": [
+          {
+            "from": "physics_classical.test_execution",
+            "to": "linguistics_meaning.test_execution",
+            "similarity": 0.997
+          }
+        ]
+      },
+      {
+        "domain_a": "biology_genetics",
+        "domain_b": "linguistics_meaning",
+        "similarity_score": 0.997,
+        "shared_patterns": [
+          "test_execution\u2194test_execution"
+        ],
+        "analogies": [
+          {
+            "from": "biology_genetics.test_execution",
+            "to": "linguistics_meaning.test_execution",
+            "similarity": 0.997
+          }
+        ]
+      },
+      {
+        "domain_a": "chemistry_reactions",
+        "domain_b": "linguistics_meaning",
+        "similarity_score": 0.994,
+        "shared_patterns": [
+          "test_execution\u2194test_execution"
+        ],
+        "analogies": [
+          {
+            "from": "chemistry_reactions.test_execution",
+            "to": "linguistics_meaning.test_execution",
+            "similarity": 0.994
+          }
+        ]
+      },
+      {
+        "domain_a": "medicine_clinical",
+        "domain_b": "linguistics_meaning",
+        "similarity_score": 0.994,
+        "shared_patterns": [
+          "test_execution\u2194test_execution"
+        ],
+        "analogies": [
+          {
+            "from": "medicine_clinical.test_execution",
+            "to": "linguistics_meaning.test_execution",
+            "similarity": 0.994
+          }
+        ]
+      }
+    ],
+    "domain_connectivity": {
+      "psychology_cognition": 10,
+      "chemistry_reactions": 10,
+      "medicine_clinical": 10,
+      "biology_genetics": 10,
+      "physics_classical": 10,
+      "linguistics_meaning": 10,
+      "economics_macro": 10,
+      "art_aesthetics": 10,
+      "mathematics": 9,
+      "marketing_attribution": 10,
+      "physics_quantum": 9
+    },
+    "universal_patterns": [
+      {
+        "pattern": "test_execution\u2194test_execution",
+        "frequency": 54,
+        "domains": [
+          "psychology_cognition-chemistry_reactions",
+          "chemistry_reactions-medicine_clinical",
+          "psychology_cognition-medicine_clinical",
+          "biology_genetics-chemistry_reactions",
+          "biology_genetics-medicine_clinical",
+          "psychology_cognition-biology_genetics",
+          "physics_classical-linguistics_meaning",
+          "biology_genetics-linguistics_meaning",
+          "chemistry_reactions-linguistics_meaning",
+          "medicine_clinical-linguistics_meaning",
+          "physics_classical-biology_genetics",
+          "psychology_cognition-linguistics_meaning",
+          "physics_classical-economics_macro",
+          "physics_classical-medicine_clinical",
+          "physics_classical-chemistry_reactions",
+          "art_aesthetics-psychology_cognition",
+          "economics_macro-linguistics_meaning",
+          "economics_macro-medicine_clinical",
+          "physics_classical-psychology_cognition",
+          "economics_macro-biology_genetics",
+          "art_aesthetics-chemistry_reactions",
+          "art_aesthetics-medicine_clinical",
+          "economics_macro-chemistry_reactions",
+          "economics_macro-psychology_cognition",
+          "art_aesthetics-biology_genetics",
+          "mathematics-marketing_attribution",
+          "art_aesthetics-linguistics_meaning",
+          "marketing_attribution-art_aesthetics",
+          "economics_macro-art_aesthetics",
+          "marketing_attribution-economics_macro",
+          "physics_classical-art_aesthetics",
+          "marketing_attribution-medicine_clinical",
+          "marketing_attribution-psychology_cognition",
+          "marketing_attribution-chemistry_reactions",
+          "marketing_attribution-biology_genetics",
+          "physics_quantum-linguistics_meaning",
+          "physics_quantum-biology_genetics",
+          "physics_quantum-chemistry_reactions",
+          "physics_quantum-physics_classical",
+          "marketing_attribution-linguistics_meaning",
+          "physics_quantum-psychology_cognition",
+          "physics_quantum-medicine_clinical",
+          "marketing_attribution-physics_classical",
+          "mathematics-economics_macro",
+          "mathematics-art_aesthetics",
+          "physics_quantum-art_aesthetics",
+          "physics_quantum-economics_macro",
+          "mathematics-medicine_clinical",
+          "mathematics-psychology_cognition",
+          "mathematics-chemistry_reactions",
+          "mathematics-biology_genetics",
+          "mathematics-linguistics_meaning",
+          "mathematics-physics_classical",
+          "marketing_attribution-physics_quantum"
+        ]
+      }
+    ]
+  },
+  "performance_summary": {
+    "total_duration": 27.77395248413086,
+    "fastest_test": "physics_quantum",
+    "slowest_test": "mathematics"
+  }
+}
