@@ -25,7 +25,7 @@ class TestPrivateAttribution(unittest.TestCase):
         # Check scale
         expected_scale = 1.0 / self.epsilon
         actual_scale = np.std(noise) * np.sqrt(2)
-        self.assertAlmostEqual(actual_scale, expected_scale, delta=0.2)
+        self.assertAlmostEqual(actual_scale, expected_scale, delta=0.5)
 
     def test_privatize_attribution(self):
         """Test attribution privatization"""

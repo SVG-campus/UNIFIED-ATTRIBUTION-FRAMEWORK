@@ -7,6 +7,7 @@ import numpy as np
 from typing import List, Dict, Callable, Tuple
 from itertools import combinations
 import time
+import math
 
 
 class FastShapleyAttribution:
@@ -93,9 +94,9 @@ class FastShapleyAttribution:
                         v_with = self.value_function(coalition_with_player)
 
                         marginal = v_with - v_coalition
-                        weight = (np.math.factorial(r) * 
-                                 np.math.factorial(self.n_players - r - 1) /
-                                 np.math.factorial(self.n_players))
+                        weight = (math.factorial(r) * 
+                                 math.factorial(self.n_players - r - 1) / 
+                                 math.factorial(self.n_players))
 
                         shapley_values[player] += weight * marginal
 
