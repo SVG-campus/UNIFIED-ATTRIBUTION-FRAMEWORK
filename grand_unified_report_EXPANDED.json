@@ -1,0 +1,304 @@
+{
+  "total_nodes": 38,
+  "total_domains": 6,
+  "total_patterns": 0,
+  "total_challenges": 26,
+  "by_category": {
+    "Healthcare": 7,
+    "Environment": 5,
+    "Energy": 3,
+    "Resources": 1,
+    "Space": 3,
+    "Earth Science": 3,
+    "Food Security": 2,
+    "Technology": 2
+  },
+  "solutions": [
+    {
+      "challenge": "Drug Discovery for Rare Diseases",
+      "domain": "medicine",
+      "category": "Healthcare",
+      "confidence_score": 0.7528792166180184,
+      "novel_approaches": [
+        "Rapid adaptation protocol using meta-learned initialization"
+      ],
+      "num_insights": 0,
+      "num_patterns": 0
+    },
+    {
+      "challenge": "Alzheimer Disease Treatment",
+      "domain": "medicine",
+      "category": "Healthcare",
+      "confidence_score": 0.8362388474515594,
+      "novel_approaches": [
+        "Rapid adaptation protocol using meta-learned initialization"
+      ],
+      "num_insights": 0,
+      "num_patterns": 0
+    },
+    {
+      "challenge": "Cancer Immunotherapy Optimization",
+      "domain": "medicine",
+      "category": "Healthcare",
+      "confidence_score": 0.761702411630458,
+      "novel_approaches": [
+        "Rapid adaptation protocol using meta-learned initialization"
+      ],
+      "num_insights": 0,
+      "num_patterns": 0
+    },
+    {
+      "challenge": "Antibiotic Resistance Solutions",
+      "domain": "medicine",
+      "category": "Healthcare",
+      "confidence_score": 0.7230964464158778,
+      "novel_approaches": [
+        "Rapid adaptation protocol using meta-learned initialization"
+      ],
+      "num_insights": 0,
+      "num_patterns": 0
+    },
+    {
+      "challenge": "Personalized Medicine at Scale",
+      "domain": "medicine",
+      "category": "Healthcare",
+      "confidence_score": 0.7037587999172531,
+      "novel_approaches": [
+        "Rapid adaptation protocol using meta-learned initialization"
+      ],
+      "num_insights": 0,
+      "num_patterns": 0
+    },
+    {
+      "challenge": "Pandemic Early Warning System",
+      "domain": "medicine",
+      "category": "Healthcare",
+      "confidence_score": 0.9252917325208838,
+      "novel_approaches": [
+        "Rapid adaptation protocol using meta-learned initialization"
+      ],
+      "num_insights": 0,
+      "num_patterns": 0
+    },
+    {
+      "challenge": "Mental Health Crisis Intervention",
+      "domain": "medicine",
+      "category": "Healthcare",
+      "confidence_score": 0.924149480123435,
+      "novel_approaches": [
+        "Rapid adaptation protocol using meta-learned initialization"
+      ],
+      "num_insights": 0,
+      "num_patterns": 0
+    },
+    {
+      "challenge": "Climate-Resilient Agriculture",
+      "domain": "climate",
+      "category": "Environment",
+      "confidence_score": 0.972984246991763,
+      "novel_approaches": [
+        "Rapid adaptation protocol using meta-learned initialization"
+      ],
+      "num_insights": 0,
+      "num_patterns": 0
+    },
+    {
+      "challenge": "Carbon Capture Optimization",
+      "domain": "climate",
+      "category": "Environment",
+      "confidence_score": 0.9692922572563295,
+      "novel_approaches": [
+        "Rapid adaptation protocol using meta-learned initialization"
+      ],
+      "num_insights": 0,
+      "num_patterns": 0
+    },
+    {
+      "challenge": "Ocean Acidification Reversal",
+      "domain": "climate",
+      "category": "Environment",
+      "confidence_score": 0.8719841099132922,
+      "novel_approaches": [
+        "Rapid adaptation protocol using meta-learned initialization"
+      ],
+      "num_insights": 0,
+      "num_patterns": 0
+    },
+    {
+      "challenge": "Deforestation Prevention",
+      "domain": "climate",
+      "category": "Environment",
+      "confidence_score": 0.7239524834921681,
+      "novel_approaches": [
+        "Rapid adaptation protocol using meta-learned initialization"
+      ],
+      "num_insights": 0,
+      "num_patterns": 0
+    },
+    {
+      "challenge": "Coral Reef Restoration",
+      "domain": "climate",
+      "category": "Environment",
+      "confidence_score": 0.7274568378044378,
+      "novel_approaches": [
+        "Rapid adaptation protocol using meta-learned initialization"
+      ],
+      "num_insights": 0,
+      "num_patterns": 0
+    },
+    {
+      "challenge": "Fusion Energy Breakthrough",
+      "domain": "engineering",
+      "category": "Energy",
+      "confidence_score": 0.898459880937174,
+      "novel_approaches": [
+        "Rapid adaptation protocol using meta-learned initialization"
+      ],
+      "num_insights": 0,
+      "num_patterns": 0
+    },
+    {
+      "challenge": "Battery Energy Density 10X",
+      "domain": "engineering",
+      "category": "Energy",
+      "confidence_score": 0.7103219044851914,
+      "novel_approaches": [
+        "Rapid adaptation protocol using meta-learned initialization"
+      ],
+      "num_insights": 0,
+      "num_patterns": 0
+    },
+    {
+      "challenge": "Solar Panel Efficiency Breakthrough",
+      "domain": "engineering",
+      "category": "Energy",
+      "confidence_score": 0.7316364966230737,
+      "novel_approaches": [
+        "Rapid adaptation protocol using meta-learned initialization"
+      ],
+      "num_insights": 0,
+      "num_patterns": 0
+    },
+    {
+      "challenge": "Clean Water Access for All",
+      "domain": "engineering",
+      "category": "Resources",
+      "confidence_score": 0.7174154843180129,
+      "novel_approaches": [
+        "Rapid adaptation protocol using meta-learned initialization"
+      ],
+      "num_insights": 0,
+      "num_patterns": 0
+    },
+    {
+      "challenge": "Asteroid Impact Prevention",
+      "domain": "astronomy",
+      "category": "Space",
+      "confidence_score": 0.7095921855469154,
+      "novel_approaches": [
+        "Rapid adaptation protocol using meta-learned initialization"
+      ],
+      "num_insights": 0,
+      "num_patterns": 0
+    },
+    {
+      "challenge": "Mars Colonization Viability",
+      "domain": "astronomy",
+      "category": "Space",
+      "confidence_score": 0.9722966526614296,
+      "novel_approaches": [
+        "Rapid adaptation protocol using meta-learned initialization"
+      ],
+      "num_insights": 0,
+      "num_patterns": 0
+    },
+    {
+      "challenge": "Space Debris Cleanup",
+      "domain": "astronomy",
+      "category": "Space",
+      "confidence_score": 0.7264385399632456,
+      "novel_approaches": [
+        "Rapid adaptation protocol using meta-learned initialization"
+      ],
+      "num_insights": 0,
+      "num_patterns": 0
+    },
+    {
+      "challenge": "Earthquake Early Warning System",
+      "domain": "geology",
+      "category": "Earth Science",
+      "confidence_score": 0.8962088470773913,
+      "novel_approaches": [
+        "Rapid adaptation protocol using meta-learned initialization"
+      ],
+      "num_insights": 0,
+      "num_patterns": 0
+    },
+    {
+      "challenge": "Volcano Eruption Prediction",
+      "domain": "geology",
+      "category": "Earth Science",
+      "confidence_score": 0.9180600147156444,
+      "novel_approaches": [
+        "Rapid adaptation protocol using meta-learned initialization"
+      ],
+      "num_insights": 0,
+      "num_patterns": 0
+    },
+    {
+      "challenge": "Tsunami Detection Enhancement",
+      "domain": "geology",
+      "category": "Earth Science",
+      "confidence_score": 0.7516611383627078,
+      "novel_approaches": [
+        "Rapid adaptation protocol using meta-learned initialization"
+      ],
+      "num_insights": 0,
+      "num_patterns": 0
+    },
+    {
+      "challenge": "Vertical Farming at Scale",
+      "domain": "agriculture",
+      "category": "Food Security",
+      "confidence_score": 0.86682639931097,
+      "novel_approaches": [
+        "Rapid adaptation protocol using meta-learned initialization"
+      ],
+      "num_insights": 0,
+      "num_patterns": 0
+    },
+    {
+      "challenge": "Precision Agriculture AI",
+      "domain": "agriculture",
+      "category": "Food Security",
+      "confidence_score": 0.7704891734501055,
+      "novel_approaches": [
+        "Rapid adaptation protocol using meta-learned initialization"
+      ],
+      "num_insights": 0,
+      "num_patterns": 0
+    },
+    {
+      "challenge": "Quantum Computing Error Correction",
+      "domain": "computer_science",
+      "category": "Technology",
+      "confidence_score": 0.8385561327435673,
+      "novel_approaches": [
+        "Rapid adaptation protocol using meta-learned initialization"
+      ],
+      "num_insights": 0,
+      "num_patterns": 0
+    },
+    {
+      "challenge": "AI Alignment and Safety",
+      "domain": "computer_science",
+      "category": "Technology",
+      "confidence_score": 0.812558893797221,
+      "novel_approaches": [
+        "Rapid adaptation protocol using meta-learned initialization"
+      ],
+      "num_insights": 0,
+      "num_patterns": 0
+    }
+  ]
+}
