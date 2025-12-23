@@ -1,0 +1,3450 @@
+{
+  "metadata": {
+    "generated": "2025-12-23T02:56:24.326523",
+    "total_business_types": 36,
+    "total_strategies": 180,
+    "categories": [
+      "Standard",
+      "Luxury",
+      "Viral",
+      "Reputation",
+      "Enterprise"
+    ]
+  },
+  "categories": {
+    "Standard": {
+      "business_type_count": 6,
+      "average_success_rate": 0.9988999999999999,
+      "top_performers": [
+        [
+          "saas",
+          0.9998000000000001
+        ],
+        [
+          "fintech",
+          0.9998000000000001
+        ],
+        [
+          "healthcare",
+          0.9994
+        ]
+      ]
+    },
+    "Luxury": {
+      "business_type_count": 10,
+      "average_success_rate": 1.0,
+      "top_performers": [
+        [
+          "luxury_fashion",
+          1.0
+        ],
+        [
+          "luxury_automotive",
+          1.0
+        ],
+        [
+          "luxury_hospitality",
+          1.0
+        ]
+      ]
+    },
+    "Viral": {
+      "business_type_count": 5,
+      "average_success_rate": 0.99968,
+      "top_performers": [
+        [
+          "viral_content_creator",
+          1.0
+        ],
+        [
+          "viral_social_media",
+          0.9998000000000001
+        ],
+        [
+          "viral_marketplace",
+          0.9998000000000001
+        ]
+      ]
+    },
+    "Reputation": {
+      "business_type_count": 3,
+      "average_success_rate": 1.0,
+      "top_performers": [
+        [
+          "best_reputation_tech",
+          1.0
+        ],
+        [
+          "best_reputation_service",
+          1.0
+        ],
+        [
+          "cult_following_brand",
+          1.0
+        ]
+      ]
+    },
+    "Enterprise": {
+      "business_type_count": 12,
+      "average_success_rate": 0.9999000000000001,
+      "top_performers": [
+        [
+          "enterprise_software",
+          1.0
+        ],
+        [
+          "enterprise_security",
+          1.0
+        ],
+        [
+          "enterprise_consulting",
+          1.0
+        ]
+      ]
+    }
+  },
+  "business_types": {
+    "saas": {
+      "name": "Software as a Service (SaaS)",
+      "category": "Standard",
+      "characteristics": {
+        "typical_margin": 0.75,
+        "growth_potential": 0.45,
+        "capital_intensity": 0.15,
+        "brand_power": 0.65,
+        "viral_coefficient": 0.25,
+        "customer_acquisition_cost": "high",
+        "churn_rate": 0.08
+      },
+      "success_examples": [
+        "Salesforce",
+        "Zoom",
+        "Slack",
+        "HubSpot"
+      ],
+      "strategies": [
+        {
+          "name": "Operational Efficiency",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6107297537707391,
+          "priority": "high",
+          "tactics": [
+            "Automation",
+            "Process optimization",
+            "Cost reduction",
+            "Tech adoption"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Growth Scaling",
+          "success_rate": 0.999,
+          "avg_improvement": 0.572156830123692,
+          "priority": "high",
+          "tactics": [
+            "Market expansion",
+            "Product innovation",
+            "Partnerships",
+            "Customer acquisition"
+          ],
+          "timeline": "18-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Customer Excellence",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6486563895597992,
+          "priority": "high",
+          "tactics": [
+            "Retention programs",
+            "Service quality",
+            "Personalization",
+            "Support"
+          ],
+          "timeline": "12-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6076606698965413,
+          "priority": "high",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6100582324867805,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 0.9998000000000001,
+      "white_paper": "whitepaper_saas_optimization.tex"
+    },
+    "ecommerce": {
+      "name": "E-commerce / Online Retail",
+      "category": "Standard",
+      "characteristics": {
+        "typical_margin": 0.08,
+        "growth_potential": 0.28,
+        "capital_intensity": 0.35,
+        "brand_power": 0.45,
+        "viral_coefficient": 0.15,
+        "customer_acquisition_cost": "medium",
+        "churn_rate": 0.45
+      },
+      "success_examples": [
+        "Amazon",
+        "Shopify stores",
+        "Etsy"
+      ],
+      "strategies": [
+        {
+          "name": "Operational Efficiency",
+          "success_rate": 1.0,
+          "avg_improvement": 0.5500581623591347,
+          "priority": "high",
+          "tactics": [
+            "Automation",
+            "Process optimization",
+            "Cost reduction",
+            "Tech adoption"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Growth Scaling",
+          "success_rate": 0.993,
+          "avg_improvement": 0.5135327453725388,
+          "priority": "high",
+          "tactics": [
+            "Market expansion",
+            "Product innovation",
+            "Partnerships",
+            "Customer acquisition"
+          ],
+          "timeline": "18-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Customer Excellence",
+          "success_rate": 1.0,
+          "avg_improvement": 0.5922776916846323,
+          "priority": "high",
+          "tactics": [
+            "Retention programs",
+            "Service quality",
+            "Personalization",
+            "Support"
+          ],
+          "timeline": "12-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.5453351737837523,
+          "priority": "critical",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.5519944243294174,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 0.9986,
+      "white_paper": "whitepaper_ecommerce_optimization.tex"
+    },
+    "manufacturing": {
+      "name": "Manufacturing / Industrial",
+      "category": "Standard",
+      "characteristics": {
+        "typical_margin": 0.12,
+        "growth_potential": 0.08,
+        "capital_intensity": 0.75,
+        "brand_power": 0.35,
+        "viral_coefficient": 0.05,
+        "customer_acquisition_cost": "low",
+        "churn_rate": 0.15
+      },
+      "success_examples": [
+        "Toyota",
+        "Intel",
+        "Boeing"
+      ],
+      "strategies": [
+        {
+          "name": "Operational Efficiency",
+          "success_rate": 1.0,
+          "avg_improvement": 0.5127535982014915,
+          "priority": "high",
+          "tactics": [
+            "Automation",
+            "Process optimization",
+            "Cost reduction",
+            "Tech adoption"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Growth Scaling",
+          "success_rate": 0.982,
+          "avg_improvement": 0.47706321103602395,
+          "priority": "high",
+          "tactics": [
+            "Market expansion",
+            "Product innovation",
+            "Partnerships",
+            "Customer acquisition"
+          ],
+          "timeline": "18-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Customer Excellence",
+          "success_rate": 1.0,
+          "avg_improvement": 0.5571812664085255,
+          "priority": "high",
+          "tactics": [
+            "Retention programs",
+            "Service quality",
+            "Personalization",
+            "Support"
+          ],
+          "timeline": "12-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.5177262373225865,
+          "priority": "critical",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.5165584227489187,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 0.9964000000000001,
+      "white_paper": "whitepaper_manufacturing_optimization.tex"
+    },
+    "fintech": {
+      "name": "Financial Technology",
+      "category": "Standard",
+      "characteristics": {
+        "typical_margin": 0.35,
+        "growth_potential": 0.52,
+        "capital_intensity": 0.25,
+        "brand_power": 0.7,
+        "viral_coefficient": 0.3,
+        "customer_acquisition_cost": "high",
+        "churn_rate": 0.12
+      },
+      "success_examples": [
+        "Stripe",
+        "Square",
+        "Robinhood",
+        "PayPal"
+      ],
+      "strategies": [
+        {
+          "name": "Operational Efficiency",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6268148194048537,
+          "priority": "high",
+          "tactics": [
+            "Automation",
+            "Process optimization",
+            "Cost reduction",
+            "Tech adoption"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Growth Scaling",
+          "success_rate": 0.999,
+          "avg_improvement": 0.5864988373020662,
+          "priority": "high",
+          "tactics": [
+            "Market expansion",
+            "Product innovation",
+            "Partnerships",
+            "Customer acquisition"
+          ],
+          "timeline": "18-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Customer Excellence",
+          "success_rate": 1.0,
+          "avg_improvement": 0.666375452019085,
+          "priority": "high",
+          "tactics": [
+            "Retention programs",
+            "Service quality",
+            "Personalization",
+            "Support"
+          ],
+          "timeline": "12-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6173172233429165,
+          "priority": "high",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.625479482174846,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 0.9998000000000001,
+      "white_paper": "whitepaper_fintech_optimization.tex"
+    },
+    "healthcare": {
+      "name": "Healthcare Services",
+      "category": "Standard",
+      "characteristics": {
+        "typical_margin": 0.08,
+        "growth_potential": 0.12,
+        "capital_intensity": 0.65,
+        "brand_power": 0.75,
+        "viral_coefficient": 0.1,
+        "customer_acquisition_cost": "medium",
+        "churn_rate": 0.18
+      },
+      "success_examples": [
+        "Mayo Clinic",
+        "Kaiser Permanente"
+      ],
+      "strategies": [
+        {
+          "name": "Operational Efficiency",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6044612484064833,
+          "priority": "high",
+          "tactics": [
+            "Automation",
+            "Process optimization",
+            "Cost reduction",
+            "Tech adoption"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Growth Scaling",
+          "success_rate": 0.997,
+          "avg_improvement": 0.5644451274317237,
+          "priority": "high",
+          "tactics": [
+            "Market expansion",
+            "Product innovation",
+            "Partnerships",
+            "Customer acquisition"
+          ],
+          "timeline": "18-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Customer Excellence",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6516354837429736,
+          "priority": "high",
+          "tactics": [
+            "Retention programs",
+            "Service quality",
+            "Personalization",
+            "Support"
+          ],
+          "timeline": "12-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6028360435746879,
+          "priority": "critical",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6124628193999361,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 0.9994,
+      "white_paper": "whitepaper_healthcare_optimization.tex"
+    },
+    "consulting": {
+      "name": "Professional Consulting",
+      "category": "Standard",
+      "characteristics": {
+        "typical_margin": 0.22,
+        "growth_potential": 0.15,
+        "capital_intensity": 0.12,
+        "brand_power": 0.8,
+        "viral_coefficient": 0.2,
+        "customer_acquisition_cost": "low",
+        "churn_rate": 0.25
+      },
+      "success_examples": [
+        "McKinsey",
+        "BCG",
+        "Bain",
+        "Deloitte"
+      ],
+      "strategies": [
+        {
+          "name": "Operational Efficiency",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6292107662962279,
+          "priority": "high",
+          "tactics": [
+            "Automation",
+            "Process optimization",
+            "Cost reduction",
+            "Tech adoption"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Growth Scaling",
+          "success_rate": 0.997,
+          "avg_improvement": 0.5843422404369735,
+          "priority": "high",
+          "tactics": [
+            "Market expansion",
+            "Product innovation",
+            "Partnerships",
+            "Customer acquisition"
+          ],
+          "timeline": "18-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Customer Excellence",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6698170835928532,
+          "priority": "high",
+          "tactics": [
+            "Retention programs",
+            "Service quality",
+            "Personalization",
+            "Support"
+          ],
+          "timeline": "12-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6322812860107844,
+          "priority": "high",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6337999783903977,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 0.9994,
+      "white_paper": "whitepaper_consulting_optimization.tex"
+    },
+    "luxury_fashion": {
+      "name": "Luxury Fashion & Apparel",
+      "category": "Luxury",
+      "characteristics": {
+        "typical_margin": 0.65,
+        "growth_potential": 0.18,
+        "capital_intensity": 0.4,
+        "brand_power": 0.95,
+        "viral_coefficient": 0.35,
+        "customer_acquisition_cost": "very_high",
+        "churn_rate": 0.08
+      },
+      "success_examples": [
+        "Louis Vuitton",
+        "Chanel",
+        "Herm\u00e8s",
+        "Gucci"
+      ],
+      "strategies": [
+        {
+          "name": "Brand Elevation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7558940312025336,
+          "priority": "critical",
+          "tactics": [
+            "Heritage storytelling",
+            "Exclusivity",
+            "Celebrity partnerships",
+            "Limited editions"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Craftsmanship Excellence",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7913275009588593,
+          "priority": "high",
+          "tactics": [
+            "Artisan training",
+            "Quality materials",
+            "Attention to detail",
+            "Provenance"
+          ],
+          "timeline": "12-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Customer Experience Premium",
+          "success_rate": 1.0,
+          "avg_improvement": 0.794974613634683,
+          "priority": "high",
+          "tactics": [
+            "White-glove service",
+            "Personalization",
+            "VIP programs",
+            "Concierge"
+          ],
+          "timeline": "12-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.746900158211391,
+          "priority": "high",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7529589330144572,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_luxury_fashion_optimization.tex"
+    },
+    "luxury_automotive": {
+      "name": "Luxury Automotive",
+      "category": "Luxury",
+      "characteristics": {
+        "typical_margin": 0.18,
+        "growth_potential": 0.08,
+        "capital_intensity": 0.85,
+        "brand_power": 0.92,
+        "viral_coefficient": 0.25,
+        "customer_acquisition_cost": "high",
+        "churn_rate": 0.05
+      },
+      "success_examples": [
+        "Ferrari",
+        "Rolls-Royce",
+        "Bentley",
+        "Porsche"
+      ],
+      "strategies": [
+        {
+          "name": "Brand Elevation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7278341988773591,
+          "priority": "critical",
+          "tactics": [
+            "Heritage storytelling",
+            "Exclusivity",
+            "Celebrity partnerships",
+            "Limited editions"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Craftsmanship Excellence",
+          "success_rate": 1.0,
+          "avg_improvement": 0.769717718647029,
+          "priority": "high",
+          "tactics": [
+            "Artisan training",
+            "Quality materials",
+            "Attention to detail",
+            "Provenance"
+          ],
+          "timeline": "12-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Customer Experience Premium",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7675062227284071,
+          "priority": "high",
+          "tactics": [
+            "White-glove service",
+            "Personalization",
+            "VIP programs",
+            "Concierge"
+          ],
+          "timeline": "12-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7333832459960283,
+          "priority": "high",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7329196104054315,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_luxury_automotive_optimization.tex"
+    },
+    "luxury_hospitality": {
+      "name": "Luxury Hotels & Resorts",
+      "category": "Luxury",
+      "characteristics": {
+        "typical_margin": 0.25,
+        "growth_potential": 0.12,
+        "capital_intensity": 0.75,
+        "brand_power": 0.88,
+        "viral_coefficient": 0.4,
+        "customer_acquisition_cost": "medium",
+        "churn_rate": 0.15
+      },
+      "success_examples": [
+        "Four Seasons",
+        "Ritz-Carlton",
+        "Aman",
+        "St. Regis"
+      ],
+      "strategies": [
+        {
+          "name": "Brand Elevation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7432562472782009,
+          "priority": "critical",
+          "tactics": [
+            "Heritage storytelling",
+            "Exclusivity",
+            "Celebrity partnerships",
+            "Limited editions"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Craftsmanship Excellence",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7845854093443884,
+          "priority": "high",
+          "tactics": [
+            "Artisan training",
+            "Quality materials",
+            "Attention to detail",
+            "Provenance"
+          ],
+          "timeline": "12-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Customer Experience Premium",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7829254025198841,
+          "priority": "high",
+          "tactics": [
+            "White-glove service",
+            "Personalization",
+            "VIP programs",
+            "Concierge"
+          ],
+          "timeline": "12-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7508452274295413,
+          "priority": "high",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7443332094391637,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_luxury_hospitality_optimization.tex"
+    },
+    "luxury_jewelry": {
+      "name": "Luxury Jewelry & Watches",
+      "category": "Luxury",
+      "characteristics": {
+        "typical_margin": 0.7,
+        "growth_potential": 0.15,
+        "capital_intensity": 0.45,
+        "brand_power": 0.95,
+        "viral_coefficient": 0.3,
+        "customer_acquisition_cost": "very_high",
+        "churn_rate": 0.05
+      },
+      "success_examples": [
+        "Rolex",
+        "Patek Philippe",
+        "Cartier",
+        "Tiffany"
+      ],
+      "strategies": [
+        {
+          "name": "Brand Elevation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7451340537908886,
+          "priority": "critical",
+          "tactics": [
+            "Heritage storytelling",
+            "Exclusivity",
+            "Celebrity partnerships",
+            "Limited editions"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Craftsmanship Excellence",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7889244077563529,
+          "priority": "high",
+          "tactics": [
+            "Artisan training",
+            "Quality materials",
+            "Attention to detail",
+            "Provenance"
+          ],
+          "timeline": "12-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Customer Experience Premium",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7853534793077533,
+          "priority": "high",
+          "tactics": [
+            "White-glove service",
+            "Personalization",
+            "VIP programs",
+            "Concierge"
+          ],
+          "timeline": "12-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7397624114694805,
+          "priority": "high",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.739902467311537,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_luxury_jewelry_optimization.tex"
+    },
+    "luxury_real_estate": {
+      "name": "Luxury Real Estate",
+      "category": "Luxury",
+      "characteristics": {
+        "typical_margin": 0.15,
+        "growth_potential": 0.1,
+        "capital_intensity": 0.9,
+        "brand_power": 0.85,
+        "viral_coefficient": 0.2,
+        "customer_acquisition_cost": "medium",
+        "churn_rate": 0.02
+      },
+      "success_examples": [
+        "Sothebys Realty",
+        "Compass Luxury",
+        "Douglas Elliman"
+      ],
+      "strategies": [
+        {
+          "name": "Brand Elevation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7142372767296774,
+          "priority": "critical",
+          "tactics": [
+            "Heritage storytelling",
+            "Exclusivity",
+            "Celebrity partnerships",
+            "Limited editions"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Craftsmanship Excellence",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7522974788347008,
+          "priority": "high",
+          "tactics": [
+            "Artisan training",
+            "Quality materials",
+            "Attention to detail",
+            "Provenance"
+          ],
+          "timeline": "12-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Customer Experience Premium",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7497591593484504,
+          "priority": "high",
+          "tactics": [
+            "White-glove service",
+            "Personalization",
+            "VIP programs",
+            "Concierge"
+          ],
+          "timeline": "12-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7062522872273077,
+          "priority": "high",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7096872492774389,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_luxury_real_estate_optimization.tex"
+    },
+    "luxury_spirits": {
+      "name": "Luxury Spirits & Wine",
+      "category": "Luxury",
+      "characteristics": {
+        "typical_margin": 0.55,
+        "growth_potential": 0.12,
+        "capital_intensity": 0.5,
+        "brand_power": 0.9,
+        "viral_coefficient": 0.25,
+        "customer_acquisition_cost": "high",
+        "churn_rate": 0.12
+      },
+      "success_examples": [
+        "Dom P\u00e9rignon",
+        "Macallan",
+        "Hennessy XO"
+      ],
+      "strategies": [
+        {
+          "name": "Brand Elevation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7230403020442985,
+          "priority": "critical",
+          "tactics": [
+            "Heritage storytelling",
+            "Exclusivity",
+            "Celebrity partnerships",
+            "Limited editions"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Craftsmanship Excellence",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7612573535383542,
+          "priority": "high",
+          "tactics": [
+            "Artisan training",
+            "Quality materials",
+            "Attention to detail",
+            "Provenance"
+          ],
+          "timeline": "12-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Customer Experience Premium",
+          "success_rate": 1.0,
+          "avg_improvement": 0.771772706520434,
+          "priority": "high",
+          "tactics": [
+            "White-glove service",
+            "Personalization",
+            "VIP programs",
+            "Concierge"
+          ],
+          "timeline": "12-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7232052606302981,
+          "priority": "high",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7283459479999025,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_luxury_spirits_optimization.tex"
+    },
+    "fine_dining": {
+      "name": "Fine Dining & Michelin Restaurants",
+      "category": "Luxury",
+      "characteristics": {
+        "typical_margin": 0.12,
+        "growth_potential": 0.08,
+        "capital_intensity": 0.6,
+        "brand_power": 0.92,
+        "viral_coefficient": 0.5,
+        "customer_acquisition_cost": "medium",
+        "churn_rate": 0.2
+      },
+      "success_examples": [
+        "Eleven Madison Park",
+        "Noma",
+        "French Laundry"
+      ],
+      "strategies": [
+        {
+          "name": "Brand Elevation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7717003139629566,
+          "priority": "critical",
+          "tactics": [
+            "Heritage storytelling",
+            "Exclusivity",
+            "Celebrity partnerships",
+            "Limited editions"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Craftsmanship Excellence",
+          "success_rate": 1.0,
+          "avg_improvement": 0.805394636900286,
+          "priority": "high",
+          "tactics": [
+            "Artisan training",
+            "Quality materials",
+            "Attention to detail",
+            "Provenance"
+          ],
+          "timeline": "12-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Customer Experience Premium",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8114595346755307,
+          "priority": "high",
+          "tactics": [
+            "White-glove service",
+            "Personalization",
+            "VIP programs",
+            "Concierge"
+          ],
+          "timeline": "12-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7676976741142716,
+          "priority": "critical",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7709646485693915,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_fine_dining_optimization.tex"
+    },
+    "luxury_aviation": {
+      "name": "Private Aviation & Yachts",
+      "category": "Luxury",
+      "characteristics": {
+        "typical_margin": 0.22,
+        "growth_potential": 0.15,
+        "capital_intensity": 0.85,
+        "brand_power": 0.88,
+        "viral_coefficient": 0.15,
+        "customer_acquisition_cost": "very_high",
+        "churn_rate": 0.1
+      },
+      "success_examples": [
+        "NetJets",
+        "VistaJet",
+        "Flexjet"
+      ],
+      "strategies": [
+        {
+          "name": "Brand Elevation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.706847847177364,
+          "priority": "critical",
+          "tactics": [
+            "Heritage storytelling",
+            "Exclusivity",
+            "Celebrity partnerships",
+            "Limited editions"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Craftsmanship Excellence",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7505077232307527,
+          "priority": "high",
+          "tactics": [
+            "Artisan training",
+            "Quality materials",
+            "Attention to detail",
+            "Provenance"
+          ],
+          "timeline": "12-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Customer Experience Premium",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7513103401927282,
+          "priority": "high",
+          "tactics": [
+            "White-glove service",
+            "Personalization",
+            "VIP programs",
+            "Concierge"
+          ],
+          "timeline": "12-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7100588587417487,
+          "priority": "high",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.712213439906066,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_luxury_aviation_optimization.tex"
+    },
+    "luxury_beauty": {
+      "name": "Luxury Beauty & Cosmetics",
+      "category": "Luxury",
+      "characteristics": {
+        "typical_margin": 0.68,
+        "growth_potential": 0.22,
+        "capital_intensity": 0.35,
+        "brand_power": 0.9,
+        "viral_coefficient": 0.45,
+        "customer_acquisition_cost": "high",
+        "churn_rate": 0.15
+      },
+      "success_examples": [
+        "La Mer",
+        "Tom Ford Beauty",
+        "Chanel Beauty"
+      ],
+      "strategies": [
+        {
+          "name": "Brand Elevation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7588020498689844,
+          "priority": "critical",
+          "tactics": [
+            "Heritage storytelling",
+            "Exclusivity",
+            "Celebrity partnerships",
+            "Limited editions"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Craftsmanship Excellence",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8020872436142499,
+          "priority": "high",
+          "tactics": [
+            "Artisan training",
+            "Quality materials",
+            "Attention to detail",
+            "Provenance"
+          ],
+          "timeline": "12-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Customer Experience Premium",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7912174302683603,
+          "priority": "high",
+          "tactics": [
+            "White-glove service",
+            "Personalization",
+            "VIP programs",
+            "Concierge"
+          ],
+          "timeline": "12-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7565025571358283,
+          "priority": "high",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.757523839635079,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_luxury_beauty_optimization.tex"
+    },
+    "artisan_crafts": {
+      "name": "Artisan Crafts & Bespoke Goods",
+      "category": "Luxury",
+      "characteristics": {
+        "typical_margin": 0.6,
+        "growth_potential": 0.1,
+        "capital_intensity": 0.3,
+        "brand_power": 0.85,
+        "viral_coefficient": 0.35,
+        "customer_acquisition_cost": "medium",
+        "churn_rate": 0.08
+      },
+      "success_examples": [
+        "Brunello Cucinelli",
+        "John Lobb",
+        "Berluti"
+      ],
+      "strategies": [
+        {
+          "name": "Brand Elevation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7323704587297375,
+          "priority": "critical",
+          "tactics": [
+            "Heritage storytelling",
+            "Exclusivity",
+            "Celebrity partnerships",
+            "Limited editions"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Craftsmanship Excellence",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7736279302750324,
+          "priority": "high",
+          "tactics": [
+            "Artisan training",
+            "Quality materials",
+            "Attention to detail",
+            "Provenance"
+          ],
+          "timeline": "12-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Customer Experience Premium",
+          "success_rate": 1.0,
+          "avg_improvement": 0.775100054208863,
+          "priority": "high",
+          "tactics": [
+            "White-glove service",
+            "Personalization",
+            "VIP programs",
+            "Concierge"
+          ],
+          "timeline": "12-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7347321034288484,
+          "priority": "high",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7347671937957935,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_artisan_crafts_optimization.tex"
+    },
+    "viral_social_media": {
+      "name": "Viral Social Media Platform",
+      "category": "Viral",
+      "characteristics": {
+        "typical_margin": 0.35,
+        "growth_potential": 0.85,
+        "capital_intensity": 0.2,
+        "brand_power": 0.75,
+        "viral_coefficient": 0.95,
+        "customer_acquisition_cost": "very_low",
+        "churn_rate": 0.25
+      },
+      "success_examples": [
+        "TikTok",
+        "Instagram",
+        "Snapchat",
+        "BeReal"
+      ],
+      "strategies": [
+        {
+          "name": "Viral Loop Engineering",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8171539570310175,
+          "priority": "critical",
+          "tactics": [
+            "Referral mechanics",
+            "Social sharing",
+            "Influencer seeding",
+            "UGC incentives"
+          ],
+          "timeline": "18-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Network Effects Maximization",
+          "success_rate": 0.999,
+          "avg_improvement": 0.8126296321437207,
+          "priority": "critical",
+          "tactics": [
+            "Invite features",
+            "Social proof",
+            "FOMO triggers",
+            "Community building"
+          ],
+          "timeline": "18-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Content Virality",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8502696073813826,
+          "priority": "critical",
+          "tactics": [
+            "Shareable content",
+            "Meme potential",
+            "Trend riding",
+            "Platform optimization"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.850583177902458,
+          "priority": "high",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8523198509520569,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 0.9998000000000001,
+      "white_paper": "whitepaper_viral_social_media_optimization.tex"
+    },
+    "viral_gaming": {
+      "name": "Viral Gaming & Entertainment",
+      "category": "Viral",
+      "characteristics": {
+        "typical_margin": 0.45,
+        "growth_potential": 0.75,
+        "capital_intensity": 0.3,
+        "brand_power": 0.7,
+        "viral_coefficient": 0.88,
+        "customer_acquisition_cost": "low",
+        "churn_rate": 0.35
+      },
+      "success_examples": [
+        "Fortnite",
+        "Among Us",
+        "Wordle",
+        "Candy Crush"
+      ],
+      "strategies": [
+        {
+          "name": "Viral Loop Engineering",
+          "success_rate": 0.997,
+          "avg_improvement": 0.7877175346261681,
+          "priority": "critical",
+          "tactics": [
+            "Referral mechanics",
+            "Social sharing",
+            "Influencer seeding",
+            "UGC incentives"
+          ],
+          "timeline": "18-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Network Effects Maximization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7894963543392873,
+          "priority": "critical",
+          "tactics": [
+            "Invite features",
+            "Social proof",
+            "FOMO triggers",
+            "Community building"
+          ],
+          "timeline": "18-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Content Virality",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8291803897354,
+          "priority": "critical",
+          "tactics": [
+            "Shareable content",
+            "Meme potential",
+            "Trend riding",
+            "Platform optimization"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.833678890159188,
+          "priority": "high",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8380663324731465,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 0.9994,
+      "white_paper": "whitepaper_viral_gaming_optimization.tex"
+    },
+    "viral_consumer_brand": {
+      "name": "Viral Consumer Brand (DTC)",
+      "category": "Viral",
+      "characteristics": {
+        "typical_margin": 0.25,
+        "growth_potential": 0.65,
+        "capital_intensity": 0.35,
+        "brand_power": 0.82,
+        "viral_coefficient": 0.75,
+        "customer_acquisition_cost": "low",
+        "churn_rate": 0.3
+      },
+      "success_examples": [
+        "Glossier",
+        "Allbirds",
+        "Warby Parker",
+        "Away"
+      ],
+      "strategies": [
+        {
+          "name": "Viral Loop Engineering",
+          "success_rate": 0.998,
+          "avg_improvement": 0.8002025581312664,
+          "priority": "critical",
+          "tactics": [
+            "Referral mechanics",
+            "Social sharing",
+            "Influencer seeding",
+            "UGC incentives"
+          ],
+          "timeline": "18-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Network Effects Maximization",
+          "success_rate": 0.999,
+          "avg_improvement": 0.7966528852031352,
+          "priority": "critical",
+          "tactics": [
+            "Invite features",
+            "Social proof",
+            "FOMO triggers",
+            "Community building"
+          ],
+          "timeline": "18-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Content Virality",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8391430040522321,
+          "priority": "critical",
+          "tactics": [
+            "Shareable content",
+            "Meme potential",
+            "Trend riding",
+            "Platform optimization"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8366029443174161,
+          "priority": "high",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8358508504325135,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 0.9994,
+      "white_paper": "whitepaper_viral_consumer_brand_optimization.tex"
+    },
+    "viral_content_creator": {
+      "name": "Viral Content Creator Economy",
+      "category": "Viral",
+      "characteristics": {
+        "typical_margin": 0.55,
+        "growth_potential": 0.8,
+        "capital_intensity": 0.1,
+        "brand_power": 0.85,
+        "viral_coefficient": 0.92,
+        "customer_acquisition_cost": "very_low",
+        "churn_rate": 0.2
+      },
+      "success_examples": [
+        "MrBeast",
+        "Emma Chamberlain",
+        "Charli DAmelio"
+      ],
+      "strategies": [
+        {
+          "name": "Viral Loop Engineering",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8257141445497596,
+          "priority": "critical",
+          "tactics": [
+            "Referral mechanics",
+            "Social sharing",
+            "Influencer seeding",
+            "UGC incentives"
+          ],
+          "timeline": "18-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Network Effects Maximization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8263213617445421,
+          "priority": "critical",
+          "tactics": [
+            "Invite features",
+            "Social proof",
+            "FOMO triggers",
+            "Community building"
+          ],
+          "timeline": "18-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Content Virality",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8656627288699889,
+          "priority": "critical",
+          "tactics": [
+            "Shareable content",
+            "Meme potential",
+            "Trend riding",
+            "Platform optimization"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8711981020313149,
+          "priority": "high",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8660480327716213,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_viral_content_creator_optimization.tex"
+    },
+    "best_reputation_tech": {
+      "name": "Best Reputation Tech Companies",
+      "category": "Reputation",
+      "characteristics": {
+        "typical_margin": 0.28,
+        "growth_potential": 0.35,
+        "capital_intensity": 0.3,
+        "brand_power": 0.95,
+        "viral_coefficient": 0.4,
+        "customer_acquisition_cost": "low",
+        "churn_rate": 0.05
+      },
+      "success_examples": [
+        "Apple",
+        "Google",
+        "Microsoft",
+        "NVIDIA"
+      ],
+      "strategies": [
+        {
+          "name": "Trust Building",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7679254466934731,
+          "priority": "high",
+          "tactics": [
+            "Transparency",
+            "Social responsibility",
+            "Customer advocacy",
+            "Quality consistency"
+          ],
+          "timeline": "12-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Community Cultivation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.730750274776177,
+          "priority": "critical",
+          "tactics": [
+            "Brand evangelism",
+            "User communities",
+            "Events",
+            "Feedback loops"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Excellence Consistency",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7668334450057287,
+          "priority": "high",
+          "tactics": [
+            "Quality control",
+            "Training",
+            "Standards",
+            "Performance monitoring"
+          ],
+          "timeline": "12-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7298659468389499,
+          "priority": "high",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7258008193644332,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_best_reputation_tech_optimization.tex"
+    },
+    "best_reputation_service": {
+      "name": "Best Reputation Service Companies",
+      "category": "Reputation",
+      "characteristics": {
+        "typical_margin": 0.18,
+        "growth_potential": 0.15,
+        "capital_intensity": 0.35,
+        "brand_power": 0.92,
+        "viral_coefficient": 0.5,
+        "customer_acquisition_cost": "low",
+        "churn_rate": 0.08
+      },
+      "success_examples": [
+        "Disney",
+        "Costco",
+        "USAA",
+        "Trader Joes"
+      ],
+      "strategies": [
+        {
+          "name": "Trust Building",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7759416639910427,
+          "priority": "high",
+          "tactics": [
+            "Transparency",
+            "Social responsibility",
+            "Customer advocacy",
+            "Quality consistency"
+          ],
+          "timeline": "12-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Community Cultivation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7478832635739608,
+          "priority": "critical",
+          "tactics": [
+            "Brand evangelism",
+            "User communities",
+            "Events",
+            "Feedback loops"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Excellence Consistency",
+          "success_rate": 1.0,
+          "avg_improvement": 0.776987180785441,
+          "priority": "high",
+          "tactics": [
+            "Quality control",
+            "Training",
+            "Standards",
+            "Performance monitoring"
+          ],
+          "timeline": "12-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7382312058959581,
+          "priority": "high",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.743063828295313,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_best_reputation_service_optimization.tex"
+    },
+    "viral_marketplace": {
+      "name": "Viral Marketplace Platform",
+      "category": "Viral",
+      "characteristics": {
+        "typical_margin": 0.2,
+        "growth_potential": 0.7,
+        "capital_intensity": 0.25,
+        "brand_power": 0.75,
+        "viral_coefficient": 0.85,
+        "customer_acquisition_cost": "medium",
+        "churn_rate": 0.28
+      },
+      "success_examples": [
+        "Uber",
+        "Airbnb",
+        "DoorDash",
+        "Instacart"
+      ],
+      "strategies": [
+        {
+          "name": "Viral Loop Engineering",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7997790301300969,
+          "priority": "critical",
+          "tactics": [
+            "Referral mechanics",
+            "Social sharing",
+            "Influencer seeding",
+            "UGC incentives"
+          ],
+          "timeline": "18-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Network Effects Maximization",
+          "success_rate": 0.999,
+          "avg_improvement": 0.8031902489689551,
+          "priority": "critical",
+          "tactics": [
+            "Invite features",
+            "Social proof",
+            "FOMO triggers",
+            "Community building"
+          ],
+          "timeline": "18-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Content Virality",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8360088455395009,
+          "priority": "critical",
+          "tactics": [
+            "Shareable content",
+            "Meme potential",
+            "Trend riding",
+            "Platform optimization"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8404721376600005,
+          "priority": "high",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8434128950257966,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 0.9998000000000001,
+      "white_paper": "whitepaper_viral_marketplace_optimization.tex"
+    },
+    "cult_following_brand": {
+      "name": "Cult Following / Community Brand",
+      "category": "Reputation",
+      "characteristics": {
+        "typical_margin": 0.32,
+        "growth_potential": 0.28,
+        "capital_intensity": 0.3,
+        "brand_power": 0.95,
+        "viral_coefficient": 0.7,
+        "customer_acquisition_cost": "very_low",
+        "churn_rate": 0.05
+      },
+      "success_examples": [
+        "Patagonia",
+        "Tesla",
+        "Lululemon",
+        "Peloton"
+      ],
+      "strategies": [
+        {
+          "name": "Trust Building",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8135139298518639,
+          "priority": "high",
+          "tactics": [
+            "Transparency",
+            "Social responsibility",
+            "Customer advocacy",
+            "Quality consistency"
+          ],
+          "timeline": "12-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Community Cultivation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7730734235515233,
+          "priority": "critical",
+          "tactics": [
+            "Brand evangelism",
+            "User communities",
+            "Events",
+            "Feedback loops"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Excellence Consistency",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8192098210000529,
+          "priority": "high",
+          "tactics": [
+            "Quality control",
+            "Training",
+            "Standards",
+            "Performance monitoring"
+          ],
+          "timeline": "12-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7762070888681895,
+          "priority": "high",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7723446326352016,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_cult_following_brand_optimization.tex"
+    },
+    "enterprise_software": {
+      "name": "Enterprise Software",
+      "category": "Enterprise",
+      "characteristics": {
+        "typical_margin": 0.68,
+        "growth_potential": 0.32,
+        "capital_intensity": 0.25,
+        "brand_power": 0.8,
+        "viral_coefficient": 0.15,
+        "customer_acquisition_cost": "very_high",
+        "churn_rate": 0.05
+      },
+      "success_examples": [
+        "Oracle",
+        "SAP",
+        "Workday",
+        "ServiceNow"
+      ],
+      "strategies": [
+        {
+          "name": "Enterprise Sales Excellence",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6070326955809698,
+          "priority": "high",
+          "tactics": [
+            "Account-based marketing",
+            "Relationship building",
+            "RFP optimization",
+            "C-suite access"
+          ],
+          "timeline": "18-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Scalability & Reliability",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6388856597003484,
+          "priority": "high",
+          "tactics": [
+            "Infrastructure",
+            "Security",
+            "Compliance",
+            "SLA achievement"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Strategic Partnerships",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6405316063652471,
+          "priority": "high",
+          "tactics": [
+            "Channel development",
+            "Integration ecosystem",
+            "Co-selling",
+            "Alliances"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6416713715216397,
+          "priority": "high",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6403487680114814,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_enterprise_software_optimization.tex"
+    },
+    "enterprise_cloud": {
+      "name": "Enterprise Cloud Infrastructure",
+      "category": "Enterprise",
+      "characteristics": {
+        "typical_margin": 0.3,
+        "growth_potential": 0.45,
+        "capital_intensity": 0.7,
+        "brand_power": 0.85,
+        "viral_coefficient": 0.2,
+        "customer_acquisition_cost": "high",
+        "churn_rate": 0.03
+      },
+      "success_examples": [
+        "AWS",
+        "Azure",
+        "Google Cloud",
+        "Snowflake"
+      ],
+      "strategies": [
+        {
+          "name": "Enterprise Sales Excellence",
+          "success_rate": 0.999,
+          "avg_improvement": 0.6182279280703243,
+          "priority": "high",
+          "tactics": [
+            "Account-based marketing",
+            "Relationship building",
+            "RFP optimization",
+            "C-suite access"
+          ],
+          "timeline": "18-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Scalability & Reliability",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6603839991437632,
+          "priority": "high",
+          "tactics": [
+            "Infrastructure",
+            "Security",
+            "Compliance",
+            "SLA achievement"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Strategic Partnerships",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6563718562757088,
+          "priority": "high",
+          "tactics": [
+            "Channel development",
+            "Integration ecosystem",
+            "Co-selling",
+            "Alliances"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6542979622593432,
+          "priority": "high",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6617994999086135,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 0.9998000000000001,
+      "white_paper": "whitepaper_enterprise_cloud_optimization.tex"
+    },
+    "enterprise_security": {
+      "name": "Enterprise Cybersecurity",
+      "category": "Enterprise",
+      "characteristics": {
+        "typical_margin": 0.72,
+        "growth_potential": 0.42,
+        "capital_intensity": 0.2,
+        "brand_power": 0.88,
+        "viral_coefficient": 0.25,
+        "customer_acquisition_cost": "very_high",
+        "churn_rate": 0.04
+      },
+      "success_examples": [
+        "Palo Alto Networks",
+        "CrowdStrike",
+        "Okta",
+        "Zscaler"
+      ],
+      "strategies": [
+        {
+          "name": "Enterprise Sales Excellence",
+          "success_rate": 1.0,
+          "avg_improvement": 0.637290778385291,
+          "priority": "high",
+          "tactics": [
+            "Account-based marketing",
+            "Relationship building",
+            "RFP optimization",
+            "C-suite access"
+          ],
+          "timeline": "18-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Scalability & Reliability",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6764568726056746,
+          "priority": "high",
+          "tactics": [
+            "Infrastructure",
+            "Security",
+            "Compliance",
+            "SLA achievement"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Strategic Partnerships",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6716597050809752,
+          "priority": "high",
+          "tactics": [
+            "Channel development",
+            "Integration ecosystem",
+            "Co-selling",
+            "Alliances"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6759630037335511,
+          "priority": "high",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6730051983183553,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_enterprise_security_optimization.tex"
+    },
+    "enterprise_consulting": {
+      "name": "Enterprise Consulting (Big 4)",
+      "category": "Enterprise",
+      "characteristics": {
+        "typical_margin": 0.15,
+        "growth_potential": 0.12,
+        "capital_intensity": 0.15,
+        "brand_power": 0.92,
+        "viral_coefficient": 0.1,
+        "customer_acquisition_cost": "low",
+        "churn_rate": 0.15
+      },
+      "success_examples": [
+        "Deloitte",
+        "PwC",
+        "EY",
+        "KPMG"
+      ],
+      "strategies": [
+        {
+          "name": "Enterprise Sales Excellence",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6218936482384472,
+          "priority": "high",
+          "tactics": [
+            "Account-based marketing",
+            "Relationship building",
+            "RFP optimization",
+            "C-suite access"
+          ],
+          "timeline": "18-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Scalability & Reliability",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6614430078913195,
+          "priority": "high",
+          "tactics": [
+            "Infrastructure",
+            "Security",
+            "Compliance",
+            "SLA achievement"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Strategic Partnerships",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6545480567109573,
+          "priority": "high",
+          "tactics": [
+            "Channel development",
+            "Integration ecosystem",
+            "Co-selling",
+            "Alliances"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6657136259763429,
+          "priority": "high",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6558446344155537,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_enterprise_consulting_optimization.tex"
+    },
+    "enterprise_telecom": {
+      "name": "Enterprise Telecommunications",
+      "category": "Enterprise",
+      "characteristics": {
+        "typical_margin": 0.22,
+        "growth_potential": 0.08,
+        "capital_intensity": 0.8,
+        "brand_power": 0.7,
+        "viral_coefficient": 0.05,
+        "customer_acquisition_cost": "medium",
+        "churn_rate": 0.12
+      },
+      "success_examples": [
+        "Verizon Enterprise",
+        "AT&T Business",
+        "T-Mobile Business"
+      ],
+      "strategies": [
+        {
+          "name": "Enterprise Sales Excellence",
+          "success_rate": 0.999,
+          "avg_improvement": 0.5627183650197292,
+          "priority": "high",
+          "tactics": [
+            "Account-based marketing",
+            "Relationship building",
+            "RFP optimization",
+            "C-suite access"
+          ],
+          "timeline": "18-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Scalability & Reliability",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6085812483473726,
+          "priority": "high",
+          "tactics": [
+            "Infrastructure",
+            "Security",
+            "Compliance",
+            "SLA achievement"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Strategic Partnerships",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6078759996706582,
+          "priority": "high",
+          "tactics": [
+            "Channel development",
+            "Integration ecosystem",
+            "Co-selling",
+            "Alliances"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6128616003117622,
+          "priority": "high",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6063578180200889,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 0.9998000000000001,
+      "white_paper": "whitepaper_enterprise_telecom_optimization.tex"
+    },
+    "enterprise_fintech": {
+      "name": "Enterprise Financial Services",
+      "category": "Enterprise",
+      "characteristics": {
+        "typical_margin": 0.35,
+        "growth_potential": 0.25,
+        "capital_intensity": 0.4,
+        "brand_power": 0.85,
+        "viral_coefficient": 0.12,
+        "customer_acquisition_cost": "high",
+        "churn_rate": 0.08
+      },
+      "success_examples": [
+        "Goldman Sachs",
+        "Morgan Stanley",
+        "JP Morgan"
+      ],
+      "strategies": [
+        {
+          "name": "Enterprise Sales Excellence",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6051951379518579,
+          "priority": "high",
+          "tactics": [
+            "Account-based marketing",
+            "Relationship building",
+            "RFP optimization",
+            "C-suite access"
+          ],
+          "timeline": "18-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Scalability & Reliability",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6535023160293445,
+          "priority": "high",
+          "tactics": [
+            "Infrastructure",
+            "Security",
+            "Compliance",
+            "SLA achievement"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Strategic Partnerships",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6496204443257406,
+          "priority": "high",
+          "tactics": [
+            "Channel development",
+            "Integration ecosystem",
+            "Co-selling",
+            "Alliances"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6530619070385324,
+          "priority": "high",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.646938684722607,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_enterprise_fintech_optimization.tex"
+    },
+    "enterprise_logistics": {
+      "name": "Enterprise Logistics & Supply Chain",
+      "category": "Enterprise",
+      "characteristics": {
+        "typical_margin": 0.08,
+        "growth_potential": 0.1,
+        "capital_intensity": 0.75,
+        "brand_power": 0.75,
+        "viral_coefficient": 0.05,
+        "customer_acquisition_cost": "medium",
+        "churn_rate": 0.1
+      },
+      "success_examples": [
+        "FedEx",
+        "UPS",
+        "DHL",
+        "Maersk"
+      ],
+      "strategies": [
+        {
+          "name": "Enterprise Sales Excellence",
+          "success_rate": 0.999,
+          "avg_improvement": 0.5764967447331831,
+          "priority": "high",
+          "tactics": [
+            "Account-based marketing",
+            "Relationship building",
+            "RFP optimization",
+            "C-suite access"
+          ],
+          "timeline": "18-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Scalability & Reliability",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6145131119493097,
+          "priority": "high",
+          "tactics": [
+            "Infrastructure",
+            "Security",
+            "Compliance",
+            "SLA achievement"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Strategic Partnerships",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6134965280462489,
+          "priority": "high",
+          "tactics": [
+            "Channel development",
+            "Integration ecosystem",
+            "Co-selling",
+            "Alliances"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6252626169504055,
+          "priority": "critical",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6141981589791594,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 0.9998000000000001,
+      "white_paper": "whitepaper_enterprise_logistics_optimization.tex"
+    },
+    "enterprise_manufacturing": {
+      "name": "Enterprise Manufacturing (Fortune 500)",
+      "category": "Enterprise",
+      "characteristics": {
+        "typical_margin": 0.1,
+        "growth_potential": 0.06,
+        "capital_intensity": 0.85,
+        "brand_power": 0.8,
+        "viral_coefficient": 0.02,
+        "customer_acquisition_cost": "low",
+        "churn_rate": 0.08
+      },
+      "success_examples": [
+        "GE",
+        "Siemens",
+        "3M",
+        "Honeywell"
+      ],
+      "strategies": [
+        {
+          "name": "Enterprise Sales Excellence",
+          "success_rate": 0.999,
+          "avg_improvement": 0.5830652058405799,
+          "priority": "high",
+          "tactics": [
+            "Account-based marketing",
+            "Relationship building",
+            "RFP optimization",
+            "C-suite access"
+          ],
+          "timeline": "18-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Scalability & Reliability",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6195434720816787,
+          "priority": "high",
+          "tactics": [
+            "Infrastructure",
+            "Security",
+            "Compliance",
+            "SLA achievement"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Strategic Partnerships",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6214463299960002,
+          "priority": "high",
+          "tactics": [
+            "Channel development",
+            "Integration ecosystem",
+            "Co-selling",
+            "Alliances"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6241627745991047,
+          "priority": "critical",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6214718022512804,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 0.9998000000000001,
+      "white_paper": "whitepaper_enterprise_manufacturing_optimization.tex"
+    },
+    "enterprise_retail": {
+      "name": "Enterprise Retail Chains",
+      "category": "Enterprise",
+      "characteristics": {
+        "typical_margin": 0.05,
+        "growth_potential": 0.04,
+        "capital_intensity": 0.6,
+        "brand_power": 0.85,
+        "viral_coefficient": 0.08,
+        "customer_acquisition_cost": "low",
+        "churn_rate": 0.4
+      },
+      "success_examples": [
+        "Walmart",
+        "Target",
+        "Costco",
+        "Home Depot"
+      ],
+      "strategies": [
+        {
+          "name": "Enterprise Sales Excellence",
+          "success_rate": 0.999,
+          "avg_improvement": 0.6065334472563143,
+          "priority": "high",
+          "tactics": [
+            "Account-based marketing",
+            "Relationship building",
+            "RFP optimization",
+            "C-suite access"
+          ],
+          "timeline": "18-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Scalability & Reliability",
+          "success_rate": 1.0,
+          "avg_improvement": 0.640048058214259,
+          "priority": "high",
+          "tactics": [
+            "Infrastructure",
+            "Security",
+            "Compliance",
+            "SLA achievement"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Strategic Partnerships",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6414621078562646,
+          "priority": "high",
+          "tactics": [
+            "Channel development",
+            "Integration ecosystem",
+            "Co-selling",
+            "Alliances"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6363832538159104,
+          "priority": "critical",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.644603564245233,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 0.9998000000000001,
+      "white_paper": "whitepaper_enterprise_retail_optimization.tex"
+    },
+    "enterprise_pharma": {
+      "name": "Enterprise Pharmaceutical",
+      "category": "Enterprise",
+      "characteristics": {
+        "typical_margin": 0.28,
+        "growth_potential": 0.12,
+        "capital_intensity": 0.65,
+        "brand_power": 0.88,
+        "viral_coefficient": 0.05,
+        "customer_acquisition_cost": "high",
+        "churn_rate": 0.1
+      },
+      "success_examples": [
+        "Pfizer",
+        "Johnson & Johnson",
+        "Roche",
+        "Novartis"
+      ],
+      "strategies": [
+        {
+          "name": "Enterprise Sales Excellence",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6010638129319468,
+          "priority": "high",
+          "tactics": [
+            "Account-based marketing",
+            "Relationship building",
+            "RFP optimization",
+            "C-suite access"
+          ],
+          "timeline": "18-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Scalability & Reliability",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6443611930971688,
+          "priority": "high",
+          "tactics": [
+            "Infrastructure",
+            "Security",
+            "Compliance",
+            "SLA achievement"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Strategic Partnerships",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6443290766616028,
+          "priority": "high",
+          "tactics": [
+            "Channel development",
+            "Integration ecosystem",
+            "Co-selling",
+            "Alliances"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6415273581869116,
+          "priority": "high",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6443157413858609,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_enterprise_pharma_optimization.tex"
+    },
+    "enterprise_energy": {
+      "name": "Enterprise Energy & Utilities",
+      "category": "Enterprise",
+      "characteristics": {
+        "typical_margin": 0.12,
+        "growth_potential": 0.05,
+        "capital_intensity": 0.9,
+        "brand_power": 0.65,
+        "viral_coefficient": 0.02,
+        "customer_acquisition_cost": "low",
+        "churn_rate": 0.08
+      },
+      "success_examples": [
+        "NextEra Energy",
+        "Duke Energy",
+        "ExxonMobil"
+      ],
+      "strategies": [
+        {
+          "name": "Enterprise Sales Excellence",
+          "success_rate": 0.999,
+          "avg_improvement": 0.54667232595756,
+          "priority": "high",
+          "tactics": [
+            "Account-based marketing",
+            "Relationship building",
+            "RFP optimization",
+            "C-suite access"
+          ],
+          "timeline": "18-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Scalability & Reliability",
+          "success_rate": 1.0,
+          "avg_improvement": 0.5968548644981984,
+          "priority": "high",
+          "tactics": [
+            "Infrastructure",
+            "Security",
+            "Compliance",
+            "SLA achievement"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Strategic Partnerships",
+          "success_rate": 1.0,
+          "avg_improvement": 0.5964831578414795,
+          "priority": "high",
+          "tactics": [
+            "Channel development",
+            "Integration ecosystem",
+            "Co-selling",
+            "Alliances"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.5938866271425771,
+          "priority": "critical",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.5940640556401049,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 0.9998000000000001,
+      "white_paper": "whitepaper_enterprise_energy_optimization.tex"
+    },
+    "enterprise_aerospace": {
+      "name": "Enterprise Aerospace & Defense",
+      "category": "Enterprise",
+      "characteristics": {
+        "typical_margin": 0.1,
+        "growth_potential": 0.08,
+        "capital_intensity": 0.85,
+        "brand_power": 0.88,
+        "viral_coefficient": 0.01,
+        "customer_acquisition_cost": "very_high",
+        "churn_rate": 0.05
+      },
+      "success_examples": [
+        "Boeing",
+        "Lockheed Martin",
+        "Raytheon",
+        "Airbus"
+      ],
+      "strategies": [
+        {
+          "name": "Enterprise Sales Excellence",
+          "success_rate": 1.0,
+          "avg_improvement": 0.5991936697281025,
+          "priority": "high",
+          "tactics": [
+            "Account-based marketing",
+            "Relationship building",
+            "RFP optimization",
+            "C-suite access"
+          ],
+          "timeline": "18-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Scalability & Reliability",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6334194974466393,
+          "priority": "high",
+          "tactics": [
+            "Infrastructure",
+            "Security",
+            "Compliance",
+            "SLA achievement"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Strategic Partnerships",
+          "success_rate": 1.0,
+          "avg_improvement": 0.636494278912498,
+          "priority": "high",
+          "tactics": [
+            "Channel development",
+            "Integration ecosystem",
+            "Co-selling",
+            "Alliances"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Margin Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6380911505861928,
+          "priority": "critical",
+          "tactics": [
+            "Dynamic pricing",
+            "Cost structure",
+            "Revenue mix",
+            "Operational leverage"
+          ],
+          "timeline": "12-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Digital Transformation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6365020765803852,
+          "priority": "high",
+          "tactics": [
+            "AI/ML adoption",
+            "Data analytics",
+            "Digital channels",
+            "Automation"
+          ],
+          "timeline": "18-30 months",
+          "risk": "medium"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_enterprise_aerospace_optimization.tex"
+    }
+  },
+  "insights": {
+    "highest_success_business_type": [
+      "luxury_fashion",
+      1.0
+    ],
+    "best_performing_category": "Luxury",
+    "total_high_success_strategies": 180
+  }
+}

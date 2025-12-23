@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "generated": "2025-12-23T01:48:28.757227",
+    "total_companies": 16,
+    "total_patterns": 4,
+    "total_goals": 8
+  },
+  "executive_summary": {
+    "total_goals": 8,
+    "highly_achievable": 5,
+    "moderately_achievable": 1,
+    "challenging": 2,
+    "overall_success_rate": 0.625
+  },
+  "patterns": [
+    {
+      "name": "High Profit Margins Drive Valuation",
+      "evidence": "Companies with >15% margins valued 2.5x higher",
+      "strength": 1.518117083622156,
+      "confidence": 0.85
+    },
+    {
+      "name": "Sector Determines Baseline Success",
+      "evidence": "Technology sector shows 27.6% avg margins",
+      "strength": 0.2763333333333333,
+      "confidence": 0.78
+    },
+    {
+      "name": "Scale Advantages",
+      "evidence": "Top revenue tier: 13.4% vs bottom: 16.8%",
+      "strength": 0.03412499999999999,
+      "confidence": 0.72
+    },
+    {
+      "name": "Premium Brand Effect",
+      "evidence": "Premium sectors (Luxury/Tech) achieve 27.6% margins",
+      "strength": 0.2763333333333333,
+      "confidence": 0.88
+    }
+  ],
+  "results": {
+    "solved_well": [
+      {
+        "name": "Maximize Profit Margins",
+        "category": "Profitability",
+        "success": 0.998,
+        "improvement": 0.5525217888055947
+      },
+      {
+        "name": "Increase Market Valuation",
+        "category": "Valuation",
+        "success": 0.985,
+        "improvement": 0.6010108788411094
+      },
+      {
+        "name": "Improve Operational Efficiency",
+        "category": "Operations",
+        "success": 1.0,
+        "improvement": 0.44398810661775506
+      },
+      {
+        "name": "Build Brand Premium",
+        "category": "Brand",
+        "success": 1.0,
+        "improvement": 0.570604450709903
+      },
+      {
+        "name": "Maximize Customer Lifetime Value",
+        "category": "Customer",
+        "success": 0.933,
+        "improvement": 0.545032707727404
+      }
+    ],
+    "partial": [
+      {
+        "name": "Gain Market Share",
+        "category": "Market Position",
+        "success": 0.616
+      }
+    ],
+    "not_solved": [
+      {
+        "name": "Optimize Revenue Growth",
+        "category": "Growth",
+        "success": 0.005
+      },
+      {
+        "name": "Accelerate Innovation",
+        "category": "Innovation",
+        "success": 0.02
+      }
+    ]
+  },
+  "top_levers": {
+    "automation": 1.998,
+    "marketing": 1.616,
+    "pricing": 1.6139999999999999,
+    "innovation": 1.601,
+    "process_optimization": 1.0,
+    "technology": 1.0,
+    "quality": 1.0,
+    "exclusivity": 1.0,
+    "customer_experience": 1.0,
+    "cost_reduction": 0.998
+  }
+}
