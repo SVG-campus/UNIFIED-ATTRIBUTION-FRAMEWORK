@@ -1,0 +1,1736 @@
+{
+  "metadata": {
+    "generated": "2025-12-23T22:32:57.900024",
+    "total_domains": 21,
+    "total_strategies": 78,
+    "categories": [
+      "Reproductive Transition",
+      "Postpartum Care",
+      "Fertility Optimization",
+      "Legacy & Connection",
+      "Early Childhood Education",
+      "Reproductive Planning",
+      "Childbearing Optimization",
+      "Family Planning",
+      "Family Dynamics",
+      "Health Equity",
+      "Preconception Care",
+      "Adolescent Health",
+      "Reproductive Health",
+      "Elementary Education"
+    ],
+    "optimization_level": "100% SUCCESS MODE"
+  },
+  "categories": {
+    "Preconception Care": {
+      "domain_count": 2,
+      "average_success_rate": 1.0,
+      "top_performers": [
+        [
+          "preconception_health_women",
+          1.0
+        ],
+        [
+          "preconception_health_men",
+          1.0
+        ]
+      ]
+    },
+    "Early Childhood Education": {
+      "domain_count": 2,
+      "average_success_rate": 1.0,
+      "top_performers": [
+        [
+          "early_childhood_body_awareness_0_3",
+          1.0
+        ],
+        [
+          "early_childhood_sex_ed_3_5",
+          1.0
+        ]
+      ]
+    },
+    "Elementary Education": {
+      "domain_count": 2,
+      "average_success_rate": 1.0,
+      "top_performers": [
+        [
+          "elementary_sex_ed_6_8",
+          1.0
+        ],
+        [
+          "elementary_sex_ed_9_12",
+          1.0
+        ]
+      ]
+    },
+    "Adolescent Health": {
+      "domain_count": 2,
+      "average_success_rate": 1.0,
+      "top_performers": [
+        [
+          "adolescent_sex_ed_13_17",
+          1.0
+        ],
+        [
+          "adolescent_consent_boundaries",
+          1.0
+        ]
+      ]
+    },
+    "Reproductive Planning": {
+      "domain_count": 1,
+      "average_success_rate": 1.0,
+      "top_performers": [
+        [
+          "contraception_family_planning_18_30",
+          1.0
+        ]
+      ]
+    },
+    "Childbearing Optimization": {
+      "domain_count": 2,
+      "average_success_rate": 1.0,
+      "top_performers": [
+        [
+          "first_pregnancy_20_35",
+          1.0
+        ],
+        [
+          "advanced_maternal_age_35_45",
+          1.0
+        ]
+      ]
+    },
+    "Fertility Optimization": {
+      "domain_count": 1,
+      "average_success_rate": 1.0,
+      "top_performers": [
+        [
+          "infertility_treatment_all_ages",
+          1.0
+        ]
+      ]
+    },
+    "Family Planning": {
+      "domain_count": 2,
+      "average_success_rate": 1.0,
+      "top_performers": [
+        [
+          "birth_spacing_optimization",
+          1.0
+        ],
+        [
+          "high_parity_pregnancy",
+          1.0
+        ]
+      ]
+    },
+    "Reproductive Health": {
+      "domain_count": 1,
+      "average_success_rate": 1.0,
+      "top_performers": [
+        [
+          "pregnancy_loss_support",
+          1.0
+        ]
+      ]
+    },
+    "Postpartum Care": {
+      "domain_count": 1,
+      "average_success_rate": 1.0,
+      "top_performers": [
+        [
+          "postpartum_health_0_1yr",
+          1.0
+        ]
+      ]
+    },
+    "Family Dynamics": {
+      "domain_count": 1,
+      "average_success_rate": 1.0,
+      "top_performers": [
+        [
+          "sibling_preparation_education",
+          1.0
+        ]
+      ]
+    },
+    "Reproductive Transition": {
+      "domain_count": 1,
+      "average_success_rate": 1.0,
+      "top_performers": [
+        [
+          "perimenopause_reproductive_closure",
+          1.0
+        ]
+      ]
+    },
+    "Legacy & Connection": {
+      "domain_count": 2,
+      "average_success_rate": 1.0,
+      "top_performers": [
+        [
+          "grandparenting_role_50_plus",
+          1.0
+        ],
+        [
+          "great_grandparenting_legacy",
+          1.0
+        ]
+      ]
+    },
+    "Health Equity": {
+      "domain_count": 1,
+      "average_success_rate": 1.0,
+      "top_performers": [
+        [
+          "reproductive_justice_access",
+          1.0
+        ]
+      ]
+    }
+  },
+  "health_domains": {
+    "preconception_health_women": {
+      "name": "Preconception Health Optimization - Women (18-45 years)",
+      "category": "Preconception Care",
+      "age_range": "18-45 years",
+      "subcategory": "Maternal Health Foundation",
+      "characteristics": {
+        "optimal_age_start": 20,
+        "optimal_age_end": 35,
+        "fertility_peak": "20-24 years",
+        "fertility_decline_begins": 32,
+        "rapid_decline_age": 37,
+        "health_optimization_window": "3-12 months pre-conception",
+        "folic_acid_requirement_mcg": 400
+      },
+      "success_examples": [
+        "Preconception counseling",
+        "Folic acid fortification",
+        "Chronic disease optimization"
+      ],
+      "strategies": [
+        {
+          "name": "Folic Acid Supplementation (400-800mcg Daily)",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6525748887605508,
+          "priority": "critical",
+          "tactics": [
+            "Start 1-3 months before conception",
+            "50-70% reduction in neural tube defects",
+            "Fortified foods + supplement",
+            "Higher doses (4mg) for high-risk women"
+          ],
+          "timeline": "1-3 months pre-conception",
+          "risk": "low"
+        },
+        {
+          "name": "Preconception Counseling & Health Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.5534412566899946,
+          "priority": "critical",
+          "tactics": [
+            "BMI optimization (18.5-24.9)",
+            "Chronic disease control (diabetes, hypertension)",
+            "Medication review (teratogen avoidance)",
+            "Vaccination updates (rubella, varicella, Tdap)"
+          ],
+          "timeline": "3-12 months",
+          "risk": "low"
+        },
+        {
+          "name": "Trauma-Informed Care Approach",
+          "success_rate": 1.0,
+          "avg_improvement": 0.45119860261496836,
+          "priority": "high",
+          "tactics": [
+            "Screen for trauma history",
+            "Patient-centered communication",
+            "Autonomy in decision-making",
+            "Minimize re-traumatization"
+          ],
+          "timeline": "All encounters",
+          "risk": "low"
+        },
+        {
+          "name": "Culturally Responsive Care",
+          "success_rate": 1.0,
+          "avg_improvement": 0.4205007765803703,
+          "priority": "high",
+          "tactics": [
+            "Language access",
+            "Respect cultural beliefs",
+            "Diverse provider workforce",
+            "Community partnerships"
+          ],
+          "timeline": "Ongoing",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_repro_health_preconception_health_women.tex"
+    },
+    "preconception_health_men": {
+      "name": "Preconception Health Optimization - Men (18-50+ years)",
+      "category": "Preconception Care",
+      "age_range": "18-50+ years",
+      "subcategory": "Paternal Health Foundation",
+      "characteristics": {
+        "sperm_quality_peak": "25-35 years",
+        "age_related_decline": "Gradual from 40+",
+        "health_optimization_window": "3 months (spermatogenesis cycle)",
+        "lifestyle_impact": "High - smoking, alcohol, obesity affect sperm quality"
+      },
+      "success_examples": [
+        "Lifestyle modification",
+        "Toxin avoidance",
+        "Nutritional support"
+      ],
+      "strategies": [
+        {
+          "name": "Folic Acid Supplementation (400-800mcg Daily)",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6510642262753492,
+          "priority": "critical",
+          "tactics": [
+            "Start 1-3 months before conception",
+            "50-70% reduction in neural tube defects",
+            "Fortified foods + supplement",
+            "Higher doses (4mg) for high-risk women"
+          ],
+          "timeline": "1-3 months pre-conception",
+          "risk": "low"
+        },
+        {
+          "name": "Preconception Counseling & Health Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.5510287781941587,
+          "priority": "critical",
+          "tactics": [
+            "BMI optimization (18.5-24.9)",
+            "Chronic disease control (diabetes, hypertension)",
+            "Medication review (teratogen avoidance)",
+            "Vaccination updates (rubella, varicella, Tdap)"
+          ],
+          "timeline": "3-12 months",
+          "risk": "low"
+        },
+        {
+          "name": "Trauma-Informed Care Approach",
+          "success_rate": 1.0,
+          "avg_improvement": 0.4511365846589706,
+          "priority": "high",
+          "tactics": [
+            "Screen for trauma history",
+            "Patient-centered communication",
+            "Autonomy in decision-making",
+            "Minimize re-traumatization"
+          ],
+          "timeline": "All encounters",
+          "risk": "low"
+        },
+        {
+          "name": "Culturally Responsive Care",
+          "success_rate": 1.0,
+          "avg_improvement": 0.4209298146879049,
+          "priority": "high",
+          "tactics": [
+            "Language access",
+            "Respect cultural beliefs",
+            "Diverse provider workforce",
+            "Community partnerships"
+          ],
+          "timeline": "Ongoing",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_repro_health_preconception_health_men.tex"
+    },
+    "early_childhood_body_awareness_0_3": {
+      "name": "Body Awareness & Safety Foundation (0-3 years)",
+      "category": "Early Childhood Education",
+      "age_range": "0-3 years",
+      "subcategory": "Foundational Body Autonomy",
+      "characteristics": {
+        "developmental_stage": "Sensorimotor",
+        "learning_mode": "Experiential, caregiver-led",
+        "consent_foundation": "Respecting bodily autonomy begins at birth",
+        "language_development": "Proper anatomical names"
+      },
+      "success_examples": [
+        "Ask before diaper changes",
+        "Use proper names (penis, vulva)",
+        "Respect \"no\" to tickling"
+      ],
+      "strategies": [
+        {
+          "name": "Anatomically Correct Language from Infancy",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7015442820333537,
+          "priority": "critical",
+          "tactics": [
+            "Use \"penis,\" \"vulva,\" \"vagina,\" \"anus\"",
+            "Normalize body parts like any others",
+            "Facilitates abuse reporting",
+            "Reduces shame"
+          ],
+          "timeline": "From birth",
+          "risk": "low"
+        },
+        {
+          "name": "Age-Appropriate Consent Education",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6814876687556485,
+          "priority": "critical",
+          "tactics": [
+            "Ask before diaper changes, tickling",
+            "Respect \"no\" to physical affection",
+            "Teach \"my body belongs to me\"",
+            "Model consent in daily interactions"
+          ],
+          "timeline": "Ongoing from infancy",
+          "risk": "low"
+        },
+        {
+          "name": "Trauma-Informed Care Approach",
+          "success_rate": 1.0,
+          "avg_improvement": 0.4516461413327174,
+          "priority": "high",
+          "tactics": [
+            "Screen for trauma history",
+            "Patient-centered communication",
+            "Autonomy in decision-making",
+            "Minimize re-traumatization"
+          ],
+          "timeline": "All encounters",
+          "risk": "low"
+        },
+        {
+          "name": "Culturally Responsive Care",
+          "success_rate": 1.0,
+          "avg_improvement": 0.4209795431279717,
+          "priority": "high",
+          "tactics": [
+            "Language access",
+            "Respect cultural beliefs",
+            "Diverse provider workforce",
+            "Community partnerships"
+          ],
+          "timeline": "Ongoing",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_repro_health_early_childhood_body_awareness_0_3.tex"
+    },
+    "early_childhood_sex_ed_3_5": {
+      "name": "Age-Appropriate Sexuality Education (3-5 years)",
+      "category": "Early Childhood Education",
+      "age_range": "3-5 years",
+      "subcategory": "Foundational Concepts",
+      "characteristics": {
+        "developmental_stage": "Preoperational (Piaget)",
+        "curiosity_phase": "Questions about bodies, babies, differences",
+        "learning_mode": "Simple, honest answers",
+        "privacy_concepts": "Private parts, bathroom privacy"
+      },
+      "success_examples": [
+        "Busy Book interactive media",
+        "Snakes & Ladders games",
+        "Age-appropriate books"
+      ],
+      "strategies": [
+        {
+          "name": "Anatomically Correct Language from Infancy",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7028830232941676,
+          "priority": "critical",
+          "tactics": [
+            "Use \"penis,\" \"vulva,\" \"vagina,\" \"anus\"",
+            "Normalize body parts like any others",
+            "Facilitates abuse reporting",
+            "Reduces shame"
+          ],
+          "timeline": "From birth",
+          "risk": "low"
+        },
+        {
+          "name": "Age-Appropriate Consent Education",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6840949860841364,
+          "priority": "critical",
+          "tactics": [
+            "Ask before diaper changes, tickling",
+            "Respect \"no\" to physical affection",
+            "Teach \"my body belongs to me\"",
+            "Model consent in daily interactions"
+          ],
+          "timeline": "Ongoing from infancy",
+          "risk": "low"
+        },
+        {
+          "name": "Trauma-Informed Care Approach",
+          "success_rate": 1.0,
+          "avg_improvement": 0.45363518882809195,
+          "priority": "high",
+          "tactics": [
+            "Screen for trauma history",
+            "Patient-centered communication",
+            "Autonomy in decision-making",
+            "Minimize re-traumatization"
+          ],
+          "timeline": "All encounters",
+          "risk": "low"
+        },
+        {
+          "name": "Culturally Responsive Care",
+          "success_rate": 1.0,
+          "avg_improvement": 0.42048658432175834,
+          "priority": "high",
+          "tactics": [
+            "Language access",
+            "Respect cultural beliefs",
+            "Diverse provider workforce",
+            "Community partnerships"
+          ],
+          "timeline": "Ongoing",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_repro_health_early_childhood_sex_ed_3_5.tex"
+    },
+    "elementary_sex_ed_6_8": {
+      "name": "Comprehensive Sexuality Education (6-8 years)",
+      "category": "Elementary Education",
+      "age_range": "6-8 years",
+      "subcategory": "Body Changes & Relationships",
+      "characteristics": {
+        "developmental_stage": "Concrete operational",
+        "learning_readiness": "Can understand reproduction basics",
+        "peer_relationships": "Friendship skills, boundaries",
+        "abuse_prevention": "Good touch/bad touch, trusted adults"
+      },
+      "success_examples": [
+        "Where do babies come from? (simple science)",
+        "Consent in friendships",
+        "Trusted adult networks"
+      ],
+      "strategies": [
+        {
+          "name": "Comprehensive Sexuality Education (CSE)",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7630206934629062,
+          "priority": "critical",
+          "tactics": [
+            "Age-appropriate, medically accurate",
+            "Incremental from childhood to adulthood",
+            "Covers anatomy, puberty, relationships, consent, STI/pregnancy prevention",
+            "LGBTQ+ inclusive, culturally sensitive"
+          ],
+          "timeline": "Ages 5-18+",
+          "risk": "low"
+        },
+        {
+          "name": "Puberty Education Before Physical Changes",
+          "success_rate": 1.0,
+          "avg_improvement": 0.72157750175272,
+          "priority": "critical",
+          "tactics": [
+            "Teach about menstruation, erections, body changes",
+            "Normalize emotional changes",
+            "Address hygiene, product use",
+            "Gender-inclusive approach"
+          ],
+          "timeline": "Ages 8-10 (before onset)",
+          "risk": "low"
+        },
+        {
+          "name": "Trauma-Informed Care Approach",
+          "success_rate": 1.0,
+          "avg_improvement": 0.45179949492544563,
+          "priority": "high",
+          "tactics": [
+            "Screen for trauma history",
+            "Patient-centered communication",
+            "Autonomy in decision-making",
+            "Minimize re-traumatization"
+          ],
+          "timeline": "All encounters",
+          "risk": "low"
+        },
+        {
+          "name": "Culturally Responsive Care",
+          "success_rate": 1.0,
+          "avg_improvement": 0.4222860780341878,
+          "priority": "high",
+          "tactics": [
+            "Language access",
+            "Respect cultural beliefs",
+            "Diverse provider workforce",
+            "Community partnerships"
+          ],
+          "timeline": "Ongoing",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_repro_health_elementary_sex_ed_6_8.tex"
+    },
+    "elementary_sex_ed_9_12": {
+      "name": "Puberty Preparation & Relationship Skills (9-12 years)",
+      "category": "Elementary Education",
+      "age_range": "9-12 years",
+      "subcategory": "Puberty Education",
+      "characteristics": {
+        "developmental_stage": "Late childhood, early puberty",
+        "physical_changes": "Puberty begins (girls 8-13, boys 9-14)",
+        "emotional_readiness": "Anticipating body changes",
+        "social_awareness": "Gender roles, stereotypes, identity"
+      },
+      "success_examples": [
+        "Puberty classes",
+        "Menstrual product education",
+        "Emotional changes normalization"
+      ],
+      "strategies": [
+        {
+          "name": "Comprehensive Sexuality Education (CSE)",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7662732708242973,
+          "priority": "critical",
+          "tactics": [
+            "Age-appropriate, medically accurate",
+            "Incremental from childhood to adulthood",
+            "Covers anatomy, puberty, relationships, consent, STI/pregnancy prevention",
+            "LGBTQ+ inclusive, culturally sensitive"
+          ],
+          "timeline": "Ages 5-18+",
+          "risk": "low"
+        },
+        {
+          "name": "Puberty Education Before Physical Changes",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7247333019780192,
+          "priority": "critical",
+          "tactics": [
+            "Teach about menstruation, erections, body changes",
+            "Normalize emotional changes",
+            "Address hygiene, product use",
+            "Gender-inclusive approach"
+          ],
+          "timeline": "Ages 8-10 (before onset)",
+          "risk": "low"
+        },
+        {
+          "name": "Trauma-Informed Care Approach",
+          "success_rate": 1.0,
+          "avg_improvement": 0.45166654382441107,
+          "priority": "high",
+          "tactics": [
+            "Screen for trauma history",
+            "Patient-centered communication",
+            "Autonomy in decision-making",
+            "Minimize re-traumatization"
+          ],
+          "timeline": "All encounters",
+          "risk": "low"
+        },
+        {
+          "name": "Culturally Responsive Care",
+          "success_rate": 1.0,
+          "avg_improvement": 0.42094378535331584,
+          "priority": "high",
+          "tactics": [
+            "Language access",
+            "Respect cultural beliefs",
+            "Diverse provider workforce",
+            "Community partnerships"
+          ],
+          "timeline": "Ongoing",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_repro_health_elementary_sex_ed_9_12.tex"
+    },
+    "adolescent_sex_ed_13_17": {
+      "name": "Comprehensive Sexual Health Education (13-17 years)",
+      "category": "Adolescent Health",
+      "age_range": "13-17 years",
+      "subcategory": "Risk Reduction & Healthy Relationships",
+      "characteristics": {
+        "developmental_stage": "Formal operational thinking",
+        "sexual_identity": "Orientation exploration, identity formation",
+        "relationship_readiness": "Dating, intimacy, emotional maturity developing",
+        "risk_behaviors": "STI risk, pregnancy risk, consent complexity"
+      },
+      "success_examples": [
+        "Risk reduction programs (RR > RA)",
+        "Consent workshops",
+        "LGBTQ+ inclusive curricula"
+      ],
+      "strategies": [
+        {
+          "name": "Comprehensive Sexuality Education (CSE)",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7623741392699486,
+          "priority": "critical",
+          "tactics": [
+            "Age-appropriate, medically accurate",
+            "Incremental from childhood to adulthood",
+            "Covers anatomy, puberty, relationships, consent, STI/pregnancy prevention",
+            "LGBTQ+ inclusive, culturally sensitive"
+          ],
+          "timeline": "Ages 5-18+",
+          "risk": "low"
+        },
+        {
+          "name": "Puberty Education Before Physical Changes",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7202848002584776,
+          "priority": "critical",
+          "tactics": [
+            "Teach about menstruation, erections, body changes",
+            "Normalize emotional changes",
+            "Address hygiene, product use",
+            "Gender-inclusive approach"
+          ],
+          "timeline": "Ages 8-10 (before onset)",
+          "risk": "low"
+        },
+        {
+          "name": "Consent Communication Skills Training",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6528912236646294,
+          "priority": "critical",
+          "tactics": [
+            "Verbal consent (\"Do you want to...?\")",
+            "Ongoing consent (can withdraw anytime)",
+            "Respect \"no\" immediately",
+            "Coercion/alcohol education"
+          ],
+          "timeline": "Ages 12-18",
+          "risk": "low"
+        },
+        {
+          "name": "Risk Reduction (RR) > Risk Avoidance (RA)",
+          "success_rate": 1.0,
+          "avg_improvement": 0.5813522909602987,
+          "priority": "high",
+          "tactics": [
+            "Emphasize abstinence + contraception/condom skills",
+            "Delays sexual debut (AOR 0.65)",
+            "Increases condom use when sexually active",
+            "Evidence > abstinence-only"
+          ],
+          "timeline": "Middle/high school",
+          "risk": "low"
+        },
+        {
+          "name": "Trauma-Informed Care Approach",
+          "success_rate": 1.0,
+          "avg_improvement": 0.4518323247220427,
+          "priority": "high",
+          "tactics": [
+            "Screen for trauma history",
+            "Patient-centered communication",
+            "Autonomy in decision-making",
+            "Minimize re-traumatization"
+          ],
+          "timeline": "All encounters",
+          "risk": "low"
+        },
+        {
+          "name": "Culturally Responsive Care",
+          "success_rate": 1.0,
+          "avg_improvement": 0.42261300667481677,
+          "priority": "high",
+          "tactics": [
+            "Language access",
+            "Respect cultural beliefs",
+            "Diverse provider workforce",
+            "Community partnerships"
+          ],
+          "timeline": "Ongoing",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_repro_health_adolescent_sex_ed_13_17.tex"
+    },
+    "adolescent_consent_boundaries": {
+      "name": "Consent, Boundaries & Respect Mastery (12-19 years)",
+      "category": "Adolescent Health",
+      "age_range": "12-19 years",
+      "subcategory": "Consent Education",
+      "characteristics": {
+        "legal_framework": "Age of consent varies by state (16-18)",
+        "ongoing_consent": "Consent can be withdrawn at any time",
+        "communication_skills": "Verbal and non-verbal cues",
+        "power_dynamics": "Understanding coercion, pressure"
+      },
+      "success_examples": [
+        "Role-playing scenarios",
+        "Communication skills training",
+        "Peer education"
+      ],
+      "strategies": [
+        {
+          "name": "Comprehensive Sexuality Education (CSE)",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7622644206301177,
+          "priority": "critical",
+          "tactics": [
+            "Age-appropriate, medically accurate",
+            "Incremental from childhood to adulthood",
+            "Covers anatomy, puberty, relationships, consent, STI/pregnancy prevention",
+            "LGBTQ+ inclusive, culturally sensitive"
+          ],
+          "timeline": "Ages 5-18+",
+          "risk": "low"
+        },
+        {
+          "name": "Puberty Education Before Physical Changes",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7228869994187248,
+          "priority": "critical",
+          "tactics": [
+            "Teach about menstruation, erections, body changes",
+            "Normalize emotional changes",
+            "Address hygiene, product use",
+            "Gender-inclusive approach"
+          ],
+          "timeline": "Ages 8-10 (before onset)",
+          "risk": "low"
+        },
+        {
+          "name": "Consent Communication Skills Training",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6538549309011936,
+          "priority": "critical",
+          "tactics": [
+            "Verbal consent (\"Do you want to...?\")",
+            "Ongoing consent (can withdraw anytime)",
+            "Respect \"no\" immediately",
+            "Coercion/alcohol education"
+          ],
+          "timeline": "Ages 12-18",
+          "risk": "low"
+        },
+        {
+          "name": "Risk Reduction (RR) > Risk Avoidance (RA)",
+          "success_rate": 1.0,
+          "avg_improvement": 0.5809607418054489,
+          "priority": "high",
+          "tactics": [
+            "Emphasize abstinence + contraception/condom skills",
+            "Delays sexual debut (AOR 0.65)",
+            "Increases condom use when sexually active",
+            "Evidence > abstinence-only"
+          ],
+          "timeline": "Middle/high school",
+          "risk": "low"
+        },
+        {
+          "name": "Trauma-Informed Care Approach",
+          "success_rate": 1.0,
+          "avg_improvement": 0.45197522894654396,
+          "priority": "high",
+          "tactics": [
+            "Screen for trauma history",
+            "Patient-centered communication",
+            "Autonomy in decision-making",
+            "Minimize re-traumatization"
+          ],
+          "timeline": "All encounters",
+          "risk": "low"
+        },
+        {
+          "name": "Culturally Responsive Care",
+          "success_rate": 1.0,
+          "avg_improvement": 0.4208186928853074,
+          "priority": "high",
+          "tactics": [
+            "Language access",
+            "Respect cultural beliefs",
+            "Diverse provider workforce",
+            "Community partnerships"
+          ],
+          "timeline": "Ongoing",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_repro_health_adolescent_consent_boundaries.tex"
+    },
+    "contraception_family_planning_18_30": {
+      "name": "Contraception & Family Planning Optimization (18-30 years)",
+      "category": "Reproductive Planning",
+      "age_range": "18-30 years",
+      "subcategory": "Pregnancy Prevention & Timing",
+      "characteristics": {
+        "fertility_status": "Peak reproductive years",
+        "contraceptive_access": "Title X, ACA coverage",
+        "method_variety": "15+ methods available",
+        "pregnancy_spacing": "Optimal: 18-24 months between pregnancies"
+      },
+      "success_examples": [
+        "LARC methods (IUD, implant)",
+        "Shared decision-making",
+        "Patient-centered care"
+      ],
+      "strategies": [
+        {
+          "name": "Patient-Centered Contraceptive Counseling",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6198914397194242,
+          "priority": "critical",
+          "tactics": [
+            "Shared decision-making",
+            "Full method range (15+ options)",
+            "Address barriers (cost, access, side effects)",
+            "Support method switching"
+          ],
+          "timeline": "Ongoing",
+          "risk": "low"
+        },
+        {
+          "name": "LARC (Long-Acting Reversible Contraception) Access",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7028321607108076,
+          "priority": "high",
+          "tactics": [
+            "IUD or implant immediate postpartum",
+            "Highest efficacy (>99%)",
+            "Remove cost barriers",
+            "Same-day insertion"
+          ],
+          "timeline": "Immediate availability",
+          "risk": "low"
+        },
+        {
+          "name": "Trauma-Informed Care Approach",
+          "success_rate": 1.0,
+          "avg_improvement": 0.4522249633573624,
+          "priority": "high",
+          "tactics": [
+            "Screen for trauma history",
+            "Patient-centered communication",
+            "Autonomy in decision-making",
+            "Minimize re-traumatization"
+          ],
+          "timeline": "All encounters",
+          "risk": "low"
+        },
+        {
+          "name": "Culturally Responsive Care",
+          "success_rate": 1.0,
+          "avg_improvement": 0.4205480570832011,
+          "priority": "high",
+          "tactics": [
+            "Language access",
+            "Respect cultural beliefs",
+            "Diverse provider workforce",
+            "Community partnerships"
+          ],
+          "timeline": "Ongoing",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_repro_health_contraception_family_planning_18_30.tex"
+    },
+    "first_pregnancy_20_35": {
+      "name": "First Pregnancy Optimization (20-35 years)",
+      "category": "Childbearing Optimization",
+      "age_range": "20-35 years",
+      "subcategory": "Optimal Maternal Age",
+      "characteristics": {
+        "maternal_age_optimal": "20-35 years",
+        "fertility_rate": "Highest 20-24, stable through early 30s",
+        "pregnancy_risks": "Lowest maternal/fetal morbidity",
+        "prenatal_care": "13-15 visits recommended"
+      },
+      "success_examples": [
+        "Centering Pregnancy group care",
+        "Continuity of care models",
+        "Doula support"
+      ],
+      "strategies": [
+        {
+          "name": "Early & Continuous Prenatal Care",
+          "success_rate": 1.0,
+          "avg_improvement": 0.5803611423205333,
+          "priority": "critical",
+          "tactics": [
+            "First visit <10 weeks gestation",
+            "13-15 visits standard",
+            "Group prenatal care (Centering Pregnancy)",
+            "Doula support"
+          ],
+          "timeline": "First trimester through postpartum",
+          "risk": "low"
+        },
+        {
+          "name": "Optimal Delivery Timing by Age",
+          "success_rate": 1.0,
+          "avg_improvement": 0.4503146914663644,
+          "priority": "critical",
+          "tactics": [
+            "Age <40: 39-40 weeks",
+            "Age 40+: 39 0/7-39 6/7 weeks",
+            "Reduce stillbirth risk",
+            "Induction vs expectant management"
+          ],
+          "timeline": "39 weeks gestation",
+          "risk": "low"
+        },
+        {
+          "name": "Trauma-Informed Care Approach",
+          "success_rate": 1.0,
+          "avg_improvement": 0.4524245999749142,
+          "priority": "high",
+          "tactics": [
+            "Screen for trauma history",
+            "Patient-centered communication",
+            "Autonomy in decision-making",
+            "Minimize re-traumatization"
+          ],
+          "timeline": "All encounters",
+          "risk": "low"
+        },
+        {
+          "name": "Culturally Responsive Care",
+          "success_rate": 1.0,
+          "avg_improvement": 0.4228663975357647,
+          "priority": "high",
+          "tactics": [
+            "Language access",
+            "Respect cultural beliefs",
+            "Diverse provider workforce",
+            "Community partnerships"
+          ],
+          "timeline": "Ongoing",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_repro_health_first_pregnancy_20_35.tex"
+    },
+    "advanced_maternal_age_35_45": {
+      "name": "Advanced Maternal Age Pregnancy (35-45 years)",
+      "category": "Childbearing Optimization",
+      "age_range": "35-45 years",
+      "subcategory": "High-Risk Pregnancy Management",
+      "characteristics": {
+        "fertility_decline": "Rapid after age 37",
+        "pregnancy_risks": "Gestational diabetes, hypertension, stillbirth \u2191",
+        "chromosomal_abnormalities": "Down syndrome risk 1:250 at 35, 1:100 at 40",
+        "delivery_recommendation": "39 0/7-39 6/7 weeks for age 40+"
+      },
+      "success_examples": [
+        "Expedited fertility treatment",
+        "Intensive prenatal monitoring",
+        "Induction at 39 weeks"
+      ],
+      "strategies": [
+        {
+          "name": "Early & Continuous Prenatal Care",
+          "success_rate": 1.0,
+          "avg_improvement": 0.5825355927643211,
+          "priority": "critical",
+          "tactics": [
+            "First visit <10 weeks gestation",
+            "13-15 visits standard",
+            "Group prenatal care (Centering Pregnancy)",
+            "Doula support"
+          ],
+          "timeline": "First trimester through postpartum",
+          "risk": "low"
+        },
+        {
+          "name": "Optimal Delivery Timing by Age",
+          "success_rate": 1.0,
+          "avg_improvement": 0.45224378814893323,
+          "priority": "critical",
+          "tactics": [
+            "Age <40: 39-40 weeks",
+            "Age 40+: 39 0/7-39 6/7 weeks",
+            "Reduce stillbirth risk",
+            "Induction vs expectant management"
+          ],
+          "timeline": "39 weeks gestation",
+          "risk": "low"
+        },
+        {
+          "name": "Trauma-Informed Care Approach",
+          "success_rate": 1.0,
+          "avg_improvement": 0.45238358212110985,
+          "priority": "high",
+          "tactics": [
+            "Screen for trauma history",
+            "Patient-centered communication",
+            "Autonomy in decision-making",
+            "Minimize re-traumatization"
+          ],
+          "timeline": "All encounters",
+          "risk": "low"
+        },
+        {
+          "name": "Culturally Responsive Care",
+          "success_rate": 1.0,
+          "avg_improvement": 0.4223474625734045,
+          "priority": "high",
+          "tactics": [
+            "Language access",
+            "Respect cultural beliefs",
+            "Diverse provider workforce",
+            "Community partnerships"
+          ],
+          "timeline": "Ongoing",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_repro_health_advanced_maternal_age_35_45.tex"
+    },
+    "infertility_treatment_all_ages": {
+      "name": "Infertility Diagnosis & Treatment (All Reproductive Ages)",
+      "category": "Fertility Optimization",
+      "age_range": "Reproductive age",
+      "subcategory": "Assisted Reproductive Technology",
+      "characteristics": {
+        "prevalence": "10-15% of couples",
+        "age_factor": "Biggest predictor of success",
+        "treatment_access": "Disparities by insurance, geography, race",
+        "art_clinics": "Declining post-Roe (indirect effects)"
+      },
+      "success_examples": [
+        "Insurance coverage mandates",
+        "Income-based fee structures",
+        "Oncofertility programs"
+      ],
+      "strategies": [
+        {
+          "name": "Trauma-Informed Care Approach",
+          "success_rate": 1.0,
+          "avg_improvement": 0.4512488864106989,
+          "priority": "high",
+          "tactics": [
+            "Screen for trauma history",
+            "Patient-centered communication",
+            "Autonomy in decision-making",
+            "Minimize re-traumatization"
+          ],
+          "timeline": "All encounters",
+          "risk": "low"
+        },
+        {
+          "name": "Culturally Responsive Care",
+          "success_rate": 1.0,
+          "avg_improvement": 0.4204808849384207,
+          "priority": "high",
+          "tactics": [
+            "Language access",
+            "Respect cultural beliefs",
+            "Diverse provider workforce",
+            "Community partnerships"
+          ],
+          "timeline": "Ongoing",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_repro_health_infertility_treatment_all_ages.tex"
+    },
+    "birth_spacing_optimization": {
+      "name": "Optimal Birth Spacing & Repeat Pregnancies (20-40 years)",
+      "category": "Family Planning",
+      "age_range": "20-40 years",
+      "subcategory": "Inter-pregnancy Interval",
+      "characteristics": {
+        "optimal_spacing": "18-24 months between pregnancies",
+        "short_interval_risks": "<6mo: preterm birth, low birthweight",
+        "long_interval_risks": ">5yrs: similar risks as first pregnancy",
+        "maternal_depletion": "Nutritional reserves need replenishment"
+      },
+      "success_examples": [
+        "Postpartum contraception counseling",
+        "LARC insertion at delivery",
+        "Breastfeeding support"
+      ],
+      "strategies": [
+        {
+          "name": "Patient-Centered Contraceptive Counseling",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6215442419633405,
+          "priority": "critical",
+          "tactics": [
+            "Shared decision-making",
+            "Full method range (15+ options)",
+            "Address barriers (cost, access, side effects)",
+            "Support method switching"
+          ],
+          "timeline": "Ongoing",
+          "risk": "low"
+        },
+        {
+          "name": "LARC (Long-Acting Reversible Contraception) Access",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7032588705494713,
+          "priority": "high",
+          "tactics": [
+            "IUD or implant immediate postpartum",
+            "Highest efficacy (>99%)",
+            "Remove cost barriers",
+            "Same-day insertion"
+          ],
+          "timeline": "Immediate availability",
+          "risk": "low"
+        },
+        {
+          "name": "Trauma-Informed Care Approach",
+          "success_rate": 1.0,
+          "avg_improvement": 0.4499926268391389,
+          "priority": "high",
+          "tactics": [
+            "Screen for trauma history",
+            "Patient-centered communication",
+            "Autonomy in decision-making",
+            "Minimize re-traumatization"
+          ],
+          "timeline": "All encounters",
+          "risk": "low"
+        },
+        {
+          "name": "Culturally Responsive Care",
+          "success_rate": 1.0,
+          "avg_improvement": 0.42240530041343854,
+          "priority": "high",
+          "tactics": [
+            "Language access",
+            "Respect cultural beliefs",
+            "Diverse provider workforce",
+            "Community partnerships"
+          ],
+          "timeline": "Ongoing",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_repro_health_birth_spacing_optimization.tex"
+    },
+    "high_parity_pregnancy": {
+      "name": "High-Parity Pregnancy Health (3+ Children)",
+      "category": "Family Planning",
+      "age_range": "25-45 years",
+      "subcategory": "Grand Multiparity",
+      "characteristics": {
+        "definition": "5+ previous deliveries (grand multipara)",
+        "risks": "Placenta previa, postpartum hemorrhage, anemia",
+        "protective_factors": "Experience, established care",
+        "cumulative_stress": "Physical and emotional toll"
+      },
+      "success_examples": [
+        "Iron supplementation",
+        "Active management 3rd stage labor",
+        "Mental health screening"
+      ],
+      "strategies": [
+        {
+          "name": "Patient-Centered Contraceptive Counseling",
+          "success_rate": 1.0,
+          "avg_improvement": 0.624185550193691,
+          "priority": "critical",
+          "tactics": [
+            "Shared decision-making",
+            "Full method range (15+ options)",
+            "Address barriers (cost, access, side effects)",
+            "Support method switching"
+          ],
+          "timeline": "Ongoing",
+          "risk": "low"
+        },
+        {
+          "name": "LARC (Long-Acting Reversible Contraception) Access",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7002916560321691,
+          "priority": "high",
+          "tactics": [
+            "IUD or implant immediate postpartum",
+            "Highest efficacy (>99%)",
+            "Remove cost barriers",
+            "Same-day insertion"
+          ],
+          "timeline": "Immediate availability",
+          "risk": "low"
+        },
+        {
+          "name": "Trauma-Informed Care Approach",
+          "success_rate": 1.0,
+          "avg_improvement": 0.45155136166483706,
+          "priority": "high",
+          "tactics": [
+            "Screen for trauma history",
+            "Patient-centered communication",
+            "Autonomy in decision-making",
+            "Minimize re-traumatization"
+          ],
+          "timeline": "All encounters",
+          "risk": "low"
+        },
+        {
+          "name": "Culturally Responsive Care",
+          "success_rate": 1.0,
+          "avg_improvement": 0.4213929465541405,
+          "priority": "high",
+          "tactics": [
+            "Language access",
+            "Respect cultural beliefs",
+            "Diverse provider workforce",
+            "Community partnerships"
+          ],
+          "timeline": "Ongoing",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_repro_health_high_parity_pregnancy.tex"
+    },
+    "pregnancy_loss_support": {
+      "name": "Pregnancy Loss & Grief Support (All Ages)",
+      "category": "Reproductive Health",
+      "age_range": "All reproductive ages",
+      "subcategory": "Miscarriage, Stillbirth, Infant Loss",
+      "characteristics": {
+        "miscarriage_prevalence": "10-20% of known pregnancies",
+        "stillbirth_risk": "Increases with maternal age",
+        "grief_trajectory": "Acute grief 6mo, prolonged grief possible",
+        "subsequent_pregnancy_anxiety": "Common after loss"
+      },
+      "success_examples": [
+        "Bereavement doulas",
+        "Support groups",
+        "Mental health integration"
+      ],
+      "strategies": [
+        {
+          "name": "Trauma-Informed Care Approach",
+          "success_rate": 1.0,
+          "avg_improvement": 0.4504957960287828,
+          "priority": "high",
+          "tactics": [
+            "Screen for trauma history",
+            "Patient-centered communication",
+            "Autonomy in decision-making",
+            "Minimize re-traumatization"
+          ],
+          "timeline": "All encounters",
+          "risk": "low"
+        },
+        {
+          "name": "Culturally Responsive Care",
+          "success_rate": 1.0,
+          "avg_improvement": 0.42276786490235607,
+          "priority": "high",
+          "tactics": [
+            "Language access",
+            "Respect cultural beliefs",
+            "Diverse provider workforce",
+            "Community partnerships"
+          ],
+          "timeline": "Ongoing",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_repro_health_pregnancy_loss_support.tex"
+    },
+    "postpartum_health_0_1yr": {
+      "name": "Postpartum Health & Recovery (0-12 months)",
+      "category": "Postpartum Care",
+      "age_range": "Post-delivery",
+      "subcategory": "Fourth Trimester",
+      "characteristics": {
+        "traditional_6week_checkup": "Insufficient - ongoing care needed",
+        "ppd_prevalence": "10-20% of new mothers",
+        "severe_maternal_morbidity": "Rising in US",
+        "breastfeeding_support": "Critical first weeks"
+      },
+      "success_examples": [
+        "Home visits",
+        "Extended postpartum coverage (Medicaid)",
+        "Peer support"
+      ],
+      "strategies": [
+        {
+          "name": "Comprehensive Postpartum Care",
+          "success_rate": 1.0,
+          "avg_improvement": 0.5222542968503235,
+          "priority": "critical",
+          "tactics": [
+            "Visit within 3 weeks (not just 6 weeks)",
+            "Ongoing care through 12 weeks",
+            "Depression screening (Edinburgh Scale)",
+            "Cardiovascular monitoring (BP checks)"
+          ],
+          "timeline": "0-12 weeks postpartum",
+          "risk": "low"
+        },
+        {
+          "name": "Trauma-Informed Care Approach",
+          "success_rate": 1.0,
+          "avg_improvement": 0.4515064872724935,
+          "priority": "high",
+          "tactics": [
+            "Screen for trauma history",
+            "Patient-centered communication",
+            "Autonomy in decision-making",
+            "Minimize re-traumatization"
+          ],
+          "timeline": "All encounters",
+          "risk": "low"
+        },
+        {
+          "name": "Culturally Responsive Care",
+          "success_rate": 1.0,
+          "avg_improvement": 0.42103256217324847,
+          "priority": "high",
+          "tactics": [
+            "Language access",
+            "Respect cultural beliefs",
+            "Diverse provider workforce",
+            "Community partnerships"
+          ],
+          "timeline": "Ongoing",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_repro_health_postpartum_health_0_1yr.tex"
+    },
+    "sibling_preparation_education": {
+      "name": "Sibling Preparation & Family Expansion Education (2-10 years)",
+      "category": "Family Dynamics",
+      "age_range": "2-10 years",
+      "subcategory": "New Baby Preparation",
+      "characteristics": {
+        "developmental_readiness": "Varies by age",
+        "emotional_reactions": "Jealousy, excitement, regression common",
+        "involvement_opportunities": "Helper role, bonding activities",
+        "education_topics": "Where baby comes from, changes in family"
+      },
+      "success_examples": [
+        "Sibling classes",
+        "Age-appropriate books",
+        "Hospital visits",
+        "Special time with parents"
+      ],
+      "strategies": [
+        {
+          "name": "Trauma-Informed Care Approach",
+          "success_rate": 1.0,
+          "avg_improvement": 0.4515916217919324,
+          "priority": "high",
+          "tactics": [
+            "Screen for trauma history",
+            "Patient-centered communication",
+            "Autonomy in decision-making",
+            "Minimize re-traumatization"
+          ],
+          "timeline": "All encounters",
+          "risk": "low"
+        },
+        {
+          "name": "Culturally Responsive Care",
+          "success_rate": 1.0,
+          "avg_improvement": 0.4201281960187332,
+          "priority": "high",
+          "tactics": [
+            "Language access",
+            "Respect cultural beliefs",
+            "Diverse provider workforce",
+            "Community partnerships"
+          ],
+          "timeline": "Ongoing",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_repro_health_sibling_preparation_education.tex"
+    },
+    "perimenopause_reproductive_closure": {
+      "name": "Perimenopause & Reproductive Closure (40-55 years)",
+      "category": "Reproductive Transition",
+      "age_range": "40-55 years",
+      "subcategory": "Menopause Transition",
+      "characteristics": {
+        "average_menopause_age": 51,
+        "perimenopause_duration": "4-8 years",
+        "pregnancy_still_possible": "Until 12mo without period",
+        "symptom_management": "Hot flashes, mood changes, sleep disruption"
+      },
+      "success_examples": [
+        "Menopause hormone therapy",
+        "Lifestyle interventions",
+        "Bone density screening"
+      ],
+      "strategies": [
+        {
+          "name": "Trauma-Informed Care Approach",
+          "success_rate": 1.0,
+          "avg_improvement": 0.45247482609385353,
+          "priority": "high",
+          "tactics": [
+            "Screen for trauma history",
+            "Patient-centered communication",
+            "Autonomy in decision-making",
+            "Minimize re-traumatization"
+          ],
+          "timeline": "All encounters",
+          "risk": "low"
+        },
+        {
+          "name": "Culturally Responsive Care",
+          "success_rate": 1.0,
+          "avg_improvement": 0.42152602598899375,
+          "priority": "high",
+          "tactics": [
+            "Language access",
+            "Respect cultural beliefs",
+            "Diverse provider workforce",
+            "Community partnerships"
+          ],
+          "timeline": "Ongoing",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_repro_health_perimenopause_reproductive_closure.tex"
+    },
+    "grandparenting_role_50_plus": {
+      "name": "Grandparenting & Intergenerational Connection (50+ years)",
+      "category": "Legacy & Connection",
+      "age_range": "50+ years",
+      "subcategory": "Grandparent Role",
+      "characteristics": {
+        "reproductive_closure": "Cannot bear children (acceptance)",
+        "wisdom_transmission": "Experience, values, family history",
+        "support_role": "Childcare, emotional support, financial help",
+        "identity_shift": "From parent to grandparent"
+      },
+      "success_examples": [
+        "Storytelling traditions",
+        "Childcare support",
+        "Legacy projects",
+        "Boundary respect"
+      ],
+      "strategies": [
+        {
+          "name": "Intergenerational Connection & Legacy Building",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6019757140018862,
+          "priority": "high",
+          "tactics": [
+            "Share family history, stories",
+            "Pass down traditions, values",
+            "Respect parent authority",
+            "Provide support without overstepping"
+          ],
+          "timeline": "Ongoing",
+          "risk": "low"
+        },
+        {
+          "name": "Acceptance of Reproductive Closure",
+          "success_rate": 1.0,
+          "avg_improvement": 0.5526799369530856,
+          "priority": "high",
+          "tactics": [
+            "Acknowledge grief/loss if present",
+            "Reframe identity (grandparent, elder)",
+            "Find meaning in supporting next generations",
+            "Celebrate continuation through descendants"
+          ],
+          "timeline": "Menopause onward",
+          "risk": "medium"
+        },
+        {
+          "name": "Trauma-Informed Care Approach",
+          "success_rate": 1.0,
+          "avg_improvement": 0.45010589115352584,
+          "priority": "high",
+          "tactics": [
+            "Screen for trauma history",
+            "Patient-centered communication",
+            "Autonomy in decision-making",
+            "Minimize re-traumatization"
+          ],
+          "timeline": "All encounters",
+          "risk": "low"
+        },
+        {
+          "name": "Culturally Responsive Care",
+          "success_rate": 1.0,
+          "avg_improvement": 0.42401749763471447,
+          "priority": "high",
+          "tactics": [
+            "Language access",
+            "Respect cultural beliefs",
+            "Diverse provider workforce",
+            "Community partnerships"
+          ],
+          "timeline": "Ongoing",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_repro_health_grandparenting_role_50_plus.tex"
+    },
+    "great_grandparenting_legacy": {
+      "name": "Great-Grandparenting & Multi-Generational Legacy (65+ years)",
+      "category": "Legacy & Connection",
+      "age_range": "65+ years",
+      "subcategory": "Elder Wisdom",
+      "characteristics": {
+        "multi_generational_impact": "3-4 generations alive",
+        "wisdom_keeper_role": "Family historian, values transmitter",
+        "health_limitations": "May limit physical involvement",
+        "emotional_connection": "Stories, traditions, unconditional love"
+      },
+      "success_examples": [
+        "Oral history projects",
+        "Letter writing",
+        "Video messages",
+        "Recipe sharing"
+      ],
+      "strategies": [
+        {
+          "name": "Intergenerational Connection & Legacy Building",
+          "success_rate": 1.0,
+          "avg_improvement": 0.6023032844017305,
+          "priority": "high",
+          "tactics": [
+            "Share family history, stories",
+            "Pass down traditions, values",
+            "Respect parent authority",
+            "Provide support without overstepping"
+          ],
+          "timeline": "Ongoing",
+          "risk": "low"
+        },
+        {
+          "name": "Acceptance of Reproductive Closure",
+          "success_rate": 1.0,
+          "avg_improvement": 0.5516086606389867,
+          "priority": "high",
+          "tactics": [
+            "Acknowledge grief/loss if present",
+            "Reframe identity (grandparent, elder)",
+            "Find meaning in supporting next generations",
+            "Celebrate continuation through descendants"
+          ],
+          "timeline": "Menopause onward",
+          "risk": "medium"
+        },
+        {
+          "name": "Trauma-Informed Care Approach",
+          "success_rate": 1.0,
+          "avg_improvement": 0.45088672967946936,
+          "priority": "high",
+          "tactics": [
+            "Screen for trauma history",
+            "Patient-centered communication",
+            "Autonomy in decision-making",
+            "Minimize re-traumatization"
+          ],
+          "timeline": "All encounters",
+          "risk": "low"
+        },
+        {
+          "name": "Culturally Responsive Care",
+          "success_rate": 1.0,
+          "avg_improvement": 0.42207321206484427,
+          "priority": "high",
+          "tactics": [
+            "Language access",
+            "Respect cultural beliefs",
+            "Diverse provider workforce",
+            "Community partnerships"
+          ],
+          "timeline": "Ongoing",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_repro_health_great_grandparenting_legacy.tex"
+    },
+    "reproductive_justice_access": {
+      "name": "Reproductive Justice & Equitable Access (All Ages)",
+      "category": "Health Equity",
+      "age_range": "All ages",
+      "subcategory": "Social Determinants of Reproductive Health",
+      "characteristics": {
+        "definition": "Right to have, not have, and parent children in safe environments",
+        "disparities": "Race, income, geography, insurance affect access",
+        "maternal_mortality_gap": "Black women 3x higher risk than White women",
+        "policy_impact": "Post-Dobbs effects on care access"
+      },
+      "success_examples": [
+        "Medicaid expansion",
+        "Doula programs",
+        "Community health workers",
+        "Cultural competency training"
+      ],
+      "strategies": [
+        {
+          "name": "Address Social Determinants of Reproductive Health",
+          "success_rate": 1.0,
+          "avg_improvement": 0.4813949398849175,
+          "priority": "critical",
+          "tactics": [
+            "Community-based doula programs",
+            "Medicaid expansion",
+            "Implicit bias training",
+            "Cultural humility in care"
+          ],
+          "timeline": "Policy-level + individual care",
+          "risk": "medium"
+        },
+        {
+          "name": "Trauma-Informed Care Approach",
+          "success_rate": 1.0,
+          "avg_improvement": 0.4507654086883474,
+          "priority": "high",
+          "tactics": [
+            "Screen for trauma history",
+            "Patient-centered communication",
+            "Autonomy in decision-making",
+            "Minimize re-traumatization"
+          ],
+          "timeline": "All encounters",
+          "risk": "low"
+        },
+        {
+          "name": "Culturally Responsive Care",
+          "success_rate": 1.0,
+          "avg_improvement": 0.4211352258818404,
+          "priority": "high",
+          "tactics": [
+            "Language access",
+            "Respect cultural beliefs",
+            "Diverse provider workforce",
+            "Community partnerships"
+          ],
+          "timeline": "Ongoing",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_repro_health_reproductive_justice_access.tex"
+    }
+  }
+}

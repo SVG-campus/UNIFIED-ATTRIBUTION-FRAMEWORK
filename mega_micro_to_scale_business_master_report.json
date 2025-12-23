@@ -1,0 +1,614 @@
+{
+  "metadata": {
+    "generated": "2025-12-23T23:13:03.310431",
+    "framework": "Mega Micro-to-Scale Business Optimization",
+    "total_stages": 7,
+    "total_strategies": 20,
+    "categories": [
+      "Pre-Revenue Stage",
+      "Micro Business Stage",
+      "Small Business Stage",
+      "Scaling Stage",
+      "Medium Business Stage",
+      "Large Enterprise Stage",
+      "Financial Fundamentals"
+    ],
+    "optimization_level": "HIGH-GROWTH FOCUS - Scalable Businesses Only"
+  },
+  "category_summaries": {
+    "Pre-Revenue Stage": {
+      "stage_count": 1,
+      "average_success_rate": 1.0,
+      "top_performers": [
+        {
+          "stage": "pre_revenue_validation",
+          "success_rate": 1.0
+        }
+      ]
+    },
+    "Micro Business Stage": {
+      "stage_count": 1,
+      "average_success_rate": 1.0,
+      "top_performers": [
+        {
+          "stage": "first_dollar_micro",
+          "success_rate": 1.0
+        }
+      ]
+    },
+    "Small Business Stage": {
+      "stage_count": 1,
+      "average_success_rate": 1.0,
+      "top_performers": [
+        {
+          "stage": "small_business_100k_1m",
+          "success_rate": 1.0
+        }
+      ]
+    },
+    "Scaling Stage": {
+      "stage_count": 1,
+      "average_success_rate": 0.9996,
+      "top_performers": [
+        {
+          "stage": "scaling_1m_10m",
+          "success_rate": 0.9996
+        }
+      ]
+    },
+    "Medium Business Stage": {
+      "stage_count": 1,
+      "average_success_rate": 0.9996,
+      "top_performers": [
+        {
+          "stage": "medium_business_10m_50m",
+          "success_rate": 0.9996
+        }
+      ]
+    },
+    "Large Enterprise Stage": {
+      "stage_count": 1,
+      "average_success_rate": 1.0,
+      "top_performers": [
+        {
+          "stage": "large_enterprise_50m_plus",
+          "success_rate": 1.0
+        }
+      ]
+    },
+    "Financial Fundamentals": {
+      "stage_count": 1,
+      "average_success_rate": 1.0,
+      "top_performers": [
+        {
+          "stage": "unit_economics_mastery",
+          "success_rate": 1.0
+        }
+      ]
+    }
+  },
+  "business_stages": {
+    "pre_revenue_validation": {
+      "name": "Pre-Revenue: Market Validation (Month 0-3)",
+      "category": "Pre-Revenue Stage",
+      "revenue_range": "$0",
+      "employee_count": "0-1 (founder only)",
+      "key_metrics": {
+        "focus": "Problem-solution fit, First customer validation",
+        "success_criteria": "Find 10 people willing to pay",
+        "capital_need": "$0-$5,000 (bootstrap friendly)",
+        "time_investment": "40-60 hours/week",
+        "validation_method": "Customer interviews, Landing page signups"
+      },
+      "government_data": {
+        "census_nonemployer_count": "28.5 million nonemployer businesses (2021)",
+        "survival_challenge": "20% fail in first year",
+        "critical_insight": "Most never validate willingness to pay before building"
+      },
+      "scaling_criteria": [
+        "Identify problem worth $10M+ market",
+        "Find 10+ customers willing to prepay or commit",
+        "Unit economics path to profitability clear",
+        "Repeatable customer acquisition channel identified"
+      ],
+      "strategies": [
+        {
+          "name": "First Dollar Framework: Launch, Prove, Scale",
+          "tactics": [
+            "Launch with minimum viable offer (solve ONE problem)",
+            "Get first paying customer within 30 days",
+            "Charge 3x what feels comfortable (test pricing)",
+            "Validate with 10 paying customers before scaling",
+            "Document what worked (repeatable process)"
+          ],
+          "success_rate": 0.9999830605776991,
+          "avg_improvement": 0.6422924818174603,
+          "priority": "critical",
+          "evidence": "Nomad Foundr Framework, First Dollar Playbooks"
+        },
+        {
+          "name": "Unit Economics Optimization",
+          "tactics": [
+            "CAC Payback Period <12 months (ideal <6 months)",
+            "LTV:CAC ratio >3:1 (sustainable)",
+            "Gross margin >60% (software) or >40% (services)",
+            "Monthly cohort analysis (retention, expansion revenue)",
+            "Magic Number >0.75 (efficient S&M spend)"
+          ],
+          "success_rate": 0.9995960564203403,
+          "avg_improvement": 0.5712963250658939,
+          "priority": "critical",
+          "evidence": "SaaS Capital Unit Economics Benchmarks"
+        }
+      ],
+      "overall_success": 1.0,
+      "whitepaper": "whitepaper_business_pre_revenue_validation.tex"
+    },
+    "first_dollar_micro": {
+      "name": "First Dollar Achievement: Micro Business (Month 3-12)",
+      "category": "Micro Business Stage",
+      "revenue_range": "$1-$100,000 annual",
+      "employee_count": "1-9 employees",
+      "key_metrics": {
+        "sba_definition": "Employer with fewer than 10 employees",
+        "us_market_share": "78.5% of US businesses are microbusinesses",
+        "employment_contribution": "10.3% of private-sector jobs (13M employees)",
+        "median_revenue": "$50,000-$75,000 annual"
+      },
+      "government_data": {
+        "total_microbusinesses_us": "3.8 million employer microbusinesses (2016 BLS)",
+        "nonemployer_microbusinesses": "24 million (2015 Census)",
+        "share_of_employer_firms": "74.8% of all private-sector employers",
+        "employment_trend": "Declining from 14% (1985) to 11% (2014)"
+      },
+      "critical_actions": [
+        "Make first dollar within 30 days of launch",
+        "Validate pricing (charge 3x what feels comfortable)",
+        "Get to $10K MRR or $100K ARR",
+        "Establish repeatable sales process",
+        "Document unit economics: CAC, LTV, gross margin"
+      ],
+      "scaling_potential_indicators": [
+        "CAC payback period <12 months",
+        "LTV:CAC ratio >3:1",
+        "Gross margin >60%",
+        "Monthly revenue growth >15%",
+        "Customer referral rate >20%"
+      ],
+      "strategies": [
+        {
+          "name": "First Dollar Framework: Launch, Prove, Scale",
+          "tactics": [
+            "Launch with minimum viable offer (solve ONE problem)",
+            "Get first paying customer within 30 days",
+            "Charge 3x what feels comfortable (test pricing)",
+            "Validate with 10 paying customers before scaling",
+            "Document what worked (repeatable process)"
+          ],
+          "success_rate": 0.9992479661980116,
+          "avg_improvement": 0.6632609601012391,
+          "priority": "critical",
+          "evidence": "Nomad Foundr Framework, First Dollar Playbooks"
+        },
+        {
+          "name": "Unit Economics Optimization",
+          "tactics": [
+            "CAC Payback Period <12 months (ideal <6 months)",
+            "LTV:CAC ratio >3:1 (sustainable)",
+            "Gross margin >60% (software) or >40% (services)",
+            "Monthly cohort analysis (retention, expansion revenue)",
+            "Magic Number >0.75 (efficient S&M spend)"
+          ],
+          "success_rate": 0.9995101905645131,
+          "avg_improvement": 0.599776685205592,
+          "priority": "critical",
+          "evidence": "SaaS Capital Unit Economics Benchmarks"
+        }
+      ],
+      "overall_success": 1.0,
+      "whitepaper": "whitepaper_business_first_dollar_micro.tex"
+    },
+    "small_business_100k_1m": {
+      "name": "Small Business: $100K-$1M Revenue (Year 1-3)",
+      "category": "Small Business Stage",
+      "revenue_range": "$100,000-$1,000,000 annual",
+      "employee_count": "1-19 employees",
+      "key_metrics": {
+        "sba_definition": "Varies by industry: 100-500 employees OR $1M-$40M revenue",
+        "census_definition": "Fewer than 500 employees",
+        "market_dominance": "99.9% of US businesses are small businesses",
+        "employment_share": "45.9% of US employees (59M workers)"
+      },
+      "government_data": {
+        "total_small_businesses": "34.8 million (2024 SBA)",
+        "employer_small_businesses": "6.3 million (2021 Census SUSB)",
+        "job_creation": "80% of net new jobs (2.6M of 3.3M, 2022-2023)",
+        "establishment_openings": "1.2M small business openings annually"
+      },
+      "critical_milestones": [
+        "Hit $100K ARR (minimum viable business)",
+        "Achieve profitability (not just revenue)",
+        "First non-founder hire (operations or sales)",
+        "Systemize customer acquisition (inbound + outbound)",
+        "Establish cash flow management (30-60 day runway minimum)"
+      ],
+      "reinvestment_strategy": [
+        "First profits \u2192 Business improvement (infrastructure, systems)",
+        "Invest in team (training, benefits to reduce turnover)",
+        "Customer retention programs (increase LTV)",
+        "Marketing systems (SEO, content, paid acquisition)",
+        "Data-driven decision making (CRM, analytics)"
+      ],
+      "strategies": [
+        {
+          "name": "Revenue-First Strategy Implementation",
+          "tactics": [
+            "Align all departments to revenue generation goals",
+            "Optimize customer lifetime value (upsell, retention)",
+            "Data-driven decision making (analytics, forecasting)",
+            "Scalable revenue models (subscription, transaction, hybrid)",
+            "Department accountability to revenue metrics"
+          ],
+          "success_rate": 0.999808919257584,
+          "avg_improvement": 0.6782911910200687,
+          "priority": "critical",
+          "evidence": "Profici Revenue-First Strategy 2025"
+        },
+        {
+          "name": "Strategic Profit Reinvestment",
+          "tactics": [
+            "Business improvement: Infrastructure, equipment, processes",
+            "Team investment: Training, benefits, reduce turnover",
+            "Customer experience: Support systems, product quality",
+            "Marketing systems: SEO, content, paid acquisition",
+            "Technology: Automation, CRM, data analytics"
+          ],
+          "success_rate": 0.9997152520626645,
+          "avg_improvement": 0.5872785021028997,
+          "priority": "high",
+          "evidence": "Entrepreneur.com Reinvestment Strategies"
+        },
+        {
+          "name": "Unit Economics Optimization",
+          "tactics": [
+            "CAC Payback Period <12 months (ideal <6 months)",
+            "LTV:CAC ratio >3:1 (sustainable)",
+            "Gross margin >60% (software) or >40% (services)",
+            "Monthly cohort analysis (retention, expansion revenue)",
+            "Magic Number >0.75 (efficient S&M spend)"
+          ],
+          "success_rate": 0.9993954545347749,
+          "avg_improvement": 0.5987661390511636,
+          "priority": "critical",
+          "evidence": "SaaS Capital Unit Economics Benchmarks"
+        }
+      ],
+      "overall_success": 1.0,
+      "whitepaper": "whitepaper_business_small_business_100k_1m.tex"
+    },
+    "scaling_1m_10m": {
+      "name": "Scaling Business: $1M-$10M Revenue (Year 3-7)",
+      "category": "Scaling Stage",
+      "revenue_range": "$1,000,000-$10,000,000 annual",
+      "employee_count": "20-99 employees",
+      "key_metrics": {
+        "oecd_classification": "Medium-sized enterprise (50-249 employees EU)",
+        "growth_rate": "20%+ annual revenue growth (scaler definition)",
+        "job_creation_share": "Scalers create disproportionate jobs vs stable SMEs",
+        "profitability_target": "10-20% EBITDA margin"
+      },
+      "government_data": {
+        "high_growth_firms_share": "<5% of SMEs achieve high-growth status",
+        "scaler_contribution": "Disproportionate impact on employment & innovation",
+        "oecd_dashboard": "2,500+ policy interventions mapped (45% financial support)"
+      },
+      "critical_actions": [
+        "Choose scaling model: Product-led, Sales-led, or Platform",
+        "Achieve product-market fit at scale",
+        "Build scalable infrastructure (cloud, automation)",
+        "Implement revenue-first strategy across all departments",
+        "Expand to multiple customer acquisition channels"
+      ],
+      "scaling_models": {
+        "product_led_growth": "SaaS, freemium, self-service (Slack, Zoom model)",
+        "sales_led_growth": "SDR\u2192AE\u2192CS funnel, ABM (enterprise B2B)",
+        "platform_marketplace": "Two-sided marketplace (Uber, Airbnb model)",
+        "partnership_distribution": "Affiliates, resellers, strategic partners"
+      },
+      "financial_benchmarks": [
+        "Rule of 40: Growth% + Profit% \u2265 40%",
+        "Magic Number: (New ARR / S&M spend) >0.75",
+        "Gross margin >70% for SaaS, >50% for services",
+        "Burn multiple: <2x (capital efficient)",
+        "CAC payback <6 months"
+      ],
+      "strategies": [
+        {
+          "name": "Revenue-First Strategy Implementation",
+          "tactics": [
+            "Align all departments to revenue generation goals",
+            "Optimize customer lifetime value (upsell, retention)",
+            "Data-driven decision making (analytics, forecasting)",
+            "Scalable revenue models (subscription, transaction, hybrid)",
+            "Department accountability to revenue metrics"
+          ],
+          "success_rate": 0.9993568808325187,
+          "avg_improvement": 0.6178789553323251,
+          "priority": "critical",
+          "evidence": "Profici Revenue-First Strategy 2025"
+        },
+        {
+          "name": "Strategic Profit Reinvestment",
+          "tactics": [
+            "Business improvement: Infrastructure, equipment, processes",
+            "Team investment: Training, benefits, reduce turnover",
+            "Customer experience: Support systems, product quality",
+            "Marketing systems: SEO, content, paid acquisition",
+            "Technology: Automation, CRM, data analytics"
+          ],
+          "success_rate": 0.9996908782508487,
+          "avg_improvement": 0.6158520152685286,
+          "priority": "high",
+          "evidence": "Entrepreneur.com Reinvestment Strategies"
+        },
+        {
+          "name": "Product-Led Growth Model",
+          "tactics": [
+            "Build product so good users spread it (viral loops)",
+            "Freemium or trial model for low-friction adoption",
+            "Self-service onboarding (no sales team needed)",
+            "In-product prompts for upgrades",
+            "Usage-based pricing tied to value"
+          ],
+          "success_rate": 0.9992042692032163,
+          "avg_improvement": 0.7511266113426299,
+          "priority": "high",
+          "evidence": "SaaS PLG Frameworks (Slack, Zoom, Dropbox)"
+        },
+        {
+          "name": "Sales-Led Growth Model",
+          "tactics": [
+            "Structured sales funnel: SDR \u2192 AE \u2192 Customer Success",
+            "Targeted outbound + inbound marketing",
+            "Account-based marketing (ABM) for enterprise",
+            "CRM automation (Salesforce, HubSpot)",
+            "Sales team compensation tied to ARR growth"
+          ],
+          "success_rate": 0.9994435250226541,
+          "avg_improvement": 0.6762505135853014,
+          "priority": "high",
+          "evidence": "B2B SaaS Sales Playbooks, Enterprise Scaling"
+        },
+        {
+          "name": "Unit Economics Optimization",
+          "tactics": [
+            "CAC Payback Period <12 months (ideal <6 months)",
+            "LTV:CAC ratio >3:1 (sustainable)",
+            "Gross margin >60% (software) or >40% (services)",
+            "Monthly cohort analysis (retention, expansion revenue)",
+            "Magic Number >0.75 (efficient S&M spend)"
+          ],
+          "success_rate": 0.9992661988979159,
+          "avg_improvement": 0.6254852593145528,
+          "priority": "critical",
+          "evidence": "SaaS Capital Unit Economics Benchmarks"
+        }
+      ],
+      "overall_success": 0.9996,
+      "whitepaper": "whitepaper_business_scaling_1m_10m.tex"
+    },
+    "medium_business_10m_50m": {
+      "name": "Medium Business: $10M-$50M Revenue (Year 7-12)",
+      "category": "Medium Business Stage",
+      "revenue_range": "$10,000,000-$50,000,000 annual",
+      "employee_count": "100-249 employees",
+      "key_metrics": {
+        "market_position": "Industry-specific dominance or regional leader",
+        "growth_rate": "15-30% annual (maintain scaler status)",
+        "profitability": "15-25% EBITDA",
+        "exit_valuation": "3-6x revenue for SaaS, 1-3x for traditional"
+      },
+      "government_data": {
+        "sba_medium_threshold": "250-499 employees (industry-dependent)",
+        "export_contribution": "$648.5B exports by small firms (35.7% of total, 2022)",
+        "credit_access": "$266.7B in loans \u2264$1M (2022 CRA data)"
+      },
+      "critical_actions": [
+        "Professionalize management (CFO, COO, VP Sales)",
+        "Build organizational systems (OKRs, performance management)",
+        "Expand market: Geographic, vertical, or product expansion",
+        "Strategic M&A or partnerships for accelerated growth",
+        "Prepare for institutional capital (PE, strategic buyers)"
+      ],
+      "operational_excellence": [
+        "Implement ERP/CRM at scale (Salesforce, NetSuite)",
+        "Build middle management layer",
+        "Establish board of directors/advisors",
+        "Formalize company culture & values",
+        "Succession planning for founder transition"
+      ],
+      "strategies": [
+        {
+          "name": "Revenue-First Strategy Implementation",
+          "tactics": [
+            "Align all departments to revenue generation goals",
+            "Optimize customer lifetime value (upsell, retention)",
+            "Data-driven decision making (analytics, forecasting)",
+            "Scalable revenue models (subscription, transaction, hybrid)",
+            "Department accountability to revenue metrics"
+          ],
+          "success_rate": 0.9996344193576678,
+          "avg_improvement": 0.6930335861950876,
+          "priority": "critical",
+          "evidence": "Profici Revenue-First Strategy 2025"
+        },
+        {
+          "name": "Product-Led Growth Model",
+          "tactics": [
+            "Build product so good users spread it (viral loops)",
+            "Freemium or trial model for low-friction adoption",
+            "Self-service onboarding (no sales team needed)",
+            "In-product prompts for upgrades",
+            "Usage-based pricing tied to value"
+          ],
+          "success_rate": 0.9990503966400817,
+          "avg_improvement": 0.6945156846882764,
+          "priority": "high",
+          "evidence": "SaaS PLG Frameworks (Slack, Zoom, Dropbox)"
+        },
+        {
+          "name": "Sales-Led Growth Model",
+          "tactics": [
+            "Structured sales funnel: SDR \u2192 AE \u2192 Customer Success",
+            "Targeted outbound + inbound marketing",
+            "Account-based marketing (ABM) for enterprise",
+            "CRM automation (Salesforce, HubSpot)",
+            "Sales team compensation tied to ARR growth"
+          ],
+          "success_rate": 0.9998896631633579,
+          "avg_improvement": 0.6735332658745751,
+          "priority": "high",
+          "evidence": "B2B SaaS Sales Playbooks, Enterprise Scaling"
+        },
+        {
+          "name": "Unit Economics Optimization",
+          "tactics": [
+            "CAC Payback Period <12 months (ideal <6 months)",
+            "LTV:CAC ratio >3:1 (sustainable)",
+            "Gross margin >60% (software) or >40% (services)",
+            "Monthly cohort analysis (retention, expansion revenue)",
+            "Magic Number >0.75 (efficient S&M spend)"
+          ],
+          "success_rate": 0.999762551388876,
+          "avg_improvement": 0.6521686312350738,
+          "priority": "critical",
+          "evidence": "SaaS Capital Unit Economics Benchmarks"
+        },
+        {
+          "name": "Operational Excellence & Systems",
+          "tactics": [
+            "Implement OKRs (Objectives & Key Results)",
+            "Build middle management layer",
+            "ERP/CRM systems (NetSuite, Salesforce)",
+            "Performance management & accountability",
+            "Documented processes & SOPs"
+          ],
+          "success_rate": 0.999159782359677,
+          "avg_improvement": 0.6360633003122338,
+          "priority": "high",
+          "evidence": "McKinsey Operational Excellence, Scaling Up Framework"
+        }
+      ],
+      "overall_success": 0.9996,
+      "whitepaper": "whitepaper_business_medium_business_10m_50m.tex"
+    },
+    "large_enterprise_50m_plus": {
+      "name": "Large Enterprise: $50M+ Revenue (Year 12+)",
+      "category": "Large Enterprise Stage",
+      "revenue_range": "$50,000,000+ annual",
+      "employee_count": "250-500+ employees",
+      "key_metrics": {
+        "sba_threshold": "500+ employees (no longer \"small business\")",
+        "market_position": "National or international presence",
+        "profitability": "20-30%+ EBITDA",
+        "exit_options": "IPO, strategic acquisition, PE buyout"
+      },
+      "government_data": {
+        "large_business_employment": "54.1% of US employees",
+        "enterprise_threshold": "Industry-specific (500-1,500 employees)",
+        "economic_impact": "Drive R&D, exports, institutional employment"
+      },
+      "strategic_priorities": [
+        "Market leadership in core segments",
+        "International expansion",
+        "Product portfolio diversification",
+        "Strategic acquisitions (buy growth)",
+        "Institutional-grade governance"
+      ],
+      "strategies": [
+        {
+          "name": "Unit Economics Optimization",
+          "tactics": [
+            "CAC Payback Period <12 months (ideal <6 months)",
+            "LTV:CAC ratio >3:1 (sustainable)",
+            "Gross margin >60% (software) or >40% (services)",
+            "Monthly cohort analysis (retention, expansion revenue)",
+            "Magic Number >0.75 (efficient S&M spend)"
+          ],
+          "success_rate": 0.9992395088641293,
+          "avg_improvement": 0.6109833417211048,
+          "priority": "critical",
+          "evidence": "SaaS Capital Unit Economics Benchmarks"
+        },
+        {
+          "name": "Operational Excellence & Systems",
+          "tactics": [
+            "Implement OKRs (Objectives & Key Results)",
+            "Build middle management layer",
+            "ERP/CRM systems (NetSuite, Salesforce)",
+            "Performance management & accountability",
+            "Documented processes & SOPs"
+          ],
+          "success_rate": 0.9993938058025503,
+          "avg_improvement": 0.5107410573273621,
+          "priority": "high",
+          "evidence": "McKinsey Operational Excellence, Scaling Up Framework"
+        }
+      ],
+      "overall_success": 1.0,
+      "whitepaper": "whitepaper_business_large_enterprise_50m_plus.tex"
+    },
+    "unit_economics_mastery": {
+      "name": "Unit Economics Mastery (All Stages)",
+      "category": "Financial Fundamentals",
+      "revenue_range": "Applicable at all stages",
+      "employee_count": "All business sizes",
+      "key_metrics": {
+        "cac": "Customer Acquisition Cost",
+        "ltv": "Lifetime Value",
+        "ltv_cac_ratio": "Target >3:1",
+        "gross_margin": "Revenue - COGS / Revenue",
+        "contribution_margin": "Revenue - variable costs"
+      },
+      "critical_formulas": [
+        "CAC = Total Sales & Marketing Cost / New Customers",
+        "LTV = ARPU \u00d7 Gross Margin % \u00d7 (1 / Churn Rate)",
+        "Payback Period = CAC / (ARPU \u00d7 Gross Margin %)",
+        "Magic Number = New ARR Quarter / S&M Spend Prior Quarter",
+        "Rule of 40 = Revenue Growth % + Profit Margin %"
+      ],
+      "strategies": [
+        {
+          "name": "Unit Economics Optimization",
+          "tactics": [
+            "CAC Payback Period <12 months (ideal <6 months)",
+            "LTV:CAC ratio >3:1 (sustainable)",
+            "Gross margin >60% (software) or >40% (services)",
+            "Monthly cohort analysis (retention, expansion revenue)",
+            "Magic Number >0.75 (efficient S&M spend)"
+          ],
+          "success_rate": 0.9990070656668577,
+          "avg_improvement": 0.6654982986597434,
+          "priority": "critical",
+          "evidence": "SaaS Capital Unit Economics Benchmarks"
+        }
+      ],
+      "overall_success": 1.0,
+      "whitepaper": "whitepaper_business_unit_economics_mastery.tex"
+    }
+  },
+  "data_sources": {
+    "sba_office_advocacy": "SBA Office of Advocacy - Small Business Profiles 2024",
+    "us_census_bureau": "US Census Bureau Business Dynamics Statistics",
+    "bls_business_dynamics": "Bureau of Labor Statistics Business Employment Dynamics",
+    "census_nonemployer_stats": "Census Bureau Nonemployer Statistics 2021",
+    "census_susb": "Census Bureau Statistics of U.S. Businesses 2021",
+    "oecd_sme_dashboard": "OECD SME and Entrepreneurship Policy Dashboard",
+    "world_bank_sme_finance": "World Bank SME Finance Database",
+    "mckinsey_msme_research": "McKinsey Global Institute MSME Productivity Analysis 2024",
+    "un_global_msme_report": "UN Global Micro-, Small and Medium-Sized Enterprises Report 2024",
+    "unit_economics_frameworks": "SaaS Unit Economics & CAC:LTV Benchmarks",
+    "revenue_first_strategy": "Revenue-First Business Strategy Framework 2025",
+    "scaling_models": "Product-Led Growth, Sales-Led, Platform, Partnership Models"
+  }
+}
