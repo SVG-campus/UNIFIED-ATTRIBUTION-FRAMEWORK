@@ -1,0 +1,3575 @@
+{
+  "metadata": {
+    "generated": "2025-12-23T04:10:36.813060",
+    "total_relationship_types": 33,
+    "total_strategies": 187,
+    "categories": [
+      "Parentage",
+      "Grandparentage",
+      "Dating",
+      "Marriage",
+      "Friendship",
+      "Professional",
+      "Leadership",
+      "Family"
+    ]
+  },
+  "categories": {
+    "Parentage": {
+      "relationship_type_count": 6,
+      "average_success_rate": 1.0,
+      "top_performers": [
+        [
+          "parent_infant",
+          1.0
+        ],
+        [
+          "parent_toddler",
+          1.0
+        ],
+        [
+          "parent_child",
+          1.0
+        ]
+      ]
+    },
+    "Grandparentage": {
+      "relationship_type_count": 4,
+      "average_success_rate": 1.0,
+      "top_performers": [
+        [
+          "grandparent_infant",
+          1.0
+        ],
+        [
+          "grandparent_child",
+          1.0
+        ],
+        [
+          "grandparent_teen",
+          1.0
+        ]
+      ]
+    },
+    "Dating": {
+      "relationship_type_count": 6,
+      "average_success_rate": 0.999,
+      "top_performers": [
+        [
+          "exclusive_dating",
+          0.9996666666666667
+        ],
+        [
+          "pre_engagement_dating",
+          0.9994999999999999
+        ],
+        [
+          "second_chance_dating",
+          0.9994999999999999
+        ]
+      ]
+    },
+    "Marriage": {
+      "relationship_type_count": 5,
+      "average_success_rate": 0.9999142857142858,
+      "top_performers": [
+        [
+          "newlywed_marriage",
+          1.0
+        ],
+        [
+          "longterm_marriage",
+          1.0
+        ],
+        [
+          "established_marriage",
+          0.9998571428571429
+        ]
+      ]
+    },
+    "Friendship": {
+      "relationship_type_count": 5,
+      "average_success_rate": 1.0,
+      "top_performers": [
+        [
+          "childhood_friendship",
+          1.0
+        ],
+        [
+          "teen_friendship",
+          1.0
+        ],
+        [
+          "college_friendship",
+          1.0
+        ]
+      ]
+    },
+    "Professional": {
+      "relationship_type_count": 2,
+      "average_success_rate": 1.0,
+      "top_performers": [
+        [
+          "peer_colleague",
+          1.0
+        ],
+        [
+          "mentor_mentee",
+          1.0
+        ]
+      ]
+    },
+    "Leadership": {
+      "relationship_type_count": 2,
+      "average_success_rate": 1.0,
+      "top_performers": [
+        [
+          "manager_employee",
+          1.0
+        ],
+        [
+          "executive_leadership",
+          1.0
+        ]
+      ]
+    },
+    "Family": {
+      "relationship_type_count": 3,
+      "average_success_rate": 1.0,
+      "top_performers": [
+        [
+          "sibling_childhood",
+          1.0
+        ],
+        [
+          "sibling_adult",
+          1.0
+        ],
+        [
+          "extended_family",
+          1.0
+        ]
+      ]
+    }
+  },
+  "relationship_types": {
+    "parent_infant": {
+      "name": "Parent-Infant Relationship (0-2 years)",
+      "category": "Parentage",
+      "subcategory": "Early Childhood",
+      "characteristics": {
+        "attachment_strength": 0.95,
+        "communication_complexity": 0.15,
+        "independence_level": 0.05,
+        "conflict_potential": 0.2,
+        "growth_rate": 0.9,
+        "stability": 0.85,
+        "time_investment": 0.95
+      },
+      "success_examples": [
+        "Secure Attachment",
+        "Responsive Parenting",
+        "Early Intervention Programs"
+      ],
+      "strategies": [
+        {
+          "name": "Attachment Security Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9846200932438001,
+          "priority": "high",
+          "tactics": [
+            "Responsive caregiving",
+            "Consistency",
+            "Physical affection",
+            "Attunement"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Communication Quality Improvement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9434980215235736,
+          "priority": "high",
+          "tactics": [
+            "Active listening",
+            "Emotional validation",
+            "Age-appropriate dialogue",
+            "Conflict resolution"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Developmental Support Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9801753773731354,
+          "priority": "high",
+          "tactics": [
+            "Age-appropriate challenges",
+            "Educational support",
+            "Skill development",
+            "Independence fostering"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Emotional Intelligence Building",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9422193929678049,
+          "priority": "high",
+          "tactics": [
+            "Emotion labeling",
+            "Regulation teaching",
+            "Empathy modeling",
+            "Self-awareness"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Boundary and Structure Establishment",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9861488760162693,
+          "priority": "high",
+          "tactics": [
+            "Clear expectations",
+            "Consistent consequences",
+            "Age-appropriate autonomy",
+            "Safety framework"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Universal Relationship Quality Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 1.0259161419364446,
+          "priority": "high",
+          "tactics": [
+            "Consistent effort",
+            "Quality time",
+            "Clear communication",
+            "Mutual respect",
+            "Adaptability"
+          ],
+          "timeline": "6-12 months",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_relationship_parent_infant.tex"
+    },
+    "parent_toddler": {
+      "name": "Parent-Toddler Relationship (2-5 years)",
+      "category": "Parentage",
+      "subcategory": "Early Childhood",
+      "characteristics": {
+        "attachment_strength": 0.9,
+        "communication_complexity": 0.35,
+        "independence_level": 0.25,
+        "conflict_potential": 0.45,
+        "growth_rate": 0.75,
+        "stability": 0.8,
+        "time_investment": 0.9
+      },
+      "success_examples": [
+        "Positive Discipline",
+        "Montessori Approach",
+        "Play-Based Learning"
+      ],
+      "strategies": [
+        {
+          "name": "Attachment Security Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9433024740453881,
+          "priority": "high",
+          "tactics": [
+            "Responsive caregiving",
+            "Consistency",
+            "Physical affection",
+            "Attunement"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Communication Quality Improvement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8975086927420817,
+          "priority": "high",
+          "tactics": [
+            "Active listening",
+            "Emotional validation",
+            "Age-appropriate dialogue",
+            "Conflict resolution"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Developmental Support Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9345579038649695,
+          "priority": "high",
+          "tactics": [
+            "Age-appropriate challenges",
+            "Educational support",
+            "Skill development",
+            "Independence fostering"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Emotional Intelligence Building",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9044768025409076,
+          "priority": "high",
+          "tactics": [
+            "Emotion labeling",
+            "Regulation teaching",
+            "Empathy modeling",
+            "Self-awareness"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Boundary and Structure Establishment",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9423399843390028,
+          "priority": "high",
+          "tactics": [
+            "Clear expectations",
+            "Consistent consequences",
+            "Age-appropriate autonomy",
+            "Safety framework"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Universal Relationship Quality Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.987715537524758,
+          "priority": "high",
+          "tactics": [
+            "Consistent effort",
+            "Quality time",
+            "Clear communication",
+            "Mutual respect",
+            "Adaptability"
+          ],
+          "timeline": "6-12 months",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_relationship_parent_toddler.tex"
+    },
+    "parent_child": {
+      "name": "Parent-Child Relationship (6-12 years)",
+      "category": "Parentage",
+      "subcategory": "Middle Childhood",
+      "characteristics": {
+        "attachment_strength": 0.85,
+        "communication_complexity": 0.65,
+        "independence_level": 0.5,
+        "conflict_potential": 0.35,
+        "growth_rate": 0.6,
+        "stability": 0.85,
+        "time_investment": 0.75
+      },
+      "success_examples": [
+        "Authoritative Parenting",
+        "Growth Mindset",
+        "Family Rituals"
+      ],
+      "strategies": [
+        {
+          "name": "Attachment Security Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9475925679246102,
+          "priority": "high",
+          "tactics": [
+            "Responsive caregiving",
+            "Consistency",
+            "Physical affection",
+            "Attunement"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Communication Quality Improvement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9036264055890566,
+          "priority": "high",
+          "tactics": [
+            "Active listening",
+            "Emotional validation",
+            "Age-appropriate dialogue",
+            "Conflict resolution"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Developmental Support Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9473980589830542,
+          "priority": "high",
+          "tactics": [
+            "Age-appropriate challenges",
+            "Educational support",
+            "Skill development",
+            "Independence fostering"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Emotional Intelligence Building",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9126183543432796,
+          "priority": "high",
+          "tactics": [
+            "Emotion labeling",
+            "Regulation teaching",
+            "Empathy modeling",
+            "Self-awareness"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Boundary and Structure Establishment",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9488375702508147,
+          "priority": "high",
+          "tactics": [
+            "Clear expectations",
+            "Consistent consequences",
+            "Age-appropriate autonomy",
+            "Safety framework"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Universal Relationship Quality Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9878404223963467,
+          "priority": "high",
+          "tactics": [
+            "Consistent effort",
+            "Quality time",
+            "Clear communication",
+            "Mutual respect",
+            "Adaptability"
+          ],
+          "timeline": "6-12 months",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_relationship_parent_child.tex"
+    },
+    "parent_teen": {
+      "name": "Parent-Adolescent Relationship (13-18 years)",
+      "category": "Parentage",
+      "subcategory": "Adolescence",
+      "characteristics": {
+        "attachment_strength": 0.75,
+        "communication_complexity": 0.8,
+        "independence_level": 0.75,
+        "conflict_potential": 0.65,
+        "growth_rate": 0.45,
+        "stability": 0.65,
+        "time_investment": 0.6
+      },
+      "success_examples": [
+        "Collaborative Problem-Solving",
+        "Open Communication",
+        "Monitored Independence"
+      ],
+      "strategies": [
+        {
+          "name": "Attachment Security Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8780726526211734,
+          "priority": "high",
+          "tactics": [
+            "Responsive caregiving",
+            "Consistency",
+            "Physical affection",
+            "Attunement"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Communication Quality Improvement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8426942294108376,
+          "priority": "high",
+          "tactics": [
+            "Active listening",
+            "Emotional validation",
+            "Age-appropriate dialogue",
+            "Conflict resolution"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Developmental Support Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8766485866228955,
+          "priority": "high",
+          "tactics": [
+            "Age-appropriate challenges",
+            "Educational support",
+            "Skill development",
+            "Independence fostering"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Emotional Intelligence Building",
+          "success_rate": 1.0,
+          "avg_improvement": 0.843060128815122,
+          "priority": "high",
+          "tactics": [
+            "Emotion labeling",
+            "Regulation teaching",
+            "Empathy modeling",
+            "Self-awareness"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Boundary and Structure Establishment",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8750821710255615,
+          "priority": "high",
+          "tactics": [
+            "Clear expectations",
+            "Consistent consequences",
+            "Age-appropriate autonomy",
+            "Safety framework"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Universal Relationship Quality Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9167558397058656,
+          "priority": "high",
+          "tactics": [
+            "Consistent effort",
+            "Quality time",
+            "Clear communication",
+            "Mutual respect",
+            "Adaptability"
+          ],
+          "timeline": "6-12 months",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_relationship_parent_teen.tex"
+    },
+    "parent_young_adult": {
+      "name": "Parent-Young Adult Relationship (19-30 years)",
+      "category": "Parentage",
+      "subcategory": "Early Adulthood",
+      "characteristics": {
+        "attachment_strength": 0.7,
+        "communication_complexity": 0.85,
+        "independence_level": 0.9,
+        "conflict_potential": 0.4,
+        "growth_rate": 0.3,
+        "stability": 0.75,
+        "time_investment": 0.35
+      },
+      "success_examples": [
+        "Adult Friendship Model",
+        "Mentorship Role",
+        "Supportive Distance"
+      ],
+      "strategies": [
+        {
+          "name": "Attachment Security Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9116232717111642,
+          "priority": "high",
+          "tactics": [
+            "Responsive caregiving",
+            "Consistency",
+            "Physical affection",
+            "Attunement"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Communication Quality Improvement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8779006398823727,
+          "priority": "high",
+          "tactics": [
+            "Active listening",
+            "Emotional validation",
+            "Age-appropriate dialogue",
+            "Conflict resolution"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Developmental Support Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9097644360153294,
+          "priority": "high",
+          "tactics": [
+            "Age-appropriate challenges",
+            "Educational support",
+            "Skill development",
+            "Independence fostering"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Emotional Intelligence Building",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8754253967370625,
+          "priority": "high",
+          "tactics": [
+            "Emotion labeling",
+            "Regulation teaching",
+            "Empathy modeling",
+            "Self-awareness"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Boundary and Structure Establishment",
+          "success_rate": 1.0,
+          "avg_improvement": 0.908556271326615,
+          "priority": "high",
+          "tactics": [
+            "Clear expectations",
+            "Consistent consequences",
+            "Age-appropriate autonomy",
+            "Safety framework"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Universal Relationship Quality Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9533508512102412,
+          "priority": "high",
+          "tactics": [
+            "Consistent effort",
+            "Quality time",
+            "Clear communication",
+            "Mutual respect",
+            "Adaptability"
+          ],
+          "timeline": "6-12 months",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_relationship_parent_young_adult.tex"
+    },
+    "parent_adult_child": {
+      "name": "Parent-Adult Child Relationship (30+ years)",
+      "category": "Parentage",
+      "subcategory": "Mature Adulthood",
+      "characteristics": {
+        "attachment_strength": 0.75,
+        "communication_complexity": 0.75,
+        "independence_level": 0.95,
+        "conflict_potential": 0.3,
+        "growth_rate": 0.15,
+        "stability": 0.85,
+        "time_investment": 0.3
+      },
+      "success_examples": [
+        "Role Reversal Grace",
+        "Wisdom Sharing",
+        "Mutual Care"
+      ],
+      "strategies": [
+        {
+          "name": "Attachment Security Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9442532354358592,
+          "priority": "high",
+          "tactics": [
+            "Responsive caregiving",
+            "Consistency",
+            "Physical affection",
+            "Attunement"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Communication Quality Improvement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8965350738350198,
+          "priority": "high",
+          "tactics": [
+            "Active listening",
+            "Emotional validation",
+            "Age-appropriate dialogue",
+            "Conflict resolution"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Developmental Support Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9410267475477081,
+          "priority": "high",
+          "tactics": [
+            "Age-appropriate challenges",
+            "Educational support",
+            "Skill development",
+            "Independence fostering"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Emotional Intelligence Building",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8985845739590687,
+          "priority": "high",
+          "tactics": [
+            "Emotion labeling",
+            "Regulation teaching",
+            "Empathy modeling",
+            "Self-awareness"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Boundary and Structure Establishment",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9446162903202645,
+          "priority": "high",
+          "tactics": [
+            "Clear expectations",
+            "Consistent consequences",
+            "Age-appropriate autonomy",
+            "Safety framework"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Universal Relationship Quality Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9831356669373985,
+          "priority": "high",
+          "tactics": [
+            "Consistent effort",
+            "Quality time",
+            "Clear communication",
+            "Mutual respect",
+            "Adaptability"
+          ],
+          "timeline": "6-12 months",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_relationship_parent_adult_child.tex"
+    },
+    "grandparent_infant": {
+      "name": "Grandparent-Infant Relationship (0-5 years)",
+      "category": "Grandparentage",
+      "subcategory": "Early Grandparenting",
+      "characteristics": {
+        "attachment_strength": 0.85,
+        "communication_complexity": 0.2,
+        "independence_level": 0.1,
+        "conflict_potential": 0.25,
+        "growth_rate": 0.7,
+        "stability": 0.8,
+        "time_investment": 0.6
+      },
+      "success_examples": [
+        "Regular Visits",
+        "Storytime Traditions",
+        "Special Rituals"
+      ],
+      "strategies": [
+        {
+          "name": "Intergenerational Bond Strengthening",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9762324966194083,
+          "priority": "high",
+          "tactics": [
+            "Regular contact",
+            "Special traditions",
+            "Storytelling",
+            "One-on-one time"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Wisdom and Legacy Transmission",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9694744868901136,
+          "priority": "critical",
+          "tactics": [
+            "Family history sharing",
+            "Value teaching",
+            "Skill passing",
+            "Cultural preservation"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Parental Support Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9454440520503913,
+          "priority": "high",
+          "tactics": [
+            "Respectful boundaries",
+            "Practical help",
+            "Emotional support",
+            "Childcare balance"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Unconditional Love Demonstration",
+          "success_rate": 1.0,
+          "avg_improvement": 0.975600217326962,
+          "priority": "high",
+          "tactics": [
+            "Acceptance",
+            "Non-judgmental presence",
+            "Special attention",
+            "Safe haven"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Universal Relationship Quality Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 1.0149043374577673,
+          "priority": "high",
+          "tactics": [
+            "Consistent effort",
+            "Quality time",
+            "Clear communication",
+            "Mutual respect",
+            "Adaptability"
+          ],
+          "timeline": "6-12 months",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_relationship_grandparent_infant.tex"
+    },
+    "grandparent_child": {
+      "name": "Grandparent-Child Relationship (6-12 years)",
+      "category": "Grandparentage",
+      "subcategory": "Active Grandparenting",
+      "characteristics": {
+        "attachment_strength": 0.8,
+        "communication_complexity": 0.6,
+        "independence_level": 0.4,
+        "conflict_potential": 0.2,
+        "growth_rate": 0.5,
+        "stability": 0.85,
+        "time_investment": 0.55
+      },
+      "success_examples": [
+        "Summer Visits",
+        "Skills Teaching",
+        "Historical Storytelling"
+      ],
+      "strategies": [
+        {
+          "name": "Intergenerational Bond Strengthening",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9744430253492414,
+          "priority": "high",
+          "tactics": [
+            "Regular contact",
+            "Special traditions",
+            "Storytelling",
+            "One-on-one time"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Wisdom and Legacy Transmission",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9849492415746829,
+          "priority": "critical",
+          "tactics": [
+            "Family history sharing",
+            "Value teaching",
+            "Skill passing",
+            "Cultural preservation"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Parental Support Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9415419891832626,
+          "priority": "high",
+          "tactics": [
+            "Respectful boundaries",
+            "Practical help",
+            "Emotional support",
+            "Childcare balance"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Unconditional Love Demonstration",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9805544246080503,
+          "priority": "high",
+          "tactics": [
+            "Acceptance",
+            "Non-judgmental presence",
+            "Special attention",
+            "Safe haven"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Universal Relationship Quality Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 1.018599393284372,
+          "priority": "high",
+          "tactics": [
+            "Consistent effort",
+            "Quality time",
+            "Clear communication",
+            "Mutual respect",
+            "Adaptability"
+          ],
+          "timeline": "6-12 months",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_relationship_grandparent_child.tex"
+    },
+    "grandparent_teen": {
+      "name": "Grandparent-Teen Relationship (13-18 years)",
+      "category": "Grandparentage",
+      "subcategory": "Transitional Grandparenting",
+      "characteristics": {
+        "attachment_strength": 0.7,
+        "communication_complexity": 0.75,
+        "independence_level": 0.7,
+        "conflict_potential": 0.25,
+        "growth_rate": 0.3,
+        "stability": 0.75,
+        "time_investment": 0.35
+      },
+      "success_examples": [
+        "Life Advice",
+        "Historical Context",
+        "Neutral Confidant"
+      ],
+      "strategies": [
+        {
+          "name": "Intergenerational Bond Strengthening",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9503726673074286,
+          "priority": "high",
+          "tactics": [
+            "Regular contact",
+            "Special traditions",
+            "Storytelling",
+            "One-on-one time"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Wisdom and Legacy Transmission",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9486269385050492,
+          "priority": "critical",
+          "tactics": [
+            "Family history sharing",
+            "Value teaching",
+            "Skill passing",
+            "Cultural preservation"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Parental Support Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9107474000855269,
+          "priority": "high",
+          "tactics": [
+            "Respectful boundaries",
+            "Practical help",
+            "Emotional support",
+            "Childcare balance"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Unconditional Love Demonstration",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9491176265942345,
+          "priority": "high",
+          "tactics": [
+            "Acceptance",
+            "Non-judgmental presence",
+            "Special attention",
+            "Safe haven"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Universal Relationship Quality Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9904917666833618,
+          "priority": "high",
+          "tactics": [
+            "Consistent effort",
+            "Quality time",
+            "Clear communication",
+            "Mutual respect",
+            "Adaptability"
+          ],
+          "timeline": "6-12 months",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_relationship_grandparent_teen.tex"
+    },
+    "grandparent_adult": {
+      "name": "Grandparent-Adult Grandchild Relationship (18+ years)",
+      "category": "Grandparentage",
+      "subcategory": "Legacy Grandparenting",
+      "characteristics": {
+        "attachment_strength": 0.75,
+        "communication_complexity": 0.8,
+        "independence_level": 0.95,
+        "conflict_potential": 0.15,
+        "growth_rate": 0.2,
+        "stability": 0.85,
+        "time_investment": 0.4
+      },
+      "success_examples": [
+        "Family History Preservation",
+        "Reciprocal Care",
+        "Deep Conversations"
+      ],
+      "strategies": [
+        {
+          "name": "Intergenerational Bond Strengthening",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9757894231284656,
+          "priority": "high",
+          "tactics": [
+            "Regular contact",
+            "Special traditions",
+            "Storytelling",
+            "One-on-one time"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Wisdom and Legacy Transmission",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9781119328376775,
+          "priority": "critical",
+          "tactics": [
+            "Family history sharing",
+            "Value teaching",
+            "Skill passing",
+            "Cultural preservation"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Parental Support Optimization",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9480550277362055,
+          "priority": "high",
+          "tactics": [
+            "Respectful boundaries",
+            "Practical help",
+            "Emotional support",
+            "Childcare balance"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Unconditional Love Demonstration",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9773729772469051,
+          "priority": "high",
+          "tactics": [
+            "Acceptance",
+            "Non-judgmental presence",
+            "Special attention",
+            "Safe haven"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Universal Relationship Quality Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 1.023124117469539,
+          "priority": "high",
+          "tactics": [
+            "Consistent effort",
+            "Quality time",
+            "Clear communication",
+            "Mutual respect",
+            "Adaptability"
+          ],
+          "timeline": "6-12 months",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_relationship_grandparent_adult.tex"
+    },
+    "casual_dating": {
+      "name": "Casual Dating Relationship (Early Stage)",
+      "category": "Dating",
+      "subcategory": "Exploratory",
+      "characteristics": {
+        "attachment_strength": 0.4,
+        "communication_complexity": 0.5,
+        "independence_level": 0.85,
+        "conflict_potential": 0.3,
+        "growth_rate": 0.65,
+        "stability": 0.45,
+        "time_investment": 0.35
+      },
+      "success_examples": [
+        "Open Communication",
+        "Clear Expectations",
+        "Fun Activities"
+      ],
+      "strategies": [
+        {
+          "name": "Compatibility Assessment and Deepening",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7556162542366565,
+          "priority": "critical",
+          "tactics": [
+            "Values exploration",
+            "Life goal alignment",
+            "Communication patterns",
+            "Conflict style matching"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Trust and Vulnerability Building",
+          "success_rate": 0.993,
+          "avg_improvement": 0.7080258607097203,
+          "priority": "critical",
+          "tactics": [
+            "Emotional sharing",
+            "Authenticity",
+            "Consistency",
+            "Boundary respect"
+          ],
+          "timeline": "12-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Communication Excellence Development",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7480462648443441,
+          "priority": "critical",
+          "tactics": [
+            "Active listening",
+            "Non-defensive dialogue",
+            "Needs articulation",
+            "Conflict resolution"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Relationship Intentionality",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7498706307976233,
+          "priority": "high",
+          "tactics": [
+            "Clear expectations",
+            "Future vision",
+            "DTR conversations",
+            "Pacing alignment"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Fun and Romance Cultivation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.79379080838758,
+          "priority": "high",
+          "tactics": [
+            "Novel experiences",
+            "Quality time",
+            "Physical affection",
+            "Playfulness"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Universal Relationship Quality Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8330098402962955,
+          "priority": "high",
+          "tactics": [
+            "Consistent effort",
+            "Quality time",
+            "Clear communication",
+            "Mutual respect",
+            "Adaptability"
+          ],
+          "timeline": "6-12 months",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 0.9988333333333334,
+      "white_paper": "whitepaper_relationship_casual_dating.tex"
+    },
+    "exclusive_dating": {
+      "name": "Exclusive Dating Relationship (Committed)",
+      "category": "Dating",
+      "subcategory": "Committed",
+      "characteristics": {
+        "attachment_strength": 0.7,
+        "communication_complexity": 0.7,
+        "independence_level": 0.65,
+        "conflict_potential": 0.45,
+        "growth_rate": 0.75,
+        "stability": 0.65,
+        "time_investment": 0.65
+      },
+      "success_examples": [
+        "Vulnerability Sharing",
+        "Meeting Families",
+        "Future Planning"
+      ],
+      "strategies": [
+        {
+          "name": "Compatibility Assessment and Deepening",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7925220634283457,
+          "priority": "critical",
+          "tactics": [
+            "Values exploration",
+            "Life goal alignment",
+            "Communication patterns",
+            "Conflict style matching"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Trust and Vulnerability Building",
+          "success_rate": 0.998,
+          "avg_improvement": 0.7516349820210757,
+          "priority": "critical",
+          "tactics": [
+            "Emotional sharing",
+            "Authenticity",
+            "Consistency",
+            "Boundary respect"
+          ],
+          "timeline": "12-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Communication Excellence Development",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8035866963714509,
+          "priority": "critical",
+          "tactics": [
+            "Active listening",
+            "Non-defensive dialogue",
+            "Needs articulation",
+            "Conflict resolution"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Relationship Intentionality",
+          "success_rate": 1.0,
+          "avg_improvement": 0.798737793433592,
+          "priority": "high",
+          "tactics": [
+            "Clear expectations",
+            "Future vision",
+            "DTR conversations",
+            "Pacing alignment"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Fun and Romance Cultivation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8355313953707021,
+          "priority": "high",
+          "tactics": [
+            "Novel experiences",
+            "Quality time",
+            "Physical affection",
+            "Playfulness"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Universal Relationship Quality Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8809419019703658,
+          "priority": "high",
+          "tactics": [
+            "Consistent effort",
+            "Quality time",
+            "Clear communication",
+            "Mutual respect",
+            "Adaptability"
+          ],
+          "timeline": "6-12 months",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 0.9996666666666667,
+      "white_paper": "whitepaper_relationship_exclusive_dating.tex"
+    },
+    "long_distance_dating": {
+      "name": "Long-Distance Dating Relationship",
+      "category": "Dating",
+      "subcategory": "Challenge-Based",
+      "characteristics": {
+        "attachment_strength": 0.65,
+        "communication_complexity": 0.8,
+        "independence_level": 0.75,
+        "conflict_potential": 0.55,
+        "growth_rate": 0.5,
+        "stability": 0.5,
+        "time_investment": 0.6
+      },
+      "success_examples": [
+        "Regular Video Calls",
+        "Visit Planning",
+        "End Date Clarity"
+      ],
+      "strategies": [
+        {
+          "name": "Compatibility Assessment and Deepening",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7600507224179007,
+          "priority": "critical",
+          "tactics": [
+            "Values exploration",
+            "Life goal alignment",
+            "Communication patterns",
+            "Conflict style matching"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Trust and Vulnerability Building",
+          "success_rate": 0.993,
+          "avg_improvement": 0.7207265292673112,
+          "priority": "critical",
+          "tactics": [
+            "Emotional sharing",
+            "Authenticity",
+            "Consistency",
+            "Boundary respect"
+          ],
+          "timeline": "12-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Communication Excellence Development",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7605016381614027,
+          "priority": "critical",
+          "tactics": [
+            "Active listening",
+            "Non-defensive dialogue",
+            "Needs articulation",
+            "Conflict resolution"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Relationship Intentionality",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7546848195249749,
+          "priority": "high",
+          "tactics": [
+            "Clear expectations",
+            "Future vision",
+            "DTR conversations",
+            "Pacing alignment"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Fun and Romance Cultivation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8015218727210462,
+          "priority": "high",
+          "tactics": [
+            "Novel experiences",
+            "Quality time",
+            "Physical affection",
+            "Playfulness"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Universal Relationship Quality Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8428775005896558,
+          "priority": "high",
+          "tactics": [
+            "Consistent effort",
+            "Quality time",
+            "Clear communication",
+            "Mutual respect",
+            "Adaptability"
+          ],
+          "timeline": "6-12 months",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 0.9988333333333334,
+      "white_paper": "whitepaper_relationship_long_distance_dating.tex"
+    },
+    "online_dating": {
+      "name": "Online/App-Based Dating Relationship",
+      "category": "Dating",
+      "subcategory": "Modern",
+      "characteristics": {
+        "attachment_strength": 0.35,
+        "communication_complexity": 0.6,
+        "independence_level": 0.9,
+        "conflict_potential": 0.4,
+        "growth_rate": 0.7,
+        "stability": 0.4,
+        "time_investment": 0.3
+      },
+      "success_examples": [
+        "Authentic Profiles",
+        "Safe Meeting Protocols",
+        "Video Pre-Dates"
+      ],
+      "strategies": [
+        {
+          "name": "Compatibility Assessment and Deepening",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7263588056642943,
+          "priority": "critical",
+          "tactics": [
+            "Values exploration",
+            "Life goal alignment",
+            "Communication patterns",
+            "Conflict style matching"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Trust and Vulnerability Building",
+          "success_rate": 0.986,
+          "avg_improvement": 0.6838395820406726,
+          "priority": "critical",
+          "tactics": [
+            "Emotional sharing",
+            "Authenticity",
+            "Consistency",
+            "Boundary respect"
+          ],
+          "timeline": "12-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Communication Excellence Development",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7299965348154258,
+          "priority": "critical",
+          "tactics": [
+            "Active listening",
+            "Non-defensive dialogue",
+            "Needs articulation",
+            "Conflict resolution"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Relationship Intentionality",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7305412181767587,
+          "priority": "high",
+          "tactics": [
+            "Clear expectations",
+            "Future vision",
+            "DTR conversations",
+            "Pacing alignment"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Fun and Romance Cultivation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7656919871686582,
+          "priority": "high",
+          "tactics": [
+            "Novel experiences",
+            "Quality time",
+            "Physical affection",
+            "Playfulness"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Universal Relationship Quality Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8084379634127034,
+          "priority": "high",
+          "tactics": [
+            "Consistent effort",
+            "Quality time",
+            "Clear communication",
+            "Mutual respect",
+            "Adaptability"
+          ],
+          "timeline": "6-12 months",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 0.9976666666666666,
+      "white_paper": "whitepaper_relationship_online_dating.tex"
+    },
+    "pre_engagement_dating": {
+      "name": "Pre-Engagement Dating (Serious Commitment)",
+      "category": "Dating",
+      "subcategory": "Transitional",
+      "characteristics": {
+        "attachment_strength": 0.85,
+        "communication_complexity": 0.85,
+        "independence_level": 0.55,
+        "conflict_potential": 0.5,
+        "growth_rate": 0.6,
+        "stability": 0.75,
+        "time_investment": 0.8
+      },
+      "success_examples": [
+        "Premarital Counseling",
+        "Financial Planning",
+        "Family Blending"
+      ],
+      "strategies": [
+        {
+          "name": "Compatibility Assessment and Deepening",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8252941671024278,
+          "priority": "critical",
+          "tactics": [
+            "Values exploration",
+            "Life goal alignment",
+            "Communication patterns",
+            "Conflict style matching"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Trust and Vulnerability Building",
+          "success_rate": 0.997,
+          "avg_improvement": 0.771180816900873,
+          "priority": "critical",
+          "tactics": [
+            "Emotional sharing",
+            "Authenticity",
+            "Consistency",
+            "Boundary respect"
+          ],
+          "timeline": "12-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Communication Excellence Development",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8246371843961148,
+          "priority": "critical",
+          "tactics": [
+            "Active listening",
+            "Non-defensive dialogue",
+            "Needs articulation",
+            "Conflict resolution"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Relationship Intentionality",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8276239698602124,
+          "priority": "high",
+          "tactics": [
+            "Clear expectations",
+            "Future vision",
+            "DTR conversations",
+            "Pacing alignment"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Fun and Romance Cultivation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.864371327557296,
+          "priority": "high",
+          "tactics": [
+            "Novel experiences",
+            "Quality time",
+            "Physical affection",
+            "Playfulness"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Universal Relationship Quality Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9007029051065011,
+          "priority": "high",
+          "tactics": [
+            "Consistent effort",
+            "Quality time",
+            "Clear communication",
+            "Mutual respect",
+            "Adaptability"
+          ],
+          "timeline": "6-12 months",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 0.9994999999999999,
+      "white_paper": "whitepaper_relationship_pre_engagement_dating.tex"
+    },
+    "second_chance_dating": {
+      "name": "Second Chance/Rekindled Dating Relationship",
+      "category": "Dating",
+      "subcategory": "Renewal",
+      "characteristics": {
+        "attachment_strength": 0.6,
+        "communication_complexity": 0.75,
+        "independence_level": 0.7,
+        "conflict_potential": 0.6,
+        "growth_rate": 0.55,
+        "stability": 0.55,
+        "time_investment": 0.65
+      },
+      "success_examples": [
+        "Therapy Supported",
+        "Clear Changes",
+        "New Boundaries"
+      ],
+      "strategies": [
+        {
+          "name": "Compatibility Assessment and Deepening",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7555977008369109,
+          "priority": "critical",
+          "tactics": [
+            "Values exploration",
+            "Life goal alignment",
+            "Communication patterns",
+            "Conflict style matching"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Trust and Vulnerability Building",
+          "success_rate": 0.997,
+          "avg_improvement": 0.7176027489478013,
+          "priority": "critical",
+          "tactics": [
+            "Emotional sharing",
+            "Authenticity",
+            "Consistency",
+            "Boundary respect"
+          ],
+          "timeline": "12-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Communication Excellence Development",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7597168968052419,
+          "priority": "critical",
+          "tactics": [
+            "Active listening",
+            "Non-defensive dialogue",
+            "Needs articulation",
+            "Conflict resolution"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Relationship Intentionality",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7486305283598117,
+          "priority": "high",
+          "tactics": [
+            "Clear expectations",
+            "Future vision",
+            "DTR conversations",
+            "Pacing alignment"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Fun and Romance Cultivation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7942525872025089,
+          "priority": "high",
+          "tactics": [
+            "Novel experiences",
+            "Quality time",
+            "Physical affection",
+            "Playfulness"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Universal Relationship Quality Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8307662678341385,
+          "priority": "high",
+          "tactics": [
+            "Consistent effort",
+            "Quality time",
+            "Clear communication",
+            "Mutual respect",
+            "Adaptability"
+          ],
+          "timeline": "6-12 months",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 0.9994999999999999,
+      "white_paper": "whitepaper_relationship_second_chance_dating.tex"
+    },
+    "newlywed_marriage": {
+      "name": "Newlywed Marriage (0-2 years)",
+      "category": "Marriage",
+      "subcategory": "Foundation Building",
+      "characteristics": {
+        "attachment_strength": 0.9,
+        "communication_complexity": 0.7,
+        "independence_level": 0.5,
+        "conflict_potential": 0.5,
+        "growth_rate": 0.85,
+        "stability": 0.7,
+        "time_investment": 0.85
+      },
+      "success_examples": [
+        "Weekly Date Nights",
+        "Financial Planning",
+        "Communication Rituals"
+      ],
+      "strategies": [
+        {
+          "name": "Emotional Intimacy Deepening",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8533463504683966,
+          "priority": "critical",
+          "tactics": [
+            "Vulnerability sharing",
+            "Daily check-ins",
+            "Emotional attunement",
+            "Appreciation"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Conflict Resolution Mastery",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8086644209751244,
+          "priority": "critical",
+          "tactics": [
+            "Fair fighting rules",
+            "Repair attempts",
+            "Compromise skills",
+            "Perspective-taking"
+          ],
+          "timeline": "12-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Partnership and Teamwork",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8538846631391537,
+          "priority": "high",
+          "tactics": [
+            "Shared goals",
+            "Labor division",
+            "Decision-making",
+            "Mutual support"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Romance and Intimacy Maintenance",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8607045326370572,
+          "priority": "high",
+          "tactics": [
+            "Date nights",
+            "Physical intimacy",
+            "Romantic gestures",
+            "Novelty"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Financial Harmony Achievement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8107520147815275,
+          "priority": "high",
+          "tactics": [
+            "Budget agreement",
+            "Goal alignment",
+            "Transparent communication",
+            "Conflict resolution"
+          ],
+          "timeline": "12-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Life Transition Navigation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8082267213305271,
+          "priority": "high",
+          "tactics": [
+            "Parenting alignment",
+            "Career changes",
+            "Empty nest",
+            "Retirement planning"
+          ],
+          "timeline": "12-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Universal Relationship Quality Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9372790714689532,
+          "priority": "high",
+          "tactics": [
+            "Consistent effort",
+            "Quality time",
+            "Clear communication",
+            "Mutual respect",
+            "Adaptability"
+          ],
+          "timeline": "6-12 months",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_relationship_newlywed_marriage.tex"
+    },
+    "established_marriage": {
+      "name": "Established Marriage (3-10 years)",
+      "category": "Marriage",
+      "subcategory": "Consolidation",
+      "characteristics": {
+        "attachment_strength": 0.85,
+        "communication_complexity": 0.75,
+        "independence_level": 0.55,
+        "conflict_potential": 0.55,
+        "growth_rate": 0.45,
+        "stability": 0.8,
+        "time_investment": 0.75
+      },
+      "success_examples": [
+        "Parenting Partnership",
+        "Career Support",
+        "Shared Goals"
+      ],
+      "strategies": [
+        {
+          "name": "Emotional Intimacy Deepening",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8586143470835954,
+          "priority": "critical",
+          "tactics": [
+            "Vulnerability sharing",
+            "Daily check-ins",
+            "Emotional attunement",
+            "Appreciation"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Conflict Resolution Mastery",
+          "success_rate": 0.999,
+          "avg_improvement": 0.8059792512732118,
+          "priority": "critical",
+          "tactics": [
+            "Fair fighting rules",
+            "Repair attempts",
+            "Compromise skills",
+            "Perspective-taking"
+          ],
+          "timeline": "12-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Partnership and Teamwork",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8440114129984925,
+          "priority": "high",
+          "tactics": [
+            "Shared goals",
+            "Labor division",
+            "Decision-making",
+            "Mutual support"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Romance and Intimacy Maintenance",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8474078228617334,
+          "priority": "high",
+          "tactics": [
+            "Date nights",
+            "Physical intimacy",
+            "Romantic gestures",
+            "Novelty"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Financial Harmony Achievement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8106769997886172,
+          "priority": "high",
+          "tactics": [
+            "Budget agreement",
+            "Goal alignment",
+            "Transparent communication",
+            "Conflict resolution"
+          ],
+          "timeline": "12-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Life Transition Navigation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8042290231870839,
+          "priority": "high",
+          "tactics": [
+            "Parenting alignment",
+            "Career changes",
+            "Empty nest",
+            "Retirement planning"
+          ],
+          "timeline": "12-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Universal Relationship Quality Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9299760910853806,
+          "priority": "high",
+          "tactics": [
+            "Consistent effort",
+            "Quality time",
+            "Clear communication",
+            "Mutual respect",
+            "Adaptability"
+          ],
+          "timeline": "6-12 months",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 0.9998571428571429,
+      "white_paper": "whitepaper_relationship_established_marriage.tex"
+    },
+    "midlife_marriage": {
+      "name": "Midlife Marriage (11-25 years)",
+      "category": "Marriage",
+      "subcategory": "Maturity",
+      "characteristics": {
+        "attachment_strength": 0.8,
+        "communication_complexity": 0.8,
+        "independence_level": 0.6,
+        "conflict_potential": 0.45,
+        "growth_rate": 0.25,
+        "stability": 0.85,
+        "time_investment": 0.7
+      },
+      "success_examples": [
+        "Reignited Romance",
+        "New Shared Hobbies",
+        "Travel Together"
+      ],
+      "strategies": [
+        {
+          "name": "Emotional Intimacy Deepening",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8650527419398807,
+          "priority": "critical",
+          "tactics": [
+            "Vulnerability sharing",
+            "Daily check-ins",
+            "Emotional attunement",
+            "Appreciation"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Conflict Resolution Mastery",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8202538518496253,
+          "priority": "critical",
+          "tactics": [
+            "Fair fighting rules",
+            "Repair attempts",
+            "Compromise skills",
+            "Perspective-taking"
+          ],
+          "timeline": "12-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Partnership and Teamwork",
+          "success_rate": 1.0,
+          "avg_improvement": 0.863022123770002,
+          "priority": "high",
+          "tactics": [
+            "Shared goals",
+            "Labor division",
+            "Decision-making",
+            "Mutual support"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Romance and Intimacy Maintenance",
+          "success_rate": 1.0,
+          "avg_improvement": 0.871204246325263,
+          "priority": "high",
+          "tactics": [
+            "Date nights",
+            "Physical intimacy",
+            "Romantic gestures",
+            "Novelty"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Financial Harmony Achievement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8188651747344899,
+          "priority": "high",
+          "tactics": [
+            "Budget agreement",
+            "Goal alignment",
+            "Transparent communication",
+            "Conflict resolution"
+          ],
+          "timeline": "12-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Life Transition Navigation",
+          "success_rate": 0.999,
+          "avg_improvement": 0.8115022662463489,
+          "priority": "high",
+          "tactics": [
+            "Parenting alignment",
+            "Career changes",
+            "Empty nest",
+            "Retirement planning"
+          ],
+          "timeline": "12-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Universal Relationship Quality Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9315808703277243,
+          "priority": "high",
+          "tactics": [
+            "Consistent effort",
+            "Quality time",
+            "Clear communication",
+            "Mutual respect",
+            "Adaptability"
+          ],
+          "timeline": "6-12 months",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 0.9998571428571428,
+      "white_paper": "whitepaper_relationship_midlife_marriage.tex"
+    },
+    "longterm_marriage": {
+      "name": "Long-Term Marriage (25+ years)",
+      "category": "Marriage",
+      "subcategory": "Legacy",
+      "characteristics": {
+        "attachment_strength": 0.85,
+        "communication_complexity": 0.7,
+        "independence_level": 0.65,
+        "conflict_potential": 0.35,
+        "growth_rate": 0.15,
+        "stability": 0.9,
+        "time_investment": 0.75
+      },
+      "success_examples": [
+        "Retirement Planning",
+        "Grandparent Team",
+        "Health Partnership"
+      ],
+      "strategies": [
+        {
+          "name": "Emotional Intimacy Deepening",
+          "success_rate": 1.0,
+          "avg_improvement": 0.882645652139508,
+          "priority": "critical",
+          "tactics": [
+            "Vulnerability sharing",
+            "Daily check-ins",
+            "Emotional attunement",
+            "Appreciation"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Conflict Resolution Mastery",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8455283130221617,
+          "priority": "critical",
+          "tactics": [
+            "Fair fighting rules",
+            "Repair attempts",
+            "Compromise skills",
+            "Perspective-taking"
+          ],
+          "timeline": "12-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Partnership and Teamwork",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8878701641055011,
+          "priority": "high",
+          "tactics": [
+            "Shared goals",
+            "Labor division",
+            "Decision-making",
+            "Mutual support"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Romance and Intimacy Maintenance",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8922407903459337,
+          "priority": "high",
+          "tactics": [
+            "Date nights",
+            "Physical intimacy",
+            "Romantic gestures",
+            "Novelty"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Financial Harmony Achievement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8459177695457804,
+          "priority": "high",
+          "tactics": [
+            "Budget agreement",
+            "Goal alignment",
+            "Transparent communication",
+            "Conflict resolution"
+          ],
+          "timeline": "12-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Life Transition Navigation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.835391637859336,
+          "priority": "high",
+          "tactics": [
+            "Parenting alignment",
+            "Career changes",
+            "Empty nest",
+            "Retirement planning"
+          ],
+          "timeline": "12-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Universal Relationship Quality Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9632158872244856,
+          "priority": "high",
+          "tactics": [
+            "Consistent effort",
+            "Quality time",
+            "Clear communication",
+            "Mutual respect",
+            "Adaptability"
+          ],
+          "timeline": "6-12 months",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_relationship_longterm_marriage.tex"
+    },
+    "remarriage": {
+      "name": "Remarriage/Blended Family Marriage",
+      "category": "Marriage",
+      "subcategory": "Reconstruction",
+      "characteristics": {
+        "attachment_strength": 0.75,
+        "communication_complexity": 0.85,
+        "independence_level": 0.6,
+        "conflict_potential": 0.65,
+        "growth_rate": 0.6,
+        "stability": 0.65,
+        "time_investment": 0.85
+      },
+      "success_examples": [
+        "Family Therapy",
+        "Clear Boundaries",
+        "Patience with Blending"
+      ],
+      "strategies": [
+        {
+          "name": "Emotional Intimacy Deepening",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8122314824670392,
+          "priority": "critical",
+          "tactics": [
+            "Vulnerability sharing",
+            "Daily check-ins",
+            "Emotional attunement",
+            "Appreciation"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Conflict Resolution Mastery",
+          "success_rate": 0.999,
+          "avg_improvement": 0.7714633991484595,
+          "priority": "critical",
+          "tactics": [
+            "Fair fighting rules",
+            "Repair attempts",
+            "Compromise skills",
+            "Perspective-taking"
+          ],
+          "timeline": "12-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Partnership and Teamwork",
+          "success_rate": 1.0,
+          "avg_improvement": 0.815831067663911,
+          "priority": "high",
+          "tactics": [
+            "Shared goals",
+            "Labor division",
+            "Decision-making",
+            "Mutual support"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Romance and Intimacy Maintenance",
+          "success_rate": 1.0,
+          "avg_improvement": 0.810290812397115,
+          "priority": "high",
+          "tactics": [
+            "Date nights",
+            "Physical intimacy",
+            "Romantic gestures",
+            "Novelty"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Financial Harmony Achievement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.779496678257766,
+          "priority": "high",
+          "tactics": [
+            "Budget agreement",
+            "Goal alignment",
+            "Transparent communication",
+            "Conflict resolution"
+          ],
+          "timeline": "12-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Life Transition Navigation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7700740452787646,
+          "priority": "high",
+          "tactics": [
+            "Parenting alignment",
+            "Career changes",
+            "Empty nest",
+            "Retirement planning"
+          ],
+          "timeline": "12-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Universal Relationship Quality Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8901591335376213,
+          "priority": "high",
+          "tactics": [
+            "Consistent effort",
+            "Quality time",
+            "Clear communication",
+            "Mutual respect",
+            "Adaptability"
+          ],
+          "timeline": "6-12 months",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 0.9998571428571429,
+      "white_paper": "whitepaper_relationship_remarriage.tex"
+    },
+    "childhood_friendship": {
+      "name": "Childhood Friendship (5-12 years)",
+      "category": "Friendship",
+      "subcategory": "Developmental",
+      "characteristics": {
+        "attachment_strength": 0.75,
+        "communication_complexity": 0.5,
+        "independence_level": 0.4,
+        "conflict_potential": 0.5,
+        "growth_rate": 0.8,
+        "stability": 0.6,
+        "time_investment": 0.7
+      },
+      "success_examples": [
+        "Playground Bonds",
+        "Shared Activities",
+        "Neighborhood Friends"
+      ],
+      "strategies": [
+        {
+          "name": "Intentional Connection Maintenance",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8090727064424105,
+          "priority": "high",
+          "tactics": [
+            "Regular contact",
+            "Quality time",
+            "Effort investment",
+            "Priority setting"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Authentic Vulnerability and Trust",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8142359287290672,
+          "priority": "critical",
+          "tactics": [
+            "Deep sharing",
+            "Support exchange",
+            "Judgment-free space",
+            "Reciprocity"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Conflict Navigation and Repair",
+          "success_rate": 1.0,
+          "avg_improvement": 0.763226187386118,
+          "priority": "high",
+          "tactics": [
+            "Direct communication",
+            "Forgiveness",
+            "Boundary respect",
+            "Pattern breaking"
+          ],
+          "timeline": "12-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Life Stage Adaptation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8139158502962144,
+          "priority": "high",
+          "tactics": [
+            "Flexibility",
+            "Changing needs",
+            "Distance management",
+            "New formats"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Universal Relationship Quality Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8934476122432329,
+          "priority": "high",
+          "tactics": [
+            "Consistent effort",
+            "Quality time",
+            "Clear communication",
+            "Mutual respect",
+            "Adaptability"
+          ],
+          "timeline": "6-12 months",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_relationship_childhood_friendship.tex"
+    },
+    "teen_friendship": {
+      "name": "Adolescent Friendship (13-18 years)",
+      "category": "Friendship",
+      "subcategory": "Identity Formation",
+      "characteristics": {
+        "attachment_strength": 0.85,
+        "communication_complexity": 0.75,
+        "independence_level": 0.65,
+        "conflict_potential": 0.6,
+        "growth_rate": 0.7,
+        "stability": 0.55,
+        "time_investment": 0.8
+      },
+      "success_examples": [
+        "Best Friend Bonds",
+        "School Friend Groups",
+        "Shared Identity"
+      ],
+      "strategies": [
+        {
+          "name": "Intentional Connection Maintenance",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8131994088011434,
+          "priority": "high",
+          "tactics": [
+            "Regular contact",
+            "Quality time",
+            "Effort investment",
+            "Priority setting"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Authentic Vulnerability and Trust",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8092296467639658,
+          "priority": "critical",
+          "tactics": [
+            "Deep sharing",
+            "Support exchange",
+            "Judgment-free space",
+            "Reciprocity"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Conflict Navigation and Repair",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7768273066351544,
+          "priority": "high",
+          "tactics": [
+            "Direct communication",
+            "Forgiveness",
+            "Boundary respect",
+            "Pattern breaking"
+          ],
+          "timeline": "12-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Life Stage Adaptation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8139917172743512,
+          "priority": "high",
+          "tactics": [
+            "Flexibility",
+            "Changing needs",
+            "Distance management",
+            "New formats"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Universal Relationship Quality Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.889737641132275,
+          "priority": "high",
+          "tactics": [
+            "Consistent effort",
+            "Quality time",
+            "Clear communication",
+            "Mutual respect",
+            "Adaptability"
+          ],
+          "timeline": "6-12 months",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_relationship_teen_friendship.tex"
+    },
+    "college_friendship": {
+      "name": "College/Young Adult Friendship (18-25 years)",
+      "category": "Friendship",
+      "subcategory": "Independence",
+      "characteristics": {
+        "attachment_strength": 0.8,
+        "communication_complexity": 0.8,
+        "independence_level": 0.75,
+        "conflict_potential": 0.45,
+        "growth_rate": 0.65,
+        "stability": 0.65,
+        "time_investment": 0.7
+      },
+      "success_examples": [
+        "Roommate Bonds",
+        "Study Groups",
+        "Social Networks"
+      ],
+      "strategies": [
+        {
+          "name": "Intentional Connection Maintenance",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8319126498058904,
+          "priority": "high",
+          "tactics": [
+            "Regular contact",
+            "Quality time",
+            "Effort investment",
+            "Priority setting"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Authentic Vulnerability and Trust",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8309120441471505,
+          "priority": "critical",
+          "tactics": [
+            "Deep sharing",
+            "Support exchange",
+            "Judgment-free space",
+            "Reciprocity"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Conflict Navigation and Repair",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7965954045533117,
+          "priority": "high",
+          "tactics": [
+            "Direct communication",
+            "Forgiveness",
+            "Boundary respect",
+            "Pattern breaking"
+          ],
+          "timeline": "12-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Life Stage Adaptation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.828835926643164,
+          "priority": "high",
+          "tactics": [
+            "Flexibility",
+            "Changing needs",
+            "Distance management",
+            "New formats"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Universal Relationship Quality Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9146527650696887,
+          "priority": "high",
+          "tactics": [
+            "Consistent effort",
+            "Quality time",
+            "Clear communication",
+            "Mutual respect",
+            "Adaptability"
+          ],
+          "timeline": "6-12 months",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_relationship_college_friendship.tex"
+    },
+    "adult_friendship": {
+      "name": "Adult Friendship (25-60 years)",
+      "category": "Friendship",
+      "subcategory": "Mature",
+      "characteristics": {
+        "attachment_strength": 0.7,
+        "communication_complexity": 0.75,
+        "independence_level": 0.8,
+        "conflict_potential": 0.35,
+        "growth_rate": 0.3,
+        "stability": 0.75,
+        "time_investment": 0.5
+      },
+      "success_examples": [
+        "Work Friends",
+        "Parent Friends",
+        "Interest-Based Groups"
+      ],
+      "strategies": [
+        {
+          "name": "Intentional Connection Maintenance",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8389856240310576,
+          "priority": "high",
+          "tactics": [
+            "Regular contact",
+            "Quality time",
+            "Effort investment",
+            "Priority setting"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Authentic Vulnerability and Trust",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8377916536307459,
+          "priority": "critical",
+          "tactics": [
+            "Deep sharing",
+            "Support exchange",
+            "Judgment-free space",
+            "Reciprocity"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Conflict Navigation and Repair",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7938834601596632,
+          "priority": "high",
+          "tactics": [
+            "Direct communication",
+            "Forgiveness",
+            "Boundary respect",
+            "Pattern breaking"
+          ],
+          "timeline": "12-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Life Stage Adaptation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8243129055315237,
+          "priority": "high",
+          "tactics": [
+            "Flexibility",
+            "Changing needs",
+            "Distance management",
+            "New formats"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Universal Relationship Quality Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9128489810157352,
+          "priority": "high",
+          "tactics": [
+            "Consistent effort",
+            "Quality time",
+            "Clear communication",
+            "Mutual respect",
+            "Adaptability"
+          ],
+          "timeline": "6-12 months",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_relationship_adult_friendship.tex"
+    },
+    "lifelong_friendship": {
+      "name": "Lifelong Friendship (20+ years)",
+      "category": "Friendship",
+      "subcategory": "Legacy",
+      "characteristics": {
+        "attachment_strength": 0.85,
+        "communication_complexity": 0.7,
+        "independence_level": 0.75,
+        "conflict_potential": 0.25,
+        "growth_rate": 0.15,
+        "stability": 0.9,
+        "time_investment": 0.45
+      },
+      "success_examples": [
+        "Childhood Best Friends",
+        "Military Bonds",
+        "College Roommates"
+      ],
+      "strategies": [
+        {
+          "name": "Intentional Connection Maintenance",
+          "success_rate": 1.0,
+          "avg_improvement": 0.887179981345462,
+          "priority": "high",
+          "tactics": [
+            "Regular contact",
+            "Quality time",
+            "Effort investment",
+            "Priority setting"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Authentic Vulnerability and Trust",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8834734425727092,
+          "priority": "critical",
+          "tactics": [
+            "Deep sharing",
+            "Support exchange",
+            "Judgment-free space",
+            "Reciprocity"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Conflict Navigation and Repair",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8368432570046803,
+          "priority": "high",
+          "tactics": [
+            "Direct communication",
+            "Forgiveness",
+            "Boundary respect",
+            "Pattern breaking"
+          ],
+          "timeline": "12-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Life Stage Adaptation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8905206212548263,
+          "priority": "high",
+          "tactics": [
+            "Flexibility",
+            "Changing needs",
+            "Distance management",
+            "New formats"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Universal Relationship Quality Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9698371415662033,
+          "priority": "high",
+          "tactics": [
+            "Consistent effort",
+            "Quality time",
+            "Clear communication",
+            "Mutual respect",
+            "Adaptability"
+          ],
+          "timeline": "6-12 months",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_relationship_lifelong_friendship.tex"
+    },
+    "peer_colleague": {
+      "name": "Peer Colleague Relationship",
+      "category": "Professional",
+      "subcategory": "Horizontal",
+      "characteristics": {
+        "attachment_strength": 0.55,
+        "communication_complexity": 0.7,
+        "independence_level": 0.75,
+        "conflict_potential": 0.5,
+        "growth_rate": 0.4,
+        "stability": 0.65,
+        "time_investment": 0.6
+      },
+      "success_examples": [
+        "Project Teams",
+        "Department Peers",
+        "Cross-Functional Partners"
+      ],
+      "strategies": [
+        {
+          "name": "Trust and Psychological Safety",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7400332669373428,
+          "priority": "high",
+          "tactics": [
+            "Vulnerability",
+            "Reliability",
+            "Competence",
+            "Integrity"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Communication Effectiveness",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7868558025745638,
+          "priority": "high",
+          "tactics": [
+            "Clarity",
+            "Listening",
+            "Feedback exchange",
+            "Conflict resolution"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Collaboration and Teamwork",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7481980656842953,
+          "priority": "high",
+          "tactics": [
+            "Goal alignment",
+            "Skill complementarity",
+            "Support",
+            "Shared success"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Professional Boundary Management",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7856315096130103,
+          "priority": "high",
+          "tactics": [
+            "Role clarity",
+            "Appropriate disclosure",
+            "Work-life separation",
+            "Respect"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Universal Relationship Quality Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8263414968291959,
+          "priority": "high",
+          "tactics": [
+            "Consistent effort",
+            "Quality time",
+            "Clear communication",
+            "Mutual respect",
+            "Adaptability"
+          ],
+          "timeline": "6-12 months",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_relationship_peer_colleague.tex"
+    },
+    "mentor_mentee": {
+      "name": "Mentor-Mentee Relationship",
+      "category": "Professional",
+      "subcategory": "Developmental",
+      "characteristics": {
+        "attachment_strength": 0.7,
+        "communication_complexity": 0.8,
+        "independence_level": 0.6,
+        "conflict_potential": 0.3,
+        "growth_rate": 0.75,
+        "stability": 0.7,
+        "time_investment": 0.55
+      },
+      "success_examples": [
+        "Formal Programs",
+        "Informal Guidance",
+        "Sponsorship"
+      ],
+      "strategies": [
+        {
+          "name": "Trust and Psychological Safety",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8002767107475727,
+          "priority": "high",
+          "tactics": [
+            "Vulnerability",
+            "Reliability",
+            "Competence",
+            "Integrity"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Communication Effectiveness",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8389225456644808,
+          "priority": "high",
+          "tactics": [
+            "Clarity",
+            "Listening",
+            "Feedback exchange",
+            "Conflict resolution"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Collaboration and Teamwork",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8022520259272122,
+          "priority": "high",
+          "tactics": [
+            "Goal alignment",
+            "Skill complementarity",
+            "Support",
+            "Shared success"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Professional Boundary Management",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8287924570585953,
+          "priority": "high",
+          "tactics": [
+            "Role clarity",
+            "Appropriate disclosure",
+            "Work-life separation",
+            "Respect"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Universal Relationship Quality Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8760858508917192,
+          "priority": "high",
+          "tactics": [
+            "Consistent effort",
+            "Quality time",
+            "Clear communication",
+            "Mutual respect",
+            "Adaptability"
+          ],
+          "timeline": "6-12 months",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_relationship_mentor_mentee.tex"
+    },
+    "manager_employee": {
+      "name": "Manager-Direct Report Relationship",
+      "category": "Leadership",
+      "subcategory": "Hierarchical",
+      "characteristics": {
+        "attachment_strength": 0.6,
+        "communication_complexity": 0.75,
+        "independence_level": 0.55,
+        "conflict_potential": 0.55,
+        "growth_rate": 0.5,
+        "stability": 0.6,
+        "time_investment": 0.7
+      },
+      "success_examples": [
+        "Servant Leadership",
+        "Coaching Management",
+        "Empowerment"
+      ],
+      "strategies": [
+        {
+          "name": "Trust and Credibility Building",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7626624901081676,
+          "priority": "critical",
+          "tactics": [
+            "Integrity",
+            "Consistency",
+            "Competence",
+            "Transparency"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Vision and Alignment Creation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7604608734473239,
+          "priority": "high",
+          "tactics": [
+            "Clear direction",
+            "Meaning-making",
+            "Strategic communication",
+            "Buy-in"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Development and Empowerment",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8037201334097235,
+          "priority": "high",
+          "tactics": [
+            "Coaching",
+            "Delegation",
+            "Growth opportunities",
+            "Autonomy"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Feedback and Performance Management",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7253242599821013,
+          "priority": "high",
+          "tactics": [
+            "Regular feedback",
+            "Recognition",
+            "Accountability",
+            "Development focus"
+          ],
+          "timeline": "12-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Universal Relationship Quality Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8458511834384247,
+          "priority": "high",
+          "tactics": [
+            "Consistent effort",
+            "Quality time",
+            "Clear communication",
+            "Mutual respect",
+            "Adaptability"
+          ],
+          "timeline": "6-12 months",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_relationship_manager_employee.tex"
+    },
+    "executive_leadership": {
+      "name": "Executive Leadership Team Relationship",
+      "category": "Leadership",
+      "subcategory": "Strategic",
+      "characteristics": {
+        "attachment_strength": 0.65,
+        "communication_complexity": 0.9,
+        "independence_level": 0.7,
+        "conflict_potential": 0.6,
+        "growth_rate": 0.35,
+        "stability": 0.7,
+        "time_investment": 0.75
+      },
+      "success_examples": [
+        "High-Performing C-Suite",
+        "Board Excellence",
+        "Strategic Unity"
+      ],
+      "strategies": [
+        {
+          "name": "Trust and Credibility Building",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7799426480821442,
+          "priority": "critical",
+          "tactics": [
+            "Integrity",
+            "Consistency",
+            "Competence",
+            "Transparency"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Vision and Alignment Creation",
+          "success_rate": 1.0,
+          "avg_improvement": 0.773028732162611,
+          "priority": "high",
+          "tactics": [
+            "Clear direction",
+            "Meaning-making",
+            "Strategic communication",
+            "Buy-in"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Development and Empowerment",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8158500289129318,
+          "priority": "high",
+          "tactics": [
+            "Coaching",
+            "Delegation",
+            "Growth opportunities",
+            "Autonomy"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Feedback and Performance Management",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7308628176712707,
+          "priority": "high",
+          "tactics": [
+            "Regular feedback",
+            "Recognition",
+            "Accountability",
+            "Development focus"
+          ],
+          "timeline": "12-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Universal Relationship Quality Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8524912499729562,
+          "priority": "high",
+          "tactics": [
+            "Consistent effort",
+            "Quality time",
+            "Clear communication",
+            "Mutual respect",
+            "Adaptability"
+          ],
+          "timeline": "6-12 months",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_relationship_executive_leadership.tex"
+    },
+    "sibling_childhood": {
+      "name": "Sibling Relationship (Childhood)",
+      "category": "Family",
+      "subcategory": "Sibling",
+      "characteristics": {
+        "attachment_strength": 0.75,
+        "communication_complexity": 0.55,
+        "independence_level": 0.4,
+        "conflict_potential": 0.7,
+        "growth_rate": 0.7,
+        "stability": 0.8,
+        "time_investment": 0.85
+      },
+      "success_examples": [
+        "Positive Rivalry",
+        "Protective Bonds",
+        "Shared Play"
+      ],
+      "strategies": [
+        {
+          "name": "Acceptance and Understanding",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8741456810869126,
+          "priority": "high",
+          "tactics": [
+            "Non-judgment",
+            "Empathy",
+            "Respect for differences",
+            "Unconditional love"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Connection and Tradition Maintenance",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8276930906500501,
+          "priority": "high",
+          "tactics": [
+            "Regular gatherings",
+            "Rituals",
+            "Communication",
+            "Effort"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Support Network Strengthening",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8690572619847082,
+          "priority": "high",
+          "tactics": [
+            "Mutual aid",
+            "Crisis support",
+            "Availability",
+            "Reciprocity"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Conflict Resolution and Forgiveness",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7892722103798611,
+          "priority": "high",
+          "tactics": [
+            "Direct communication",
+            "Mediation",
+            "Forgiveness",
+            "Boundary setting"
+          ],
+          "timeline": "12-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Universal Relationship Quality Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9164177492659967,
+          "priority": "high",
+          "tactics": [
+            "Consistent effort",
+            "Quality time",
+            "Clear communication",
+            "Mutual respect",
+            "Adaptability"
+          ],
+          "timeline": "6-12 months",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_relationship_sibling_childhood.tex"
+    },
+    "sibling_adult": {
+      "name": "Sibling Relationship (Adulthood)",
+      "category": "Family",
+      "subcategory": "Sibling",
+      "characteristics": {
+        "attachment_strength": 0.7,
+        "communication_complexity": 0.7,
+        "independence_level": 0.85,
+        "conflict_potential": 0.45,
+        "growth_rate": 0.25,
+        "stability": 0.75,
+        "time_investment": 0.4
+      },
+      "success_examples": [
+        "Best Friend Siblings",
+        "Supportive Distance",
+        "Family Caretaking"
+      ],
+      "strategies": [
+        {
+          "name": "Acceptance and Understanding",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8795932176099613,
+          "priority": "high",
+          "tactics": [
+            "Non-judgment",
+            "Empathy",
+            "Respect for differences",
+            "Unconditional love"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Connection and Tradition Maintenance",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8458380428252008,
+          "priority": "high",
+          "tactics": [
+            "Regular gatherings",
+            "Rituals",
+            "Communication",
+            "Effort"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Support Network Strengthening",
+          "success_rate": 1.0,
+          "avg_improvement": 0.893583613824501,
+          "priority": "high",
+          "tactics": [
+            "Mutual aid",
+            "Crisis support",
+            "Availability",
+            "Reciprocity"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Conflict Resolution and Forgiveness",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8079739787883907,
+          "priority": "high",
+          "tactics": [
+            "Direct communication",
+            "Mediation",
+            "Forgiveness",
+            "Boundary setting"
+          ],
+          "timeline": "12-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Universal Relationship Quality Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9246519723926606,
+          "priority": "high",
+          "tactics": [
+            "Consistent effort",
+            "Quality time",
+            "Clear communication",
+            "Mutual respect",
+            "Adaptability"
+          ],
+          "timeline": "6-12 months",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_relationship_sibling_adult.tex"
+    },
+    "extended_family": {
+      "name": "Extended Family Relationship (Aunts, Uncles, Cousins)",
+      "category": "Family",
+      "subcategory": "Extended",
+      "characteristics": {
+        "attachment_strength": 0.6,
+        "communication_complexity": 0.6,
+        "independence_level": 0.8,
+        "conflict_potential": 0.4,
+        "growth_rate": 0.2,
+        "stability": 0.7,
+        "time_investment": 0.3
+      },
+      "success_examples": [
+        "Family Reunions",
+        "Holiday Traditions",
+        "Support Network"
+      ],
+      "strategies": [
+        {
+          "name": "Acceptance and Understanding",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8828656511854595,
+          "priority": "high",
+          "tactics": [
+            "Non-judgment",
+            "Empathy",
+            "Respect for differences",
+            "Unconditional love"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Connection and Tradition Maintenance",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8203476261446423,
+          "priority": "high",
+          "tactics": [
+            "Regular gatherings",
+            "Rituals",
+            "Communication",
+            "Effort"
+          ],
+          "timeline": "6-18 months",
+          "risk": "medium"
+        },
+        {
+          "name": "Support Network Strengthening",
+          "success_rate": 1.0,
+          "avg_improvement": 0.8753563363677594,
+          "priority": "high",
+          "tactics": [
+            "Mutual aid",
+            "Crisis support",
+            "Availability",
+            "Reciprocity"
+          ],
+          "timeline": "6-18 months",
+          "risk": "low"
+        },
+        {
+          "name": "Conflict Resolution and Forgiveness",
+          "success_rate": 1.0,
+          "avg_improvement": 0.7906554414971215,
+          "priority": "high",
+          "tactics": [
+            "Direct communication",
+            "Mediation",
+            "Forgiveness",
+            "Boundary setting"
+          ],
+          "timeline": "12-24 months",
+          "risk": "high"
+        },
+        {
+          "name": "Universal Relationship Quality Enhancement",
+          "success_rate": 1.0,
+          "avg_improvement": 0.9113903915656765,
+          "priority": "high",
+          "tactics": [
+            "Consistent effort",
+            "Quality time",
+            "Clear communication",
+            "Mutual respect",
+            "Adaptability"
+          ],
+          "timeline": "6-12 months",
+          "risk": "low"
+        }
+      ],
+      "overall_success": 1.0,
+      "white_paper": "whitepaper_relationship_extended_family.tex"
+    }
+  },
+  "insights": {
+    "highest_success_relationship_type": [
+      "parent_infant",
+      1.0
+    ],
+    "best_performing_category": "Parentage",
+    "total_high_success_strategies": 187
+  }
+}
